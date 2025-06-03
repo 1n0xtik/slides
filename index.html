@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trình chiếu Câu hỏi Hội thi</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="slideContainer" class="slide-container relative overflow-hidden flex flex-col"> <!-- Removed gradient-bg -->
+        <!-- Floating particles background -->
+        <div class="floating-particles">
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+            <div class="particle"></div>
+        </div>
+
+        <!-- Floating safety icons (optional, can be added if desired from Test1.html) -->
+        <!-- <div class="floating-icon icon-1"><i class="fas fa-hard-hat"></i></div> -->
+        <!-- ... more icons ... -->
+
+        <div class="content-layer"> <!-- Added content-layer wrapper -->
+            <!-- New Header from Test1.html -->
+            <header class="header">
+                <div class="contest-info">
+                    <h1>Hội thi ATVSV giỏi 2025</h1>
+                    <p>Công ty Công nghiệp Hóa chất mỏ Thái Nguyên</p>
+                </div>
+                
+                <div class="question-header">
+                    <div class="question-number">
+                        <i class="fas fa-question-circle mr-2"></i>
+                        Câu <span id="newQuestionNumber"></span> <!-- Updated ID -->
+                    </div>
+                    <div class="category-badge">
+                        <i class="fas fa-gavel mr-2"></i>
+                        <span id="newQuestionCategory"></span> <!-- Updated ID -->
+                    </div>
+                    <div class="timer-circle"> <!-- New Timer Structure -->
+                        <svg class="timer-svg">
+                            <circle class="timer-circle-bg" cx="50%" cy="50%" r="45%"></circle>
+                            <circle class="timer-circle-progress" id="timerProgress" cx="50%" cy="50%" r="45%"></circle> <!-- Updated ID -->
+                        </svg>
+                        <div class="timer-text" id="timer">30</div> <!-- Updated ID -->
+                    </div>
+                </div>
+            </header>
+
+        <!-- Main Content Area (Question/Options & Image) - Structure remains the same -->
+        <div class="px-8 py-4 flex-grow flex overflow-hidden">
+            <!-- Left Column: Question and Options -->
+            <div id="questionOptionsArea" class="w-3/5 pr-6 flex flex-col overflow-y-auto">
+            <div id="questionSection" class="bg-white bg-opacity-95 rounded-xl p-6 mb-6">
+                <div class="flex items-start space-x-4">
+                <div id="questionIconContainer" class="bg-blue-600 text-white rounded-full p-3 pulse-icon">
+                    <i class="fas fa-question text-2xl"></i>
+                </div>
+                <div class="flex-1">
+                    <h2 id="questionTextContent" class="text-2xl font-bold text-gray-800 mb-2">
+                    <!-- Question text will be injected here -->
+                    </h2>
+                </div>
+                </div>
+            </div>
+
+            <!-- Options -->
+            <div id="optionsContainer" class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+                <!-- Options will be injected here -->
+            </div>
+            </div>
+
+            <!-- Right Column: Image -->
+            <div id="imageArea" class="w-2/5 flex items-stretch justify-start relative"> <!-- Removed pl-6, items-center changed to items-stretch -->
+            <div id="imageWrapper" class="absolute inset-y-0 right-0 w-[calc(100%+3rem)] custom-image-shape overflow-hidden shadow-xl"> <!-- Added custom-image-shape, adjusted classes for bleed -->
+                <img id="slideImage" src="" alt="Hình ảnh minh họa" class="block w-full h-full object-cover"> <!-- Back to object-cover -->
+            </div>
+            </div>
+        </div>
+
+        <!-- New Footer from Test1.html -->
+        <footer class="footer">
+            <div class="footer-left">
+                <!-- Dynamic round information will be injected here by JS -->
+                <div id="roundInfoDisplay">
+                    <!-- Example structure:
+                    <h3><i class="fas fa-trophy mr-2"></i>Vòng 1: Chính sách pháp luật, PCCC và Y tế</h3>
+                    <p>Thời gian trả lời: 30 giây/câu | Thang điểm: 10 điểm</p>
+                    -->
+                </div>
+            </div>
+            
+            <div class="footer-controls flex items-center space-x-3"> <!-- Added items-center for vertical alignment -->
+                <!-- Progress/status text moved here -->
+                <div id="progressText" class="text-white font-semibold text-xl mx-4"> <!-- Added mx-4 for spacing -->
+                    <!-- Progress/status text will be updated by JS -->
+                </div>
+                <button id="startSequenceBtn" class="bg-purple-600 hover:bg-purple-700 text-white px-4 py-3 rounded-lg font-semibold transition-all text-xl">
+                    <i class="fas fa-play"></i> Bắt đầu
+                </button>
+                <button id="showAnswerBtn" class="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-all" style="display: none;">
+                    <i class="fas fa-lightbulb mr-2"></i>Đáp án
+                </button>
+            </div>
+
+            <div class="footer-right">
+                <div class="date">
+                    <i class="fas fa-calendar-alt mr-2"></i>
+                    25/06/2025 <!-- Placeholder, can be dynamic if needed -->
+                </div>
+                <div class="location">
+                    <i class="fas fa-map-marker-alt mr-2"></i>
+                    Hội trường tầng 5 - Văn phòng Công ty <!-- Placeholder -->
+                </div>
+            </div>
+            
+            <div class="progress-bar" id="footerProgressBar"></div> <!-- Added ID for JS control -->
+        </footer>
+        </div> <!-- Closing content-layer -->
+
+        <!-- New Time's Up Overlay (replaces old timesUpPopup) -->
+        <div id="timeUpOverlay" class="time-up-overlay" style="display: none;"> <!-- ID for JS -->
+            <div class="time-up-content">
+                <i class="fas fa-clock mr-3"></i>HẾT GIỜ!
+                <div class="subtitle">
+                    Các đội vui lòng giơ bảng đáp án
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

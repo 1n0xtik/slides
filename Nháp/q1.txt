@@ -1,0 +1,19 @@
+CSPL_TN_1: Anh/Chị hãy cho biết An toàn vệ sinh viên có bao nhiêu quyền lợi và nghĩa vụ?
+A: 4 quyền và 5 nghĩa vụ.
+B: 5 quyền và 4 nghĩa vụ.
+C: 3 quyền và 5 nghĩa vụ.
+D: 4 quyền và 6 nghĩa vụ.
+Đáp án đúng: a
+
+CSPL_TN_2: Anh/Chị hãy cho biết nội dung hoạt động hàng ngày trước ca làm việc của mạng lưới An toàn vệ sinh viên?
+A: Kiểm tra điều kiện môi trường làm việc.
+B: Nhắc nhở người lao động trong tổ sử dụng đầy đủ phương tiện bảo vệ cá nhân.
+C: Cả 2 nội dung trên.
+Đáp án đúng: c
+
+CSPL_TN_3: Anh/Chị hãy cho biết hoạt động của mạng lưới an toàn vệ sinh viên nhằm?
+A: Giúp Ban chấp hành công đoàn cơ sở thực hiện tốt công tác ATVSLĐ.
+B: Giúp người sử dụng lao động thực hiện tốt công tác ATVSLĐ.
+C: Đẩy mạnh phong trào "Xanh -Sạch- Đẹp, Bảo đảm ATVSLĐ" tại doanh nghiệp.
+D: Cả 3 câu đều đúng.
+Đáp án đúng: d

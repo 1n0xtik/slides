@@ -1,0 +1,779 @@
+/* General Styles */
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f4f8; /* A light fallback background */
+}
+
+.slide-container {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    /* background: linear-gradient(135deg, #FFCA55 0%, #F29F05 50%, #F25C05 100%); */ /* Base background from Test1.html will be applied here */
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+}
+
+/* .theme-cspl { background: linear-gradient(135deg, #064e3b 0%, #10b981 50%, #a7f3d0 100%); } */
+.theme-cspl #questionNumber { background-color: #047857; } /* Keep specific element styling if needed */
+.theme-cspl #questionIconContainer { background-color: #047857; }
+
+
+/* .theme-pccc { background: linear-gradient(135deg, #991b1b 0%, #ef4444 50%, #fecaca 100%); } */
+.theme-pccc #questionNumber { background-color: #b91c1c; }
+.theme-pccc #questionIconContainer { background-color: #b91c1c; }
+
+/* .theme-yte { background: linear-gradient(135deg, #5b21b6 0%, #a855f7 50%, #e9d5ff 100%); } */
+.theme-yte #questionNumber { background-color: #7e22ce; }
+.theme-yte #questionIconContainer { background-color: #7e22ce; }
+
+
+/* .theme-ktm { background: linear-gradient(135deg, #78350f 0%, #d97706 50%, #fde68a 100%); } */
+.theme-ktm #questionNumber { background-color: #b45309; }
+.theme-ktm #questionIconContainer { background-color: #b45309; }
+
+/* .theme-bq-bx-vc { background: linear-gradient(135deg, #1e40af 0%, #3b82f6 50%, #bfdbfe 100%); } */
+.theme-bq-bx-vc #questionNumber { background-color: #1d4ed8; }
+.theme-bq-bx-vc #questionIconContainer { background-color: #1d4ed8; }
+
+
+.question-appear {
+    animation: questionSlideIn 1s ease-out forwards;
+}
+
+.option-appear {
+    animation: optionSlideIn 0.7s ease-out forwards;
+}
+
+.image-appear {
+    animation: imageFadeIn 1.2s ease-out forwards;
+}
+
+@keyframes questionSlideIn {
+    0% { opacity: 0; transform: translateY(-20px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes optionSlideIn {
+    0% { opacity: 0; transform: translateX(-30px); }
+    100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes imageFadeIn {
+    0% { opacity: 0; transform: scale(0.95); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+.option-card {
+    transition: all 0.3s ease;
+    cursor: pointer;
+    display: flex; 
+    align-items: center;
+}
+.option-card:hover {
+    transform: translateX(8px) scale(1.02);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.option-char-default { background-color: #6b7280; } /* Default, can be themed */
+.option-char-a { background-color: #ef4444; } /* Red */
+.option-char-b { background-color: #3b82f6; } /* Blue */
+.option-char-c { background-color: #10b981; } /* Green */
+.option-char-d { background-color: #f59e0b; } /* Amber */
+.option-char-e { background-color: #6366f1; } /* Indigo */
+.option-char-g { background-color: #8b5cf6; } /* Violet */
+
+/* Styles for the option character (A, B, C, D) to ensure it's always a circle */
+.option-char {
+    display: inline-flex; /* Allows it to sit nicely next to the option text */
+    align-items: center;  /* Vertically centers the letter (e.g., A, B) inside the circle */
+    justify-content: center; /* Horizontally centers the letter inside the circle */
+    width: 2rem;          /* Fixed width for the circle (e.g., 32px if 1rem = 16px) */
+    height: 2rem;         /* Fixed height, must be equal to width for a perfect circle */
+    border-radius: 50%;   /* This makes the element circular */
+    color: white;         /* Text color for the character (A, B, C, D) */
+    font-weight: 600;     /* Makes the character font semi-bold */
+    flex-shrink: 0;       /* IMPORTANT: Prevents the circle from shrinking or deforming when option text is long or wraps */
+    margin-right: 0.75rem; /* Adds some space between the circle and the option text (Tailwind's mr-3) */
+    /* Background color for the circle itself is typically applied by specific classes like .option-char-a, .option-char-b, etc. */
+}
+
+/* Correct Answer Styling (from original style.css, keep for main content) */
+.correct-answer {
+    animation: correctAnswerPulse 1.5s ease-in-out infinite alternate;
+    background: linear-gradient(45deg, #10b981, #34d399) !important;
+    color: white !important;
+    border: 3px solid #fbbf24 !important;
+    border-left: 6px solid #fbbf24 !important;
+    box-shadow: 0 0 25px rgba(16, 185, 129, 0.5) !important;
+    transform: scale(1.02);
+    position: relative;
+    z-index: 10;
+    opacity: 1 !important; /* Ensure the element is opaque */
+    visibility: visible !important; /* Ensure the element is visible */
+}
+
+.correct-answer::before {
+    content: '✓';
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background: #fbbf24;
+    color: white;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 14px;
+    box-shadow: 0 2px 8px rgba(251, 191, 36, 0.4);
+    animation: checkmarkBounce 0.6s ease-out;
+}
+
+.correct-answer span {
+    color: white !important;
+    font-weight: 700 !important;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.correct-answer .option-char {
+    background: linear-gradient(45deg, #fbbf24, #f59e0b) !important;
+    color: white !important;
+    border: 2px solid white !important;
+    box-shadow: 0 0 15px rgba(251, 191, 36, 0.6) !important;
+    animation: correctCharPulse 1.5s ease-in-out infinite alternate;
+}
+
+@keyframes correctAnswerPulse {
+    0% { 
+        transform: scale(1.02); 
+        box-shadow: 0 0 25px rgba(16, 185, 129, 0.5), 0 8px 30px rgba(0, 0, 0, 0.15);
+    }
+    100% { 
+        transform: scale(1.05); 
+        box-shadow: 0 0 35px rgba(16, 185, 129, 0.7), 0 12px 40px rgba(0, 0, 0, 0.2);
+    }
+}
+
+@keyframes correctCharPulse {
+    0% { 
+        transform: scale(1);
+        box-shadow: 0 0 15px rgba(251, 191, 36, 0.6);
+    }
+    100% { 
+        transform: scale(1.1);
+        box-shadow: 0 0 25px rgba(251, 191, 36, 0.8);
+    }
+}
+
+@keyframes checkmarkBounce {
+    0% { 
+        transform: scale(0) rotate(-45deg);
+        opacity: 0;
+    }
+    50% { 
+        transform: scale(1.2) rotate(-10deg);
+        opacity: 1;
+    }
+    100% { 
+        transform: scale(1) rotate(0deg);
+        opacity: 1;
+    }
+}
+
+@keyframes correctAnswerPulse {
+    0% { 
+        transform: scale(1.02); 
+        box-shadow: 0 0 25px rgba(16, 185, 129, 0.5), 0 8px 30px rgba(0, 0, 0, 0.15);
+    }
+    100% { 
+        transform: scale(1.05); 
+        box-shadow: 0 0 35px rgba(16, 185, 129, 0.7), 0 12px 40px rgba(0, 0, 0, 0.2);
+    }
+}
+
+@keyframes correctCharPulse {
+    0% { 
+        transform: scale(1);
+        box-shadow: 0 0 15px rgba(251, 191, 36, 0.6);
+    }
+    100% { 
+        transform: scale(1.1);
+        box-shadow: 0 0 25px rgba(251, 191, 36, 0.8);
+    }
+}
+
+/* Speaking/Loading Indicator for Buttons (from original style.css) */
+.speaking-indicator {
+    background: linear-gradient(45deg, #f59e0b, #fbbf24) !important;
+    animation: speakingPulse 1s ease-in-out infinite;
+}
+@keyframes speakingPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.03); }
+}
+
+.pulse-icon {
+    animation: pulseIcon 2s infinite;
+}
+@keyframes pulseIcon {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.08); }
+}
+
+#imageWrapper img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Ensures image fits without cropping, maintains aspect ratio */
+}
+
+#questionSection, #optionsContainer > .option-card { /* #slideImage removed from this rule */
+    opacity: 0;
+}
+
+#questionOptionsArea {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(156, 163, 175, 0.5) transparent; /* gray-400 for thumb */
+}
+#questionOptionsArea::-webkit-scrollbar {
+    width: 8px;
+}
+#questionOptionsArea::-webkit-scrollbar-track {
+    background: transparent;
+}
+#questionOptionsArea::-webkit-scrollbar-thumb {
+    background-color: rgba(156, 163, 175, 0.5); /* gray-400 */
+    border-radius: 10px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+}
+
+#imageArea {
+    min-height: 0; /* Allow shrinking if needed */
+}
+
+.hidden {
+    display: none !important;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.slide-container { /* This selector is already defined, styles will be merged/overridden */
+    background: linear-gradient(135deg, #FFCA55 0%, #F29F05 50%, #F25C05 100%); /* This is the new background */
+}
+
+.floating-particles {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: 1; /* Ensure it's behind content-layer */
+}
+
+.particle {
+    position: absolute;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    animation: float 8s infinite linear;
+}
+
+.particle:nth-child(1) { width: 20px; height: 20px; left: 10%; animation-delay: 0s; }
+.particle:nth-child(2) { width: 15px; height: 15px; left: 20%; animation-delay: 1s; }
+.particle:nth-child(3) { width: 25px; height: 25px; left: 30%; animation-delay: 2s; }
+.particle:nth-child(4) { width: 18px; height: 18px; left: 40%; animation-delay: 3s; }
+.particle:nth-child(5) { width: 22px; height: 22px; left: 50%; animation-delay: 4s; }
+.particle:nth-child(6) { width: 16px; height: 16px; left: 60%; animation-delay: 5s; }
+.particle:nth-child(7) { width: 24px; height: 24px; left: 70%; animation-delay: 6s; }
+.particle:nth-child(8) { width: 19px; height: 19px; left: 80%; animation-delay: 7s; }
+
+@keyframes float {
+    0% { transform: translateY(100vh) rotate(0deg); opacity: 0; }
+    15% { opacity: 1; }
+    85% { opacity: 1; }
+    100% { transform: translateY(-100px) rotate(360deg); opacity: 0; }
+}
+
+.content-layer {
+    position: relative;
+    z-index: 10;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.header { /* New header style */
+    background: rgba(4, 120, 87, 0.95); /* Default, will be themed */
+    backdrop-filter: blur(10px);
+    padding: 0.75vh 4vw; /* Reduced vertical padding */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    flex-shrink: 0;
+    position: relative;
+    z-index: 50;
+}
+
+.contest-info h1 {
+    color: white;
+    font-size: 1.4vw; /* Reduced font size */
+    font-weight: 800;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3); /* Adjusted shadow */
+}
+
+.contest-info p {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.7vw; /* Reduced font size */
+    margin-top: 0.25vh; /* Reduced margin */
+}
+
+.question-header { /* Container for question number, category, timer in the new header */
+    display: flex;
+    align-items: center;
+    gap: 2vw;
+}
+
+.question-number { /* Style for new question number display */
+    background: linear-gradient(135deg, #F25C05, #F29F05);
+    color: white;
+    padding: 0.5vh 1.2vw; /* Reduced padding */
+    border-radius: 15px; /* Slightly smaller radius */
+    font-size: 1vw; /* Reduced font size */
+    font-weight: 700;
+    box-shadow: 0 4px 15px rgba(242, 92, 5, 0.3); /* Adjusted shadow */
+    animation: pulse 2s infinite; /* This is a new 'pulse' animation */
+}
+
+.category-badge { /* Style for new category display */
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    padding: 0.5vh 1vw; /* Reduced padding */
+    border-radius: 12px; /* Slightly smaller radius */
+    font-size: 0.7vw; /* Reduced font size */
+    font-weight: 600;
+    backdrop-filter: blur(10px);
+}
+
+.timer-circle { /* This is for the new timer structure from Test1.html */
+    position: relative;
+    width: 3.5vw; /* Reduced width */
+    height: 3.5vw; /* Reduced height */
+    min-width: 40px; /* Reduced minimum size */
+    min-height: 40px; /* Reduced minimum size */
+}
+
+.timer-svg {
+    transform: rotate(-90deg);
+    width: 100%;
+    height: 100%;
+}
+
+.timer-circle-bg { /* Background of the new timer circle */
+    fill: none;
+    stroke: rgba(255, 255, 255, 0.3);
+    stroke-width: 6;
+}
+
+.timer-circle-progress { /* Progress part of the new timer circle */
+    fill: none;
+    stroke: #fff; /* Default progress color */
+    stroke-width: 6;
+    stroke-linecap: round;
+    stroke-dasharray: 226; /* Circumference for r=~36 (5vw could be ~70-80px, so r is ~35-40px. 2*pi*36 = 226) */
+    stroke-dashoffset: 226; /* Start empty, JS will animate to 0 */
+    /* animation: countdown 30s linear; Removed, JS will handle */
+    transition: stroke-dashoffset 1s linear, stroke 0.3s ease; /* Smooth transitions */
+}
+
+.timer-circle-progress.warning {
+    stroke: #FFA500; /* Orange for warning */
+}
+
+.timer-circle-progress.danger {
+    stroke: #FF4444; /* Red for danger */
+}
+
+.timer-text { /* Text inside the new timer */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 0.8vw; /* Reduced font size */
+    font-weight: 700;
+    transition: color 0.3s ease;
+}
+
+.timer-text.warning {
+    color: #FFA500;
+}
+
+.timer-text.danger {
+    color: #FF4444;
+}
+
+/* @keyframes countdown {
+    from { stroke-dashoffset: 0; }
+    to { stroke-dashoffset: 226; }
+} */ /* JS will handle this */
+
+@keyframes pulse { /* New pulse animation from Test1.html */
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+
+.footer { /* New footer style */
+    background: rgba(4, 120, 87, 0.95); /* Default, will be themed */
+    backdrop-filter: blur(10px);
+    padding: 1vh 4vw; /* Reduced vertical padding */
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Changed from align-items:end for better control layout */
+    flex-shrink: 0;
+    position: relative;
+    z-index: 50;
+}
+
+.footer-left h3 {
+    font-size: 0.9vw; /* Reduced font size */
+    font-weight: 700;
+    margin-bottom: 0.25vh; /* Reduced margin */
+}
+ 
+.footer-left p {
+    font-size: 0.65vw; /* Reduced font size */
+    opacity: 0.9;
+}
+
+.footer-controls {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem; /* Slightly reduced gap */
+}
+
+/* Overriding Tailwind for footer buttons to make them smaller */
+.footer-controls button {
+    padding: 0.4rem 0.8rem !important; /* Reduced padding */
+    font-size: 0.8rem !important; /* Reduced font size */
+    /* Adjust icon size if needed, though FontAwesome might scale with font-size */
+}
+.footer-controls button i {
+    margin-right: 0.3rem !important; /* Adjust icon margin if needed */
+}
+ 
+.footer-right {
+    text-align: right;
+}
+
+.footer-right .date {
+    font-size: 0.8vw; /* Reduced font size */
+    font-weight: 600;
+    margin-bottom: 0.25vh; /* Reduced margin */
+}
+ 
+.footer-right .location {
+    font-size: 0.65vw; /* Reduced font size */
+    opacity: 0.9;
+}
+
+.progress-bar { /* Progress bar at the bottom of the footer */
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 6px;
+    background: linear-gradient(90deg, #FFCA55, #F29F05, #F25C05);
+    width: 0%; /* JS will update this, start at 0 or a default */
+    animation: progressGlow 2s ease-in-out infinite alternate;
+    transition: width 0.5s ease-out;
+}
+
+@keyframes progressGlow {
+    from { box-shadow: 0 0 5px rgba(255, 202, 85, 0.5); }
+    to { box-shadow: 0 0 20px rgba(242, 92, 5, 0.8); }
+}
+
+@keyframes slideInLeft { /* From Test1.html, could be reused or renamed if conflicts */
+    from { opacity: 0; transform: translateX(-50px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInUp { /* From Test1.html */
+    from { opacity: 0; transform: translateY(30px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+/* @keyframes imageAnimation1 ... imageAnimation4 - Not used for now to keep original image animation */
+
+.floating-icon { /* Decorative icons from Test1.html */
+    position: absolute;
+    font-size: 1.5vw;
+    color: rgba(255, 255, 255, 0.2);
+    animation: floatIcon 6s ease-in-out infinite;
+    z-index: 5; /* Ensure they are above particles but below content layer's main elements */
+}
+
+.icon-1 { top: 20%; left: 5%; animation-delay: 0s; }
+.icon-2 { top: 40%; right: 8%; animation-delay: 1.5s; }
+.icon-3 { bottom: 30%; left: 3%; animation-delay: 3s; }
+.icon-4 { top: 60%; left: 15%; animation-delay: 4.5s; }
+
+@keyframes floatIcon {
+    0%, 100% { transform: translateY(0px) rotate(0deg); }
+    50% { transform: translateY(-20px) rotate(180deg); }
+}
+
+.time-up-overlay {
+    position: fixed; /* Use fixed to cover viewport */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none; /* JS will toggle to flex */
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 10000; /* Very high z-index */
+    backdrop-filter: blur(10px);
+    opacity: 0; /* Animation will fade it in */
+    /* animation: fadeInOverlay 0.5s ease-out forwards; JS will handle entry animation */
+}
+
+.time-up-content {
+    background: rgba(220, 38, 38, 0.95);
+    color: white;
+    padding: 4vh 6vw;
+    border-radius: 25px;
+    font-size: 2.8vw; /* Responsive */
+    font-weight: 800;
+    text-align: center;
+    box-shadow: 0 25px 80px rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(15px);
+    /* animation: pulseTimeUpSmooth 2s ease-in-out infinite; Combined with entry */
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    transform: scale(0.8); /* Initial state for animation */
+    /* animation: slideInTimeUp 0.6s ease-out forwards, pulseTimeUpSmooth 2s ease-in-out infinite 0.6s; JS will handle entry */
+}
+
+.time-up-content .subtitle {
+    font-size: 1.4vw; /* Responsive */
+    margin-top: 2vh;
+    opacity: 0.95;
+    font-weight: 600;
+}
+
+@keyframes fadeInOverlay {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideInTimeUp {
+    from {
+        transform: scale(0.8) translateY(30px);
+        opacity: 0;
+    }
+    to {
+        transform: scale(1) translateY(0);
+        opacity: 1;
+    }
+}
+
+@keyframes pulseTimeUpSmooth {
+    0%, 100% {
+        transform: scale(1);
+        box-shadow: 0 25px 80px rgba(220, 38, 38, 0.3);
+    }
+    50% {
+        transform: scale(1.015);
+        box-shadow: 0 30px 100px rgba(220, 38, 38, 0.45);
+    }
+}
+
+/* Media Queries from Test1.html - adjust as needed */
+@media (max-width: 1200px) {
+    .contest-info h1 { font-size: 18px !important; } /* Reduced */
+    .contest-info p { font-size: 10px !important; } /* Reduced */
+    .question-number { font-size: 14px !important; padding: 0.4vh 1vw !important; } /* Reduced */
+    .category-badge { font-size: 10px !important; padding: 0.4vh 0.8vw !important; } /* Reduced */
+    .timer-text { font-size: 11px !important; } /* Reduced */
+    /* .question-text h2 { font-size: 22px; } */
+    /* .option-text { font-size: 14px; } */
+    /* .option-letter { font-size: 14px; width: 30px; height: 30px; line-height: 30px; } */
+    .footer-left h3 { font-size: 12px !important; } /* Reduced */
+    .footer-left p { font-size: 9px !important; } /* Reduced */
+    .footer-right .date { font-size: 11px !important; } /* Reduced */
+    .footer-right .location { font-size: 9px !important; } /* Reduced */
+    .floating-icon { font-size: 14px !important; } /* Reduced */
+    .time-up-content { font-size: 28px !important; } /* Reduced */
+    .time-up-content .subtitle { font-size: 14px !important; } /* Reduced */
+
+    .footer-controls button { /* Ensure button overrides apply in media query too */
+        padding: 0.3rem 0.6rem !important;
+        font-size: 0.7rem !important;
+    }
+}
+
+/* NEW THEME STYLES FOR HEADER AND FOOTER */
+.header-footer-theme-default .header,
+.header-footer-theme-default .footer {
+    background: rgba(4, 120, 87, 0.95) !important; /* Default green from Test1.html */
+}
+
+.header-footer-theme-cspl .header,
+.header-footer-theme-cspl .footer {
+    background: linear-gradient(135deg, #065f46, #047857) !important;
+}
+.header-footer-theme-pccc .header,
+.header-footer-theme-pccc .footer {
+    background: linear-gradient(135deg, #991b1b, #b91c1c) !important;
+}
+.header-footer-theme-yte .header,
+.header-footer-theme-yte .footer {
+    background: linear-gradient(135deg, #5b21b6, #7c3aed) !important;
+}
+.header-footer-theme-ktm .header,
+.header-footer-theme-ktm .footer {
+    background: linear-gradient(135deg, #78350f, #9a3412) !important;
+}
+.header-footer-theme-bq-bx-vc .header,
+.header-footer-theme-bq-bx-vc .footer {
+    background: linear-gradient(135deg, #1e40af, #1d4ed8) !important;
+}
+
+/* Custom shape for the image wrapper */
+.custom-image-shape {
+    border-top-left-radius: 80px;    /* Large radius for top-left */
+    border-bottom-left-radius: 250px; /* Different large radius for bottom-left */
+    border-top-right-radius: 0px;     /* No radius for top-right */
+    border-bottom-right-radius: 0px;  /* No radius for bottom-right */
+}
+
+/* --- New Background Styles --- */
+
+/* Image Backgrounds with Overlay */
+/* Solid Overlay */
+.bg-image-1-solid {
+    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-2-solid {
+    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-3-solid {
+    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Gradient Overlay (#f59e0b to white) */
+.bg-image-1-gradient {
+    background-image: linear-gradient(to bottom right, rgba(245, 158, 11, 0.7), rgba(255, 255, 255, 0.7)), url('images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-2-gradient {
+    background-image: linear-gradient(to bottom right, rgba(245, 158, 11, 0.7), rgba(255, 255, 255, 0.7)), url('images/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-3-gradient {
+    background-image: linear-gradient(to bottom right, rgba(245, 158, 11, 0.7), rgba(255, 255, 255, 0.7)), url('images/bg3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Diagonal Stripe Overlay (#f59e0b and white) */
+.bg-image-1-stripes {
+    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-2-stripes {
+    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-image-3-stripes {
+    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* SVG Backgrounds */
+.bg-abstract {
+    background: 
+        url('data:image/svg+xml,<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg"><defs><filter id="noiseFilter"><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch"/><feColorMatrix type="saturate" values="0"/></filter></defs><rect width="100%" height="100%" fill="%23667eea"/><rect width="100%" height="100%" filter="url(%23noiseFilter)" opacity="0.4"/><circle cx="200" cy="150" r="80" fill="%23f093fb" opacity="0.8"/><circle cx="800" cy="200" r="120" fill="%23f5576c" opacity="0.6"/><circle cx="400" cy="400" r="100" fill="%234facfe" opacity="0.7"/><circle cx="900" cy="500" r="90" fill="%23ffecd2" opacity="0.8"/><circle cx="100" cy="600" r="70" fill="%2343e97b" opacity="0.6"/></svg>') center/cover,
+        linear-gradient(135deg, rgba(255, 202, 85, 0.9) 0%, rgba(242, 159, 5, 0.9) 50%, rgba(242, 92, 5, 0.9) 100%);
+    background-repeat: no-repeat;
+}
+        
+.bg-wave {
+    background: 
+        url('data:image/svg+xml,<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg"><path d="M0,300 C300,200 600,400 900,300 C1050,250 1200,350 1200,350 L1200,800 L0,800 Z" fill="%23667eea" opacity="0.1"/><path d="M0,400 C300,300 600,500 900,400 C1050,350 1200,450 1200,450 L1200,800 L0,800 Z" fill="%23764ba2" opacity="0.1"/><path d="M0,500 C300,400 600,600 900,500 C1050,450 1200,550 1200,550 L1200,800 L0,800 Z" fill="%23f093fb" opacity="0.1"/></svg>') center/cover,
+        linear-gradient(135deg, rgba(255, 202, 85, 0.95) 0%, rgba(242, 159, 5, 0.95) 50%, rgba(242, 92, 5, 0.95) 100%);
+    background-repeat: no-repeat;
+}
+
+/* Default slide container background (can be one of the above or the original gradient) */
+.slide-container.bg-default {
+    background: linear-gradient(135deg, #FFCA55 0%, #F29F05 50%, #F25C05 100%);
+}
+
+/* --- Footer Answer Highlight --- */
+.answer-text-highlight {
+    background-color: #f59e0b; /* Bright amber background */
+    color: #ffffff; /* White text */
+    padding: 0.5rem 1rem; /* Padding */
+    border-radius: 8px; /* Rounded corners */
+    font-weight: 700; /* Bold text */
+    font-size: 1rem; /* Reduced font size */
+    box-shadow: 0 4px 15px rgba(245, 158, 11, 0.5); /* Glow effect */
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2); /* Subtle text shadow */
+    transition: all 0.3s ease-in-out;
+    /* Consider adding a subtle animation if desired */
+    /* animation: pulseHighlight 1.5s infinite alternate; */
+}
+
+/* Optional pulse animation for the highlight */
+/*
+@keyframes pulseHighlight {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 4px 15px rgba(245, 158, 11, 0.5);
+    }
+    100% {
+        transform: scale(1.03);
+        box-shadow: 0 6px 20px rgba(245, 158, 11, 0.7);
+    }
+}
+*/

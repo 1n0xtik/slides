@@ -1,0 +1,1967 @@
+{
+  "quy_che_thi": {
+    "ten_hoi_thi": "Hội thi ATVSV giỏi cấp Công ty công nghiệp Hóa chất mỏ Thái Nguyên năm 2025",
+    "so_quyet_dinh": "665/QĐ-HCMTHN",
+    "ngay_ban_hanh": "19/05/2025",
+    "don_vi_to_chuc": "Công ty Công nghiệp Hóa chất mỏ Thái Nguyên",
+    "thoi_ GIAN_du_kien": "25/06/2025",
+    "dia_diem": "Hội trường tầng 5 - Văn phòng Công ty. Số 9A, Đường Phan Đình Phùng, Phường Đồng Quang, Thành phố Thái Nguyên",
+    "nganh_nghe_du_thi": [
+      "Bảo quản, bốc xếp, vận chuyển VLNCN",
+      "khai thác mỏ",
+      "công tác bảo vệ"
+    ],
+    "cac_vong_thi": [
+      {
+        "vong": 1,
+        "ten_vong": "Thi hiểu biết kiến thức về chính sách pháp luật, PCCC và Y tế",
+        "hinh_thuc": "Trắc nghiệm",
+        "so_cau_hoi": 10,
+        "thoi_gian_tra_loi": "30 giây/câu",
+        "thang_diem": 10,
+        "ghi_chu": "Cả đội thống nhất đáp án để trả lời và viết ra bảng giơ lên cho BKG chấm."
+      },
+      {
+        "vong": 2,
+        "ten_vong": "Thi hiểu biết về ngành nghề",
+        "hinh_thuc": "Trắc nghiệm",
+        "so_cau_hoi": 9,
+        "cau_hoi_phan_bo": "Bảo quản, bốc xếp, vận chuyển VLNCN (03 câu); khai thác mỏ (03 câu); công tác bảo vệ (03 câu)",
+        "thoi_gian_tra_loi": "01 phút/câu",
+        "thang_diem": 10,
+        "ghi_chu": "Câu hỏi thuộc ngành nghề nào thì thí sinh đăng ký tại lĩnh vực ngành nghề đó của đội chịu trách nhiệm chính và có tham khảo với thí sinh cùng đội. Cả đội thống nhất đáp án để trả lời và viết ra bảng giơ lên cho BKG chấm. Kết quả vòng này tính điểm đồng đội và làm cơ sở tính điểm cá nhân."
+      },
+      {
+        "vong": 3,
+        "ten_vong": "Thi thực hành về PCCC và Y tế",
+        "hinh_thuc": "Thực hành",
+        "so_cau_hoi": 2,
+        "cau_hoi_phan_bo": "01 câu về PCCC, 01 câu Y tế",
+        "thoi_gian_chuan_bi": "05 phút/câu",
+        "thang_diem": 10,
+        "ghi_chu": "Đội thi phân công nhau tham gia thi thực hành theo từng lĩnh vực để cho BKG chấm điểm."
+      }
+    ],
+    "thang_diem_chi_tiet": {
+      "vong_1": {
+        "loai_cau_hoi": "Trắc nghiệm",
+        "diem_tren_cau": 10,
+        "ghi_chu": "Câu trả lời đúng theo đáp án thì đạt thang điểm 10; thiếu, sai thì không được tính điểm."
+      },
+      "vong_2": {
+        "loai_cau_hoi": "Trắc nghiệm",
+        "diem_tren_cau": 10,
+        "ghi_chu": "Câu trả lời đúng theo đáp án thì đạt thang điểm 10; ghi thiếu ý đúng thì chấm theo thang điểm của từng ý; ghi ý sai thì mỗi ý sai sẽ bị trừ điểm tương đương 1 ý đúng. (Không có điểm âm, tối thiểu 0 điểm)."
+      },
+      "vong_3": {
+        "loai_cau_hoi": "Thực hành",
+        "diem_tren_cau": 10,
+        "ghi_chu": "Căn cứ vào kết quả thi của từng đội so sánh với đáp án của đề thi của Tổng công ty đã ban hành. Ban giám khảo chấm điểm. Mỗi câu chấm theo thang điểm 10."
+      }
+    },
+    "quy_dinh_cham_diem": "Các đội khi đã thống nhất đáp án và giơ bảng cho Ban giám khảo thì không được sửa đổi kết quả. Nếu đội nào trong quá trình đã giơ bảng mà sửa lại kết quả thì coi như phạm quy và không được tính điểm tại câu hỏi đó.",
+    "cach_cong_bo_diem": "Nếu Giám khảo có điểm chấm cách biệt quá 01 điểm so với điểm bình quân của các thành viên Ban Giám khảo, thì Ban Giám khảo phải tiến hành thảo luận để điều chỉnh kết quả của Giám khảo đó ngay sau khi kết thúc buổi thi, nếu Giám khảo đó vẫn bảo lưu kết quả thì không tính điểm đó vào điểm bình quân; Trong trường hợp sau 3 vòng thi có các đội bằng điểm nhau, thì điểm ở vòng 2 của đội nào cao hơn thì được tính là đội đứng trên, nếu tiếp tục bằng nhau thì các đội đồng giải thưởng. Kết quả sẽ được công bố vào bế mạc Hội thi.",
+    "giai_thuong": {
+      "tap_the": [
+        { "giai": "Nhất", "tien_thuong": "5.000.000 đồng" },
+        { "giai": "Nhì", "tien_thuong": "3.000.000 đồng" },
+        { "giai": "Ba", "tien_thuong": "2.000.000 đồng" },
+        { "giai": "Khuyến khích", "tien_thuong": "1.000.000 đồng" }
+      ],
+      "ca_nhan": [
+        { "danh_hieu": "ATVSV xuất sắc", "tieu_chuan": "đạt từ 27 điểm trở lên thuộc lĩnh vực thí sinh đăng ký tại vòng 2 của đội đạt tổng điểm 96 điểm trở lên của vòng 1 và vòng 3 cộng lại. Không vi phạm Quy chế thi.", "tien_thuong": "2.000.000 đồng" },
+        { "danh_hieu": "ATVSV giỏi", "tieu_chuan": "đạt từ 24 điểm trở lên thuộc lĩnh vực thí sinh đăng ký tại vòng 2 của đội đạt tổng điểm từ 84 điểm trở lên của vòng 1 và vòng 3 cộng lại. Không vi phạm Quy chế thi.", "tien_thuong": "1.500.000 đồng" },
+        { "danh_hieu": "Không đạt danh hiệu", "tien_thuong": "500.000 đồng/người" }
+      ]
+    },
+    "kinh_phi": {
+      "don_vi_tham_gia": "Tự lo kinh phí luyện tập và phát sinh khác của đơn vị mình.",
+      "ban_to_chuc": "Lo ăn nghỉ của Thí sinh trong thời gian diễn ra Hội thi cấp Công ty. Xây dựng kế hoạch chi phí giải thưởng, khánh tiết, trình Giám đốc Công ty phê duyệt."
+    },
+    "to_chuc_thuc_hien": "Công đoàn cơ sở thành viên, Công đoàn bộ phận và Thủ trưởng các đơn vị căn cứ quy chế này triển khai, phổ biến đến CBCNV thu xếp thời gian đi cổ vũ, động viên khích lệ cho các thí sinh tham dự Hội thi đạt kết quả tốt. Các đơn vị báo cáo kết quả hội thi và đăng ký danh sách trích ngang ATVSV dự thi về Phòng ATBV Công ty sau khi kết thúc Hội thi của đơn vị. Ban tổ chức, Ban giám khảo, Tổ thư ký và các đơn vị có thí sinh tham gia dự thi tổ chức triển khai, đảm bảo đúng thời gian quy định. Trong quá trình tổ chức thực hiện có gì vướng mắc phản ánh về Phòng ATBV và Công đoàn Công ty để xin ý kiến Ban chỉ đạo Hội thi ATVSV giỏi Công ty năm 2025."
+  },
+  "ngan_hang_cau_hoi": {
+    "chinh_sach_phap_luat_va_y_te": {
+      "trac_nghiem": [
+        {
+          "id": "CSPL_TN_1",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Chính sách pháp luật về ATVSLĐ",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_cspl_tn_1.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết An toàn vệ sinh viên có bao nhiêu quyền lợi và nghĩa vụ?",
+          "phuong_an": {
+            "a": "04 quyền và 05 nghĩa vụ.",
+            "b": "05 quyền và 04 nghĩa vụ.",
+            "c": "03 quyền và 05 nghĩa vụ.",
+            "d": "04 quyền và 06 nghĩa vụ."
+          },
+          "dap_an_dung": "a",
+          "speech_id_question": "CSPL_TN_1.mp3",
+          "speech_id_options_A": "CSPL_TN_1_A.mp3",
+          "speech_id_options_B": "CSPL_TN_1_B.mp3",
+          "speech_id_options_C": "CSPL_TN_1_C.mp3",
+          "speech_id_options_D": "CSPL_TN_1_D.mp3",
+          "speech_id_answer": "CSPL_TN_1_ans.mp3"
+        },
+        {
+          "id": "CSPL_TN_2",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Chính sách pháp luật về ATVSLĐ",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_cspl_tn_2.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết nội dung hoạt động hàng ngày trước ca làm việc của mạng lưới An toàn vệ sinh viên?",
+          "phuong_an": {
+            "a": "Kiểm tra điều kiện môi trường làm việc.",
+            "b": "Nhắc nhở người lao động trong tổ sử dụng đầy đủ phương tiện bảo vệ cá nhân.",
+            "c": "Cả 2 nội dung trên."
+          },
+          "dap_an_dung": "c",
+          "speech_id_question": "CSPL_TN_2.mp3",
+          "speech_id_options_A": "CSPL_TN_2_A.mp3",
+          "speech_id_options_B": "CSPL_TN_2_B.mp3",
+          "speech_id_options_C": "CSPL_TN_2_C.mp3",
+          "speech_id_options_D": null,
+          "speech_id_answer": "CSPL_TN_2_ans.mp3"
+        },
+        {
+          "id": "CSPL_TN_3",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Chính sách pháp luật về ATVSLĐ",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_cspl_tn_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết hoạt động của mạng lưới an toàn vệ sinh viên nhằm?",
+          "phuong_an": {
+            "a": "Giúp Ban chấp hành công đoàn cơ sở thực hiện tốt công tác ATVSLĐ.",
+            "b": "Giúp người sử dụng lao động thực hiện tốt công tác ATVSLĐ.",
+            "c": "Đẩy mạnh phong trào \"Xanh -Sạch- Đẹp, Bảo đảm ATVSLĐ\" tại doanh nghiệp.",
+            "d": "Cả 3 câu đều đúng."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "CSPL_TN_3.mp3",
+          "speech_id_options_A": "CSPL_TN_3_A.mp3",
+          "speech_id_options_B": "CSPL_TN_3_B.mp3",
+          "speech_id_options_C": "CSPL_TN_3_C.mp3",
+          "speech_id_options_D": "CSPL_TN_3_D.mp3",
+          "speech_id_answer": "CSPL_TN_3_ans.mp3"
+        },
+        {
+          "id": "CSPL_TN_4",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Chính sách pháp luật về ATVSLĐ",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy đánh dấu câu sai trong nội dung cấp cứu ngừng tim, ngừng thở do điện giật?",
+          "phuong_an": {
+            "a": "Nếu nạn nhân bất tỉnh ngừng tim, ngừng thở do điện giật thì phải được tách khỏi nguồn điện rồi mới tiến hành cấp cứu.",
+            "b": "Để nạn nhân nằm ngửa trên mặt phẳng cứng, cấp cứu viên quỳ sát bên nạn nhân, đặt gót tay lên xương ức, cách mỏm ức khoảng 3cm, tay kia đè chồng lên và dùng sức của cả cơ thể ấn xuống hai tay tạo áp lực mạnh làm lún xương ức rồi thả ra. Động tác ép và thả nhanh gọn, dứt khoát.",
+            "c": "Nếu chỉ có một cấp cứu viên thì cứ ép tim 15 lần trong 11-12 giây lại quay ra thổi ngạt 2 lần trong 3-4 giây. Nếu có hai cấp cứu viên thì cứ ép tim 5 lần lại để người kia thổi ngạt 1 lần.",
+            "d": "Sau khi cấp cứu thành công, để nạn nhân ở tư thế thoải mái, kê đầu vai cao hơn một chút cho dễ thở.",
+            "e": "Nếu nạn nhân bị các chấn thương khác kèm theo thì ưu tiên xử lý vết thương trước."
+          },
+          "dap_an_dung": "e",
+          "speech_id_question": "CSPL_TN_4.mp3",
+          "speech_id_options_A": "CSPL_TN_4_A.mp3",
+          "speech_id_options_B": "CSPL_TN_4_B.mp3",
+          "speech_id_options_C": "CSPL_TN_4_C.mp3",
+          "speech_id_options_D": "CSPL_TN_4_D.mp3",
+          "speech_id_answer": "CSPL_TN_4_ans.mp3"
+        },
+        {
+          "id": "CSPL_TN_5",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Chính sách pháp luật về ATVSLĐ",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_cspl_tn_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy đánh dấu câu sai trong nội dung cấp cứu người ngộ độc thực phẩm?",
+          "phuong_an": {
+            "a": "Người ngộ độc thực phẩm thường có biểu hiện mệt mỏi, khó chịu, có thể đau bụng, buồn nôn, tiêu chảy sau khi ăn vài giờ.",
+            "b": "Cho bệnh nhân uống nước gừng nóng.",
+            "c": "Cho bệnh nhân uống thuốc đau bụng mua ở hiệu thuốc.",
+            "d": "Không để bệnh nhân ăn gì cho tới khi sức khỏe ổn định trở lại. Nếu tình trạng nặng thì phải gửi tới bệnh viện."
+          },
+          "dap_an_dung": ["b", "c"],
+          "speech_id_question": "CSPL_TN_5.mp3",
+          "speech_id_options_A": "CSPL_TN_5_A.mp3",
+          "speech_id_options_B": "CSPL_TN_5_B.mp3",
+          "speech_id_options_C": "CSPL_TN_5_C.mp3",
+          "speech_id_options_D": "CSPL_TN_5_D.mp3",
+          "speech_id_answer": "CSPL_TN_5_ans.mp3"
+        },
+        {
+          "id": "YT_SC_TN_1",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Y tế - Sơ cấp cứu",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) đánh dấu nội dung không chính xác trong kỹ thuật thực hành đặt garô trường hợp cụt hoặc đứt động mạch 1/3 giữa cẳng tay?",
+          "phuong_an": {
+            "a": "Ấn động mạch cánh tay cầm máu tạm thời.",
+            "b": "Quấn mảnh gạc vòng quanh nơi định đặt garô, trên vết thương 2-3cm. Quấn garô lên mảnh gạc đủ 4 vòng.",
+            "c": "Xử lý vết thương.",
+            "d": "Ghi phiếu garô và cài vào ngực nạn nhân: Tên, tuổi nạn nhân, giờ đặt garo, vị trí vết thương, nơi sảy ra tai nạn, tên chức vụ người đặt ga ro.",
+            "e": "Nhanh chóng chuyển nạn nhân tới cơ sở y tế đủ điều kiện xử lý vết thương.",
+            "g": "Chú ý đặt ga rô không để lấu quá 6 giờ, nới garô trên đường vận chuyển 20-30ph một lần, ít nhất 1 lần một giờ, mỗi lần 1-2 phút."
+          },
+          "dap_an_dung": "b",
+          "speech_id_question": "YT_SC_TN_1.mp3",
+          "speech_id_options_A": "YT_SC_TN_1_A.mp3",
+          "speech_id_options_B": "YT_SC_TN_1_B.mp3",
+          "speech_id_options_C": "YT_SC_TN_1_C.mp3",
+          "speech_id_options_D": "YT_SC_TN_1_D.mp3",
+          "speech_id_answer": "YT_SC_TN_1_ans.mp3"
+        },
+        {
+          "id": "YT_SC_TN_2",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Y tế - Sơ cấp cứu",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) đánh dấu nội dung không chính xác trong kỹ thuật thực hành cố định gẫy xương cẳng tay tay hở?",
+          "phuong_an": {
+            "a": "Xử lý vết thương: - Rửa và sát khuẩn vết thương. Thấm khô. - Đặt gạc vô khuẩn che kín vết thương. - Băng vết thương. + Có vòng cố định ban đầu và kết thúc. + Rõ kiểu băng và dấu nhân, vòng băng sau đè 2/3 chiều rộng vòng băng trước",
+            "b": "Đặt nẹp: Đặt hai nẹp ở mặt trước và sau cẳng tay, từ khuỷu tới khớp 3 ngón",
+            "c": "Đặt đệm lót.",
+            "d": "Buộc dây cố định nẹp: - Buộc trên và dưới ổ gãy. - Cố định cổ tay - bàn tay kiểu băng vòng xoắn. - Cố định khớp khuỷu kiểu băng số 8. - Treo tay tư thế cơ năng."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "YT_SC_TN_2.mp3",
+          "speech_id_options_A": "YT_SC_TN_2_A.mp3",
+          "speech_id_options_B": "YT_SC_TN_2_B.mp3",
+          "speech_id_options_C": "YT_SC_TN_2_C.mp3",
+          "speech_id_options_D": "YT_SC_TN_2_D.mp3",
+          "speech_id_answer": "YT_SC_TN_2_ans.mp3"
+        },
+        {
+          "id": "YT_SC_TN_3",
+          "category": "Chính sách pháp luật và Y tế",
+          "subcategory": "Y tế - Sơ cấp cứu",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_yt_sc_tn_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) đánh dấu câu sai trong nội dung cấp cứu say nắng, say nóng dưới đây?",
+          "phuong_an": {
+            "a": "Đưa nạn nhân vào nơi thoáng mát, uống nước mát, chườm mát, quạt mát để dần hồi phục.",
+            "b": "Nếu tình trạng nặng hoặc không cải thiện sau khi sơ cứu thì chuyển nhanh đến bệnh viện.",
+            "c": "Chườm đá lạnh hoặc cho nạn nhân uống thuốc hạ sốt để chóng hạ nhiệt."
+          },
+          "dap_an_dung": "c",
+          "speech_id_question": "YT_SC_TN_3.mp3",
+          "speech_id_options_A": "YT_SC_TN_3_A.mp3",
+          "speech_id_options_B": "YT_SC_TN_3_B.mp3",
+          "speech_id_options_C": "YT_SC_TN_3_C.mp3",
+          "speech_id_options_D": null,
+          "speech_id_answer": "YT_SC_TN_3_ans.mp3"
+        }
+      ],
+      "thuc_hanh_so_cuu": [
+        {
+          "id": "YT_TH_1",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_1.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành đặt garô trong trường hợp cụt hoặc đứt động mạch 1/3 giữa cẳng tay",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Khay, kẹp, panh, kéo. - Bông, băng, gạc. - Cồn 700 , nước muối rửa 9 %0. - Găng tay, Dây garô. - Phiếu garô.", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân", "chi_tiet": "- Động viên nạn nhân. - Chuẩn bị tư thế bệnh nhân : Nằm, ngồi (tuỳ trường hợp cụ thể)", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "- ấn động mạch cánh tay cầm máu tạm thời. - Quấn mảnh gạc vòng quanh nơi định đặt garô, trên vết thương 2-3cm. Quấn garô lên mảnh gạc vừa đủ chặt để cầm máu, 4 vòng. - Xử lý vết thương. - Ghi phiếu garô và cài vào ngực nạn nhân : Tên, tuổi nạn nhân, giờ đặt ga ro, vị trí vết thương, nơi sảy ra tai nạn, tên chức vụ người đặt ga ro. - Nhanh chóng chuyển nạn nhân tới cơ sở y tế đủ điều kiện xử lý vết thương  ( chú ý : Đặt ga rô không quá 6 giờ, nới garô trên đường vận chuyển 20-30ph một lần, ít nhất 1 lần một giờ, mỗi lần 1-2 phút)", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_1.mp3"
+        },
+        {
+          "id": "YT_TH_2",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_2.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành cố định gẫy xương cẳng tay tay hở",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Khay, kẹp, panh, kéo. Nẹp - Bông, băng, gạc. - Cồn 700 , nước muối sinh lý 9 %0 rửa vết thương. - Găng tay cao su", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân và người hỗ trợ", "chi_tiet": "- Động viên nạn nhân và giải thích việc mình sẽ làm. - Để nạn nhân tư thế phù hợp - Hướng dẫn người hỗ trợ", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "- Xử lý vết thương : + Rửa và sát khuẩn vết thương. Thấm khô. + Đặt gạc vô khuẩn che kín vết thương. + Băng vết thương : Có vòng cỗ định ban đầu và kết thúc. Rõ kiểu băng và dấu nhân, vòng băng sau đè 2/3 chiều rộng vòng băng trước - Cố định xương gãy : + Đặt nẹp : Đặt hai nẹp ở mặt trước và sau cẳng tay, từ khủy tới khớp 3 ngón + Đặt đệm lót + Buộc dây cố định nẹp : Buộc trên và dưới ổ gãy Cố định cổ tay-bàn tay kiểu băng số 8 Cố định khớp khuỷu kiểu băng số 8 Treo tay tư thế cơ năng", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_2.mp3"
+        },
+        {
+          "id": "YT_TH_3",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành cố định Gãy xương đùi kín phương pháp 2 nẹp",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Hai nẹp dài 0,8 và 1,2 m, rộng 10 cm, dày 8mm - Bông không thấm nước - Băng cuộn rộng 10 cm", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân và người hỗ trợ", "chi_tiet": "- Động viên nạn nhân. - Để nạn nhân nằm, duỗi hai chân, chân gãy hơi dạng - Hướng dẫn 3 người hỗ trợ, đỡ tại 3 vị trí : gót, ổ gãy và thân người", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "- Đặt nẹp + Nẹp trong từ nếp bẹn tới mắt cá trong + Nẹp ngoài từ hõm nách tới mắt cá ngoài - Đặt đệm lót - Buộc dây hoặc băng cố định nẹp (tối thiểu 7 dải): + Trên, dưới ổ gãy + Ngang gối + Sát bẹn + Ngang hông + Ngang ngực + Băng số 8 cố định bàn chân vuông góc cẳng chân bên gãy + Buộc hai chân vào nhau", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_3.mp3"
+        },
+        {
+          "id": "YT_TH_4",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_4.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành băng vết thương mặt trước khuỷu tay",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Khay, kẹp, panh, kéo - Bông, băng, gạc. - Cồn 700 , nước muối sinh lý 9 %0 rửa vết thương. - Găng tay cao su", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân và người hỗ trợ", "chi_tiet": "- Động viên nạn nhân và giải thích việc mình sẽ làm. - Để nạn nhân tư thế phù hợp - Hướng dẫn người hỗ trợ", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "- Xử lý vết thương : + Rửa và sát khuẩn vết thương. Thấm khô. + Đặt gạc vô khuẩn che kín vết thương. - Băng vết thương : Có vòng cỗ định ban đầu và kết thúc. Rõ kiểu băng số tám. Vòng băng sau đè 2/3 chiều rộng vòng băng trước Treo tay tư thế cơ năng", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_4.mp3"
+        },
+        {
+          "id": "YT_TH_5",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành cố định cột sống cổ bằng nẹp nhựa trong trường hợp nạn nhân ngồi.",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Chọn nẹp nhựa cột sống cổ cỡ phù hợp.", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân", "chi_tiet": "- Động viên nạn nhân. Sắp xếp tư thế và nới khuy cổ áo nạn nhân. - Chỉ dẫn cho người hỗ trợ vị trí đứng.", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "Người phụ: Đỡ cho đầu- cổ- thân trên nạn nhân ngay ngắn đến khi cố định xong. Người chính: - Lấy nẹp. Nẹp cổ có hai nửa, nửa phía trước rộng hơn nửa phía sau. Mở rộng hoàn toàn các dây đai của nẹp, để dây đai ở tư thế mở. - Lắp nẹp cổ cho nạn nhân: + Lắp nửa phía sau trước, ôm lấy gáy, nửa phía trước lắp sau, ôm lấy phần dưới cằm. Dán các dây đai đủ chắc nâng đỡ đầu không cho gập cổ. + Kiểm tra nẹp: Cạnh trên của nẹp thẳng hơn so với cạnh dưới. Cạnh trên nửa nẹp trước thì đỡ xương hàm dưới 2 bên. Cạnh trên nửa nẹp sau đỡ xương chẩm. Cạnh dưới của nẹp, nửa trước tỳ vào xương đòn và nửa sau tỳ vào khối cơ vai 2 bên. - Căn dặn nạn nhân giữ tư thế.", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_5.mp3"
+        },
+        {
+          "id": "YT_TH_6",
+          "category": "Y tế",
+          "subcategory": "Thực hành sơ cứu",
+          "type_question": "Thực hành",
+          "image_id": "images/illustrative_yt_th_6.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh (chị) thực hành cố định gẫy xương hở: Gãy xương cẳng chân",
+          "noi_dung_thuc_hanh": [
+            { "buoc": "Chuẩn bị dụng cụ", "chi_tiet": "- Khay, kẹp, panh, kéo. Nẹp - Bông, băng, gạc. - Cồn 700, nước muối sinh lý 9 %0. - Găng tay cao su.", "bieu_diem": 1.0 },
+            { "buoc": "Chuẩn bị bệnh nhân và người hỗ trợ", "chi_tiet": "- Động viên nạn nhân. - Để nạn nhâ tư thế phù hợp. - Hướng dẫn người hỗ trợ.", "bieu_diem": 1.0 },
+            { "buoc": "Kỹ thuật", "chi_tiet": "- Xử lý vết thương: + Rửa và sát khuẩn vết thương. Thấm khô. + Đặt gạc vô khuẩn che kín vết thương. +Băng vết thương: Có vòng cố định ban đầu và kết thúc. Rõ kiểu băng và dấu nhấn, vòng băng sau đè 2/3 chiều rộng vòng băng trước. - Cố định xương gãy: + Đặt nẹp trong và ngoài giữ xương đùi tới quá gót chân + Đặ đệm lót. + Buộc dây hoặc quấn băng cố định nẹp. Buộc trên và dưới ổ gãy. Buộc trên khớp gối. Cố định bàn chân – cổ chân kiểu băng số 8 Buộc hai chân với nhau tại cổ chân, đầu gối, sát bẹn.", "bieu_diem": 5.0 },
+            { "buoc": "Câu hỏi phụ", "chi_tiet": null, "bieu_diem": 3.0 }
+          ],
+          "speech_id_question": "YT_TH_6.mp3"
+        }
+      ],
+      "ly_thuyet_phu": [
+        {
+          "id": "YT_LT_1",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Băng vết thương: nhằm cầm máu, không bị nhiễm bẩn hay tổn thương thêm.",
+          "cau_tra_loi": "- Rửa sạch vết thương hở bằng cồn 70 độ hoặc xà phòng và nước sạch. - Đặt gạc băng vết thương, vòng sau đè lên vòng trước ½ chiều rộng cuộn băng. Không băng quá chặt, không để nút buộc đè lên vết thương. Nếu không có gạc có thể thay bằng mảnh quần áo sạch. * Vết thương thủng lồng ngực: xử lý vết thương thủng lồng ngực thành vết thương ngực kín bằng cách cuộn gạc vô khuẩn nhét kín vết thủng tới khi không còn tiếng phì phò. Tiếp tục làm sạch vết thương và băng lại bằng băng cuộn. * Vết thương bụng lòi ruột : Không ấn ruột vào ổ bụng. Dùng bát sạch hoặc kết vòng băng úp lên đám ruột. Băng lại bằng băng cuộn.",
+          "speech_id_question": "YT_LT_1.mp3",
+          "speech_id_answer": "YT_LT_1_ans.mp3"
+        },
+        {
+          "id": "YT_LT_2",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu cầm máu: là việc cần làm khẩn cấp khi chảy máu thành tia hoặc ồ ạt.",
+          "cau_tra_loi": "- Ấn chặt ngón tay hoặc nắm tay (hoặc bất kỳ thứ gì an toàn) vào vị trí máu phun ra hoặc đường đi của động mạch để máu không chảy nữa. - Đặt bông gạc lên vết thương rồi băng ép bằng băng cuộn bản rộng để cầm máu. - Nếu máu vẫn chảy hoặc trường hợp bị cụt chi thì phải đặt garô cho nạn nhân: Dùng dây đàn hồi hoặc dây mềm buộc trên vị trí tổn thương 5-10cm. Buộc chặt tối đa để máu ngừng chảy. Cần chú ý: * Đặt ga rô phải ghi họ tên nạn nhân, giờ đặt, vào mảnh giấy, rồi buộc mảnh giấy vào vị trí cầm máu và chuyển nhanh nạn nhân tới bệnh viện. * Cứ 20 - 30 phút phải nới dây ga rô một lần trong 2 phút để da được tưới máu hồng lại. * Phần chi bị đứt rời phải cho vào túi nhựa, để vào phích đá, ghi tên và gửi theo bệnh nhân tới bệnh viện để được nối lại.",
+          "speech_id_question": "YT_LT_2.mp3",
+          "speech_id_answer": "YT_LT_2_ans.mp3"
+        },
+        {
+          "id": "YT_LT_3",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu cố định xương gãy: nhằm đỡ đau và hạn chế xương gãy chọc ra xung quanh.",
+          "cau_tra_loi": "Gãy xương thường gây đau đớn, biến dạng, cử động khó hoặc không cử động được. Nếu có vết thương đi kèm thì phải băng vết thương trước khi cố định xương gãy: - Dùng nẹp gỗ, nẹp tre hoặc cành cây, bìa sách, chăn, vải… gập lại làm nẹp. - Lấy dây buộc cố định nẹp với chi, không cho khớp trên và dưới ổ gãy di động. Cần chú ý: * Cố định chắc chắn nhưng không quá chặt ảnh hưởng tới lưu thông máu. * Dùng bông, vải, đệm vào chỗ tiếp xúc giữa xương và nẹp để đỡ trầy xước và cản trở tuần hoàn. * Không có nẹp thì buộc cố định chân gãy với chân lành, buộc tay gãy vào cơ thể.",
+          "speech_id_question": "YT_LT_3.mp3",
+          "speech_id_answer": "YT_LT_3_ans.mp3"
+        },
+        {
+          "id": "YT_LT_4",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_4.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu chấn thương cột sống:",
+          "cau_tra_loi": "Sau tai nạn, nếu bệnh nhân thấy đau cổ, đau lưng, cột sống biến dạng, có khi liệt, thì có thể họ đã bị chấn thương cột sống. Dùng dây cố định nạn nhân vào cáng cứng (hoặc cánh cửa, tấm gỗ) tại các vị trí: trán, ngực, trên mào chậu, đùi, cổ chân. Chuyển ngay tới bệnh viện.",
+          "speech_id_question": "YT_LT_4.mp3",
+          "speech_id_answer": "YT_LT_4_ans.mp3"
+        },
+        {
+          "id": "YT_LT_5",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu thổi ngạt cấp cứu cho bệnh nhân bị ngừng thở",
+          "cau_tra_loi": "- Để nạn nhân nằm ngửa trên mặt phẳng cứng. - Khai thông đường thở bằng cách loại các dị vật trong miệng nạn nhân. - Một tay ấn trán để ngửa cổ và bịt mũi nạn nhân bằng ngón cái và ngón trỏ, một tay nâng cằm, mở miệng nạn nhân; cấp cứu viên hít một hơi dài rồi ngậm vào miệng nạn nhân mà thổi vào thật mạnh, làm hai hơi như vậy, mỗi hơi từ 1-1,5 giây, tiếp tục thổi như vậy cứ 5 giây một lần. Nếu không thổi được đường miệng nạn nhân thì bịt miệng thổi đường mũi.",
+          "speech_id_question": "YT_LT_5.mp3",
+          "speech_id_answer": "YT_LT_5_ans.mp3"
+        },
+        {
+          "id": "YT_LT_6",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu ép tim: cấp cứu cho nạn nhân bị bất tỉnh, tim mạch ngừng đập",
+          "cau_tra_loi": "Để nạn nhân nằm ngửa trên mặt phẳng cứng, cấp cứu viên quỳ sát bên nạn nhân, đặt gót tay lên xương ức, cách mỏm ức khoảng 3cm, tay kia đè chồng lên và dùng sức của cả cơ thể ấn xuống hai tay tạo áp lực mạnh làm lún xương ức rồi thả ra. Động tác ép và thả nhanh gọn, dứt khoát. Cần chú ý : * Nếu chỉ có một cấp cứu viên thì cứ ép tim 15 lần trong 11-12 giây lại quay ra thổi ngạt 2 lần trong 3-4 giây. * Nếu có hai cấp cứu viên thì cứ ép tim 5 lần lại để người kia thổi ngạt 1 lần. * Sau khi cấp cứu thành công, để nạn nhân ở tư thế thoải mái, kê đầu vai cao hơn một chút cho dễ thở. * Nếu nạn nhân bị các chấn thương khác kèm theo thì ưu tiên cấp cứu ép tim thổi ngạt trước. * Nếu nạn nhân bất tỉnh ngừng tim, ngừng thở do điện giật thì phải được tách khỏi nguồn điện rồi mới tiến hành cấp cứu. * Nếu nạn nhân bất tỉnh ngừng tim, ngừng thở do khí độc thì phải được đưa khỏi nơi có khí độc rồi mới tiến hành cấp cứu.",
+          "speech_id_question": "YT_LT_6.mp3",
+          "speech_id_answer": "YT_LT_6_ans.mp3"
+        },
+        {
+          "id": "YT_LT_7",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_7.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu ngộ độc thực phẩm:",
+          "cau_tra_loi": "- Bệnh nhân có biểu hiện mệt mỏi, khó chịu, có thể đau bụng, buồn nôn, tiêu chảy sau khi ăn vài giờ. - Không để bệnh nhân ăn gì cho tới khi sức khỏe ổn định trở lại. Nếu tình trạng nặng thì phải gửi tới bệnh viện.",
+          "speech_id_question": "YT_LT_7.mp3",
+          "speech_id_answer": "YT_LT_7_ans.mp3"
+        },
+        {
+          "id": "YT_LT_8",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_8.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu ngộ độc hóa chất:",
+          "cau_tra_loi": "- Sau khi tiếp xúc với hóa chất, nạn nhân có biểu hiện đau bụng dữ dội, nôn mửa, có thể đi ngoài ra máu. - Không được gây nôn cưỡng bức mà gửi nhanh nhất tới bệnh viện.",
+          "speech_id_question": "YT_LT_8.mp3",
+          "speech_id_answer": "YT_LT_8_ans.mp3"
+        },
+        {
+          "id": "YT_LT_9",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_9.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu say nắng, say nóng:",
+          "cau_tra_loi": "- Do tiếp xúc lâu với ánh mặt trời hoặc nhiệt độ cao mà nạn nhân có biểu hiện mệt mỏi, nhức đầu, chóng mặt, buồn nôn, nặng có thể hôn mê, co giật. - Cần đưa nạn nhân vào nơi thoáng mát, uống nước mát, chườm mát, quạt mát để dần hồi phục. - Nếu tình trạng nặng hoặc không cải thiện thì chuyển nhanh đến bệnh viện. - Không chườm đá lạnh hoặc uống thuốc hạ sốt vì không có tác dụng.",
+          "speech_id_question": "YT_LT_9.mp3",
+          "speech_id_answer": "YT_LT_9_ans.mp3"
+        },
+        {
+          "id": "YT_LT_10",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_10.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu cảm lạnh:",
+          "cau_tra_loi": "- Nạn nhân tiếp xúc lâu với môi trường lạnh có biểu hiện mệt, rét run, môi thâm, sổ mũi, chân tay lạnh cóng, nặng có thể ngừng tim. - Cần đưa nạn nhân vào nơi kín gió, ủ ấm, uống nước ấm, chườm ấm, có thể xoa dầu cao. - Nếu không cải thiện thì chuyển nhanh tới bệnh viện.",
+          "speech_id_question": "YT_LT_10.mp3",
+          "speech_id_answer": "YT_LT_10_ans.mp3"
+        },
+        {
+          "id": "YT_LT_11",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_11.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu bỏng do nhiệt:",
+          "cau_tra_loi": "- Ngay lập tức ngâm vết bỏng vào nước mát hoặc tốt nhất là cho dòng nước mát chảy liên tục vào vết bỏng, ít nhất 10 phút. - Sau đó, tổn thương nhẹ thì chỉ cần băng vết bỏng lại để bảo vệ, nặng thì che vết bỏng bằng tấm màng nilon (loại bọc thức ăn để tủ lạnh) rồi chuyển viện.",
+          "speech_id_question": "YT_LT_11.mp3",
+          "speech_id_answer": "YT_LT_11_ans.mp3"
+        },
+        {
+          "id": "YT_LT_12",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_yt_lt_12.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Cấp cứu nạn nhân bị rắn cắn:",
+          "cau_tra_loi": "- Chỗ bị rắn cắn có thể đau buốt, sưng đỏ, tụ máu. Nạn nhân nặng có thể mệt mỏi, buồn nôn, vã mồ hồi, đau bắp cơ, nặng hơn có thể khó thở, tim đập nhanh, huyết áp tăng và có thể tử vong. - Trong 3-5 phút đầu có thể dùng miệng hút nọc độc và máu tại vết cắn rồi nhổ đi nhiều lần, có thể bóp nặn bỏ máu độc. - Rửa vết cắn bằng xà phòng nước sạch nhiều lần. Có thể chườm đá. Bất động vết cắn ở vị trí thấp hơn tim rồi chuyển viện ngay.",
+          "speech_id_question": "YT_LT_12.mp3",
+          "speech_id_answer": "YT_LT_12_ans.mp3"
+        },
+        {
+          "id": "YT_LT_13",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Vận chuyển nạn nhân:",
+          "cau_tra_loi": "Tùy tình trạng bệnh và điều kiện tại chỗ để vận chuyển nạn nhân bằng cách dìu hoặc cõng, bế, vác, khiêng... Cần chú ý : * Mọi nạn nhân đều phải được xử lý tổn thương trước khi nâng hay vận chuyển đi. * Nạn nhân bị ngạt do hơi khí độc thì cấp cứu viên chạy vào theo chiều gió và đưa nạn nhân ra ngược chiều gió. * Bất cứ bệnh nhân có rối loạn ý thức và đa thương tổn đều phải coi là có thương tổn tủy sống và phải vận chuyển bằng cáng cứng. * Với vận chuyển bằng cáng, bệnh nhân phải được cố định chắc chắn trên cáng trước đó, đặc biệt với chấn thương cột sống phải vận chuyển bằng cáng cứng. Giữ cáng thường xuyên thăng bằng, không lắc lư, người khiêng không được đi đều bước. Khi lên xuống dốc phải làm sao để đầu bệnh nhân luôn ở phía cao hơn.",
+          "speech_id_question": "YT_LT_13.mp3",
+          "speech_id_answer": "YT_LT_13_ans.mp3"
+        },
+        {
+          "id": "YT_LT_14",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Một số trường hợp hay gặp khác:",
+          "cau_tra_loi": "- Cấp cứu hạ đường huyết ở bệnh nhân tiểu đường: + Cho bệnh nhân ăn viên kẹo hoặc đồ uống ngọt. + Động viên bệnh nhân. + Nếu không cải thiện thì chuyển tới bệnh viện. - Cấp cứu bệnh nhân lên cơn hen: + Giúp bệnh nhân ngồi xuống nơi thoải mái và giúp họ lấy thuốc hen mang theo để xịt. + Động viên bệnh nhân. + Nếu không cải thiện thì gọi cấp cứu hỗ trợ - Cấp cứu bệnh nhân bị đột quỵ não: + Đột nhiên bệnh nhân bị ngãy hoặc bất tỉnh, đau đầu dữ dội, có thể kèm theo méo mặt, chân tay không cử động được hoặc cử động yếu, có thể trả lời khó khăn khi gọi, hỏi. + Để bệnh nhân ngồi hoặc nằm nguyên thoải mái tại chỗ, động viên bệnh nhân và gọi cấp cứu hỗ trợ. - Cấp cứu bệnh nhân bị đau tim: + Không di chuyển mà giữ bệnh nhân ngồi hoặc nằm nguyên thoải mái ngay tại vị trí phát hiện ra bệnh nhân rồi gọi cấp cứu hỗ trợ. - Cấp cứu bệnh nhân có cơn động kinh: + Không tác động vào bệnh nhân, có thể dùng chăn chèn, che chắn bảo vệ đầu bệnh nhân tránh bị thương. + Sau cơn động kinh thì để bệnh nhân nằm nghiêng, nghỉ tại chỗ, với đầu hơi ngửa về sau cho dễ thở. - Cấp cứu hóc dị vật đường thở: + Để nạn nhân hơi cúi đầu về phía trước, cấp cứu viên đứng phía sau, dùng gót tay tác động mạnh vào lưng, nơi giữa hai vai nạn nhân để tống dị vật ra.",
+          "speech_id_question": "YT_LT_14.mp3",
+          "speech_id_answer": "YT_LT_14_ans.mp3"
+        },
+        {
+          "id": "YT_LT_15",
+          "category": "Y tế",
+          "subcategory": "Câu hỏi phụ",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Ngộ độc amoniac (hay gặp trong nhà máy sản xuất amoniac):",
+          "cau_tra_loi": "- Khi tiếp xúc với amoniac, bạn có thể nhận biết ngay vì nó có mùi vị đặc trưng, khó chịu và gây kích ứng da, mắt, mũi và họng. Hít phải amoniac với nồng độ thấp có thể gây ho, kích ứng mũi, họng. Nuốt phải amoniac có thể gây phỏng miệng, họng và dạ dày. Tiếp xúc với amoniac nồng độ cao có thể ngay lập tức gây phỏng da, mắt, mũi, họng, đường hô hấp và có thể dẫn đến mù, tổn thương phổi hoặc tử vong. Không làm việc một mình khi tiếp xúc với hóa chất này. - Nhanh chóng di chuyển khỏi nơi bị nhiễm amoniac. Nếu amoniac rỏ rỉ trong nhà, hãy đi ra ngoài, nếu tai nạn về amoniac sảy ra bên ngoài hãy ở trong nhà, đóng tất cả các cửa, tắt máy điều hòa nhiệt độ. - Nhanh chóng cởi bỏ quần áo dính amoniac, tốt nhất là cắt bỏ để hạn chế tiếp xúc. Cho quần áo này vào túi nhựa, buộc chặt để tránh gây nhiễm thêm, để nơi đúng qui định. - Nhanh chóng rửa sạch amoniac dính trên cơ thể với xà phòng và nước, rửa sạch mắt với nhiều nước. Không dùng chất tẩy khác để rửa amoniac trên da. - Những nạn nhân nặng như ho nặng, kéo dài, phỏng họng ... cần chuyển viện ngay./.",
+          "speech_id_question": "YT_LT_15.mp3",
+          "speech_id_answer": "YT_LT_15_ans.mp3"
+        }
+      ]
+    },
+    "phong_chay_chua_chay": {
+      "trac_nghiem": [
+        {
+          "id": "PCCC_TN_1",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_pccc_tn_1.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết những yếu tố nào sau đây cần thiết cho sự cháy?",
+          "phuong_an": {
+            "a": "Chất cháy, ô xy.",
+            "b": "Ô xy, nguồn nhiệt.",
+            "c": "Nguồn nhiệt.",
+            "d": "Chất cháy, ô xy, nguồn nhiệt."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "PCCC_TN_1.mp3",
+          "speech_id_options_A": "PCCC_TN_1_A.mp3",
+          "speech_id_options_B": "PCCC_TN_1_B.mp3",
+          "speech_id_options_C": "PCCC_TN_1_C.mp3",
+          "speech_id_options_D": "PCCC_TN_1_D.mp3",
+          "speech_id_answer": "PCCC_TN_1_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_2",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết để hình thành sự cháy cần phải có những điều kiện nào?",
+          "phuong_an": {
+            "a": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; thời gian tiếp xúc phải đủ lớn; năng lượng của nguồn nhiệt phải đủ lớn (nhiệt độ của nguồn nhiệt bằng nhiệt độ tự bốc cháy của chất cháy); nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy.",
+            "b": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; thời gian tiếp xúc phải đủ lớn; nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy.",
+            "c": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; năng lượng của nguồn nhiệt phải đủ lớn (nhiệt độ của nguồn nhiệt bằng nhiệt độ tự bốc cháy của chất cháy); nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy."
+          },
+          "dap_an_dung": "a",
+          "speech_id_question": "PCCC_TN_2.mp3",
+          "speech_id_options_A": "PCCC_TN_2_A.mp3",
+          "speech_id_options_B": "PCCC_TN_2_B.mp3",
+          "speech_id_options_C": "PCCC_TN_2_C.mp3",
+          "speech_id_options_D": null,
+          "speech_id_answer": "PCCC_TN_2_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_3",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_pccc_tn_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết các biện pháp cơ bản trong phòng cháy?",
+          "phuong_an": {
+            "a": "Quản lý chặt chẽ và sử dụng an toàn các chất cháy, chất nổ, nguồn lửa, nguồn nhiệt, thiết bị và dụng cụ sinh lửa, sinh nhiệt, chất sinh lửa, sinh nhiệt; bảo đảm các điều kiện an toàn về phòng cháy.",
+            "b": "Thường xuyên, định kỳ kiểm tra phát hiện các sơ hở, thiếu sót về phòng cháy và có biện pháp khắc phục kịp thời.",
+            "c": "Cả hai đáp án trên."
+          },
+          "dap_an_dung": "c",
+          "speech_id_question": "PCCC_TN_3.mp3",
+          "speech_id_options_A": "PCCC_TN_3_A.mp3",
+          "speech_id_options_B": "PCCC_TN_3_B.mp3",
+          "speech_id_options_C": "PCCC_TN_3_C.mp3",
+          "speech_id_options_D": null,
+          "speech_id_answer": "PCCC_TN_3_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_4",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": "images/illustrative_pccc_tn_4.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết các biện pháp cơ bản trong chữa cháy?",
+          "phuong_an": {
+            "a": "Huy động nhanh nhất các lực lượng, phương tiện để dập tắt ngay đám cháy.",
+            "b": "Tập trung cứu người, cứu tài sản và chống cháy lan.",
+            "c": "Thống nhất chỉ huy, điều hành trong chữa cháy.",
+            "d": "Cả ba đáp án trên."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "PCCC_TN_4.mp3",
+          "speech_id_options_A": "PCCC_TN_4_A.mp3",
+          "speech_id_options_B": "PCCC_TN_4_B.mp3",
+          "speech_id_options_C": "PCCC_TN_4_C.mp3",
+          "speech_id_options_D": "PCCC_TN_4_D.mp3",
+          "speech_id_answer": "PCCC_TN_4_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_5",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị cần làm gì khi phát hiện có đám cháy gần nơi làm việc?",
+          "phuong_an": {
+            "a": "Bình tĩnh báo động cho mọi người cùng biết; nhanh chóng báo cáo cho lãnh đạo trực tiếp; cắt điện khu vực xảy ra cháy; chủ động sử dụng mọi phương tiện chữa cháy tại chỗ để chữa cháy, cứu người; điện báo ngay cho lực lượng Cảnh sát PCCC (nếu thấy đám cháy lớn, phát triển nhanh mà lực lượng tại chỗ không thể dập tắt được) theo số máy 114; tích cực tham gia bảo vệ tài sản, chống cháy lan.",
+            "b": "Bình tĩnh báo động cho mọi người cùng biết; nhanh chóng báo cáo cho lãnh đạo trực tiếp; chủ động sử dụng mọi phương tiện chữa cháy tại chỗ để chữa cháy, cứu người; điện báo ngay cho lực lượng Cảnh sát PCCC (nếu thấy đám cháy lớn, phát triển nhanh mà lực lượng tại chỗ không thể dập tắt được) theo số máy 114; tích cực tham gia bảo vệ tài sản, chống cháy lan."
+          },
+          "dap_an_dung": "a",
+          "speech_id_question": "PCCC_TN_5.mp3",
+          "speech_id_options_A": "PCCC_TN_5_A.mp3",
+          "speech_id_options_B": "PCCC_TN_5_B.mp3",
+          "speech_id_options_C": null,
+          "speech_id_options_D": null,
+          "speech_id_answer": "PCCC_TN_5_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_6",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết trách nhiệm của cá nhân trong công tác PCCC?",
+          "phuong_an": {
+            "a": "Chấp hành quy định, nội quy, yêu cầu về PCCC của người hoặc cơ quan có thẩm quyền.",
+            "b": "Tuân thủ pháp luật và nắm vững kiến thức cần thiết về PCCC; biết sử dụng dụng cụ, phương tiện PCCC thông dụng.",
+            "c": "Bảo đảm an toàn về PCCC trong quá trình sử dụng nguồn lửa, nguồn nhiệt, thiết bị, dụng cụ sinh lửa, sinh nhiệt và trong bảo quản, sử dụng chất cháy; ngăn chặn nguy cơ trực tiếp phát sinh cháy, hành vi vi phạm quy định an toàn về PCCC.",
+            "d": "Cả 03 đáp án trên."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "PCCC_TN_6.mp3",
+          "speech_id_options_A": "PCCC_TN_6_A.mp3",
+          "speech_id_options_B": "PCCC_TN_6_B.mp3",
+          "speech_id_options_C": "PCCC_TN_6_C.mp3",
+          "speech_id_options_D": "PCCC_TN_6_D.mp3",
+          "speech_id_answer": "PCCC_TN_6_ans.mp3"
+        },
+        {
+          "id": "PCCC_TN_7",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lĩnh vực PCCC",
+          "type_question": "Trắc nghiệm",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy cho biết nguyên tắc cơ bản trong hoạt động CNCH?",
+          "phuong_an": {
+            "a": "Ưu tiên cứu người bị nạn; thực hiện ngay các biện pháp bảo đảm an toàn tính mạng, sức khỏe, phương tiện, tài sản của người bị nạn và lực lượng CNCH.",
+            "b": "Bảo đảm nhanh chóng, kịp thời, hiệu quả và thống nhất trong chỉ huy, điều hành hoạt động CNCH.",
+            "c": "Lấy lực lượng, phương tiện tại chỗ là chủ yếu, lực lượng chuyên trách làm nòng cốt, huy động tổng hợp các lực lượng và nhân dân tham gia CNCH.",
+            "d": "Cả 03 đáp án trên."
+          },
+          "dap_an_dung": "d",
+          "speech_id_question": "PCCC_TN_7.mp3",
+          "speech_id_options_A": "PCCC_TN_7_A.mp3",
+          "speech_id_options_B": "PCCC_TN_7_B.mp3",
+          "speech_id_options_C": "PCCC_TN_7_C.mp3",
+          "speech_id_options_D": "PCCC_TN_7_D.mp3",
+          "speech_id_answer": "PCCC_TN_7_ans.mp3"
+        }
+      ],
+      "ly_thuyet": [
+        {
+          "id": "PCCC_LT_1",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy nêu các yếu tố và điều kiện hình thành sự cháy/đám cháy?",
+          "cau_tra_loi": "- Có 03 yếu tố cần thiết cho sự cháy bao gồm: Chất cháy, ô xy và nguồn nhiệt. (1) Chất cháy: Các chất cháy được ở thể rắn (gỗ, tre, vải, giấy…); thể lỏng (xăng, dầu, cồn, rượu...) và thể khí (mê tan, axêtylen, hydro...); (2) Ô xy: Luôn có trong không khí, chiếm khoảng 21% thể tích không khí ở điều kiện bình thường; khi nồng độ ô xy trong không khí giảm xuống còn bằng hoặc dưới 14 % thì sự cháy không duy trì được nữa; (3) Nguồn nhiệt: Có nhiều loại nguồn nhiệt khác nhau, như ngọn lửa trần, tàn lửa, ma sát giữa các vật rắn sinh ra, nguồn nhiệt do tác dụng của các hoá chất với nhau, do tác dụng năng lượng điện, bức xạ mặt trời, do sét ... - Có 4 điều kiện để hình thành sự cháy, gồm: (1) Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; (2) Thời gian tiếp xúc phải đủ lớn; (3) Năng lượng của nguồn nhiệt phải đủ lớn (Nhiệt độ của nguồn nhiệt bằng nhiệt độ tự bốc cháy của chất cháy); (4) Nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy.",
+          "speech_id_question": "PCCC_LT_1.mp3",
+          "speech_id_answer": "PCCC_LT_1_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_2",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị cho biết biện pháp cơ bản trong phòng cháy? Liên hệ thực tế tại cơ sở anh/chị đang làm việc?",
+          "cau_tra_loi": "Biện pháp cơ bản trong phòng cháy được quy định tại Điều 14 - Luật PCCC năm 2001, gồm: - Quản lý chặt chẽ và sử dụng an toàn các chất cháy, chất nổ, nguồn lửa, nguồn nhiệt, thiết bị và dụng cụ sinh lửa, sinh nhiệt, chất sinh lửa, sinh nhiệt; bảo đảm các điều kiện an toàn về phòng cháy. - Thường xuyên, định kỳ kiểm tra phát hiện các sơ hở, thiếu sót về phòng cháy và có biện pháp khắc phục kịp thời. * Liên hệ thực tế: - Ban hành các nội quy an toàn về PCCC, về sử dụng điện, quản lý chất cháy, chất nổ, nguồn lửa, nguồn nhiệt,…; niêm yết, phổ biến và tổ chức thực hiện; - Thường xuyên kiểm tra (01 tháng/lần) về điều kiện bảo đảm an toàn PCCC tại các khu vực, hạng mục, công trình; tình trạng hoạt động của các hệ thống, thiết bị, phương tiện, dụng cụ PCCC được trang bị; tổ chức khắc phục kịp thời các tồn tại, thiếu sót, vi phạm về PCCC tại cơ sở.",
+          "speech_id_question": "PCCC_LT_2.mp3",
+          "speech_id_answer": "PCCC_LT_2_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_3",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy nêu những điều kiện an toàn về PCCC đối với cơ sở do cơ quan Công an quản lý?",
+          "cau_tra_loi": "Yêu cầu về công tác phòng cháy đối với cơ sở do cơ quan Công an quản lý được quy định tại Điều 20 - Luật PCCC năm 2001 và được quy định chi tiết tại khoản 1 Điều 5 Nghị định số 136/2020/NĐ-CP: - Có nội quy, biển cấm, biển báo, sơ đồ hoặc biển chỉ dẫn về PCCC, thoát nạn phù hợp; - Có lực lượng PCCC cơ sở, chuyên ngành tương ứng với loại hình cơ sở, được huấn luyện nghiệp vụ PCCC và tổ chức sẵn sàng chữa cháy đáp ứng yêu cầu chữa cháy tại chỗ theo quy định; - Có phương án chữa cháy được cấp có thẩm quyền phê duyệt; - Hệ thống điện, chống sét, chống tĩnh điện, thiết bị sử dụng điện, sinh lửa, sinh nhiệt, việc sử dụng nguồn lửa, nguồn nhiệt phải bảo đảm an toàn về PCCC; - Có hệ thống giao thông, cấp nước, thông tin liên lạc phục vụ chữa cháy, hệ thống quản lý cơ sở dữ liệu về PCCC và truyền tin báo sự cố, hệ thống báo cháy, chữa cháy, ngăn cháy, ngăn khói, thoát nạn, phương tiện PCCC khác, phương tiện cứu người bảo đảm về số lượng, chất lượng; - Có Giấy chứng nhận thẩm duyệt thiết kế và văn bản thẩm duyệt thiết kế (nếu có) và văn bản chấp thuận kết quả nghiệm thu về PCCC của cơ quan Cảnh sát PCCC đối với dự án, công trình thuộc diện thẩm duyệt, nghiệm thu theo quy định.",
+          "speech_id_question": "PCCC_LT_3.mp3",
+          "speech_id_answer": "PCCC_LT_3_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_4",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị nêu trách nhiệm PCCC của người đứng đầu cơ sở?",
+          "cau_tra_loi": "Trách nhiệm PCCC của người đứng đầu cơ sở được quy định tại Khoản 2 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật PCCC - Tổ chức tuyên truyền, phổ biến kiến thức về PCCC; xây dựng phong trào toàn dân tham gia PCCC; thành lập, duy trì hoạt động đội PCCC theo quy định của pháp luật; - Ban hành theo thẩm quyền nội quy và biện pháp về PCCC; - Tổ chức thực hiện, kiểm tra, giám sát việc chấp hành quy định về PCCC; - Bảo đảm kinh phí cho hoạt động PCCC, sử dụng kinh phí PCCC đúng mục đích; trang bị và duy trì hoạt động của dụng cụ, phương tiện PCCC; chuẩn bị các điều kiện phục vụ chữa cháy; - Xây dựng, tổ chức thực tập phương án chữa cháy; bảo đảm các điều kiện phục vụ công tác huấn luyện nghiệp vụ về PCCC; tổ chức chữa cháy và khắc phục hậu quả do cháy gây ra; - Thực hiện nhiệm vụ khác về PCCC theo quy định của pháp luật.",
+          "speech_id_question": "PCCC_LT_4.mp3",
+          "speech_id_answer": "PCCC_LT_4_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_5",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_pccc_lt_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị cần làm gì khi phát hiện có đám cháy gần nơi làm việc?",
+          "cau_tra_loi": "Khi phát hiện có đám cháy xảy ra gần nơi làm việc, cần phải: - Bình tĩnh báo động cho mọi người cùng biết; - Nhanh chóng báo cáo cho lãnh đạo trực tiếp; - Cắt điện khu vực xảy ra cháy; chủ động sử dụng mọi phương tiện chữa cháy tại chỗ để chữa cháy, cứu người (nếu có); - Điện báo ngay cho lực lượng Cảnh sát PCCC (nếu thấy đám cháy lớn, phát triển nhanh mà lực lượng tại chỗ không thể dập tắt được) theo số máy 114; - Tích cực tham gia bảo vệ tài sản, chống cháy lan ...",
+          "speech_id_question": "PCCC_LT_5.mp3",
+          "speech_id_answer": "PCCC_LT_5_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_6",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Để bảo đảm an toàn PCCC tại nhà ở hộ gia đình, anh chị nên làm gì?",
+          "cau_tra_loi": "Điều kiện bảo đảm an toàn PCCC đối với nhà ở được quy định tại khoản 1 Điều 17 Luật PCCC năm 2001 và được cụ thể hóa tại Điều 7 Nghị định số 136/2020/NĐ-CP. Để bảo đảm an toàn PCCC đối với hộ gia đình, cần: 1. Thường xuyên tìm hiểu và hướng dẫn các thành viên trong gia đình nắm vững kiến thức về phòng cháy, kỹ năng chữa cháy, thoát nạn và thực hiện; 2. Bảo đảm an toàn đối với lối ra thoát nạn của nhà; có phương án bố trí lối thoát khẩn cấp (lối thoát nạn thứ 2) của nhà qua lô gia, ban công, cửa sổ, lối lên mái…; khi lắp đặt biển quảng cáo, lồng sắt ngoài nhà, không được cản trở hoạt động thoát nạn; 3. Hệ thống điện: Có thiết bị đóng, ngắt, bảo vệ (cầu dao, aptomat…) cho toàn bộ nhà, từng tầng, thiết bị điện có công suất lớn; không tự ý câu mắc, lắp đặt thêm các thiết bị tiêu thụ điện, không để các vật dụng, chất dễ cháy gần ổ cắm, bảng điện; 4. Quản lý chặt chẽ nguồn lửa, nguồn nhiệt, thiết bị sinh nhiệt… trong khi sử dụng; sắp xếp, để các vật dụng, phương tiện không cản trở đường, lối thoát nạn và không để vật liệu dễ cháy gần nguồn lửa, nguồn nhiệt; không tích trữ chất dễ cháy, nổ trong nhà (khí LPG, xăng, dầu,…); 5. Trang bị bình chữa cháy xách tay, đèn pin, dây cứu người, mặt nạ phòng độc, dây hạ chậm… phù hợp với ngôi nhà và để ở nơi dễ thấy, dễ lấy, gần lối thoát nạn; 6. Khi xảy ra cháy, bình tĩnh xử lý, hô hoán, báo động cho mọi người biết để thoát nạn an toàn và tổ chức chữa cháy; báo ngay cho Cảnh sát PCCC và CNCH theo số máy 114.",
+          "speech_id_question": "PCCC_LT_6.mp3",
+          "speech_id_answer": "PCCC_LT_6_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_7",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/ Chị hãy nêu biện pháp xử lý và thoát nạn khi xảy ra cháy tại hộ gia đình?",
+          "cau_tra_loi": "1. Khi phát hiện đám cháy mới phát sinh phải hô hoán nhằm báo động cho mọi người cùng biết, đồng thời sử dụng phương tiện chữa cháy tại chỗ để dập tắt đám cháy; chú ý phải cắt điện khu vực xảy ra đám cháy trước khi chữa cháy. 2. Nếu đám cháy lớn hoặc phát triển nhanh, xét thấy việc sử dụng phương tiện chữa cháy tại chỗ không thể dập tắt được, cần phải: - Di chuyển và hướng dẫn mọi người mau chóng di chuyển ra ngoài qua lối thoát nạn an toàn hoặc qua lối lên mái, ban công, cửa sổ sang nhà bên cạnh hoặc thoát xuống bằng dây hạ chậm, đồng thời báo ngay cho Cảnh sát PCCC và CNCH theo số điện thoại 114; - Trong quá trình di chuyển qua đám cháy nên dùng khăn thấm ướt che kín miệng, mũi và cúi thấp người để tránh nguy cơ bị ngạt khói, men theo tường và di chuyển đến nơi an toàn; - Trường hợp cửa chính bị lửa bao trùm hãy nhanh chóng tìm và mở lối thoát nạn khác (lối thoát nạn thứ 2) qua ban công, cửa sổ, sân thượng để sang nhà bên cạnh hoặc thoát xuống bằng dây hạ chậm hoặc bố trí lối thoát lên mái nếu mái nhà có kết cấu bằng các tấm lợp; tuyệt đối không núp trong phòng tắm, nhà vệ sinh. Trường hợp không còn lối thoát nào khác hãy dùng chăn thấm ướt, trùm kín người, bảo vệ cơ quan hô hấp, cố gắng thoát qua đám cháy nhanh nhất có thể; - Trường hợp lối và đường thoát nạn bị nhiễm khói, lửa mà không thể thoát từ gian phòng ra ngoài theo lối cầu thang bộ, cửa chính; nhanh chóng sử dụng khăn vải, băng dính để chèn, dán kín vào khe cửa để ngăn khói, khí độc tràn vào phòng đang ở, di chuyển ra ban công để báo hiệu cho lực lượng PCCC hỗ trợ biết, ứng cứu kịp thời.",
+          "speech_id_question": "PCCC_LT_7.mp3",
+          "speech_id_answer": "PCCC_LT_7_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_8",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Phương án chữa cháy của cơ sở phải bảo đảm những yêu cầu gì?",
+          "cau_tra_loi": "Theo quy định tại khoản 2 Điều 19 Nghị định số 136/2020/NĐ-CP, phương án chữa cháy phải bảo đảm các yêu cầu và nội dung cơ bản sau: 1. Nêu được tính chất, đặc điểm nguy hiểm về cháy, nổ, độc và các điều kiện liên quan đến hoạt động chữa cháy; 2. Đề ra tình huống cháy phức tạp nhất và một số tình huống cháy đặc trưng khác có thể xảy ra, khả năng phát triển của đám cháy theo các mức độ khác nhau; 3. Đề ra kế hoạch huy động, sử dụng lực lượng, phương tiện, tổ chức chỉ huy, biện pháp kỹ thuật, chiến thuật chữa cháy và các công việc phục vụ chữa cháy phù hợp với từng giai đoạn của từng tình huống cháy; 4. Phương án chữa cháy phải được bổ sung, chỉnh lý kịp thời và được cấp có thẩm quyền phê duyệt lại khi có những thay đổi lớn về quy mô, tính chất, đặc điểm nguy hiểm về cháy, nổ, độc và các điều kiện liên quan đến hoạt động chữa cháy.",
+          "speech_id_question": "PCCC_LT_8.mp3",
+          "speech_id_answer": "PCCC_LT_8_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_9",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy nêu cấu tạo, tính năng tác dụng, cách sử dụng và bảo quản bình chữa cháy xách tay sử dụng chất chữa cháy CO2? (Chọn câu 9 hoặc 10)",
+          "cau_tra_loi": "1. Cấu tạo Vỏ bình làm bằng thép chịu áp lực cao, có dạng hình trụ, thường được sơn màu đỏ, có gắn nhãn mác của nhà sản xuất và các thông số kỹ thuật của bình. Phía trên miệng bình được gắn cụm van (gồm van xả, van an toàn và khoá van). Một đầu vòi phun được gắn với van xả, một đầu gắn với loa phun. Khí CO2 được nén vào bình dưới áp suất cao nên luôn ở dạng lỏng. 2. Tính năng tác dụng của bình chữa cháy xách tay sử dụng chất chữa cháy CO2: Bình chữa cháy xách tay sử dụng chất chữa cháy CO2 dùng để dập tắt các đám cháy nhỏ mới phát sinh: Đám cháy chất rắn, chất lỏng và hiệu quả cao đối với đám cháy thiết bị điện, đám cháy trong phòng kín, buồng hầm. 3. Nguyên lý chữa cháy bằng bình chữa cháy xách tay sử dụng chất chữa cháy CO2 Khi mở van bình, do có sự chênh lệch về áp suất, CO2 lỏng trong bình thoát ra ngoài qua hệ thống ống lặn và loa phun chuyển thành dạng như tuyết thán khí, lạnh tới -78,90C. Khi phun vào đám cháy, CO2 có tác dụng làm loãng nồng độ hỗn hợp hơi khí cháy, đồng thời làm lạnh vùng cháy dẫn tới triệt tiêu đám cháy. 4. Cách sử dụng Khi phát hiện đám cháy mới phát sinh, nhanh chóng lấy bình chữa cháy đã được trang bị ở các vị trí quy định tiếp cận đám cháy, khi cách đám cháy khoảng 5m, đặt đáy bình xuống đất, tay không thuận giữ chặt cổ bình, tay thuận rút chốt an toàn, sau đó định hướng loa phun sao cho loa phun hợp với thân bình 1 góc trong khoảng từ 400 đến 900. Tay không thuận nâng đáy bình, kết hợp tay thuận cầm vào vị trí tay cầm và cò phun đồng thời điều khiển để loa phun hướng vào gốc lửa, khoảng cách từ miệng loa phun đến gốc lửa càng gần càng tốt, bóp giữ cò phun cho đến khi chất chữa cháy CO2 dập tắt hoàn toàn đám cháy. 5. Những điều cần chú ý khi sử dụng và bảo quản bình chữa cháy xách tay sử dụng chất chữa cháy CO2 - Không sử dụng bình khí CO2 để chữa các đám cháy có kim loại kiềm, kiềm thổ, than cốc, phân đạm. Vì khi phun khí CO2 vào đám cháy sẽ sinh ra phản ứng hoá học, trong phản ứng đó sẽ tạo ra khí CO là loại khí vừa độc hại vừa có nguy hiểm cháy nổ làm cho đám cháy phát triển phức tạp thêm. - Khi phun không cầm vào phần vòi phun và loa phun, không để chất chữa cháy CO2 phun vào người dễ gây bỏng lạnh. - Không nên dùng bình chữa cháy xách tay sử dụng chất chữa cháy CO2 chữa các đám cháy ở nơi trống trải, có gió mạnh vì hiệu quả thấp. - Khi chữa cháy các thiết bị có điện cao thế phải đi ủng và găng tay cách điện; chữa cháy trong phòng kín phải có biện pháp bảo đảm an toàn cho người. - Đặt bình ở nơi râm mát, dễ thấy, dễ lấy, thuận tiện khi sử dụng. Không để bình ở nơi có nhiệt độ cao quá 550C dễ gây hiện tượng tăng áp suất dẫn đến nổ bình nếu van an toàn không hoạt động. - Thường xuyên kiểm tra, bảo dưỡng, thay thế nếu thấy hỏng hóc các bộ phận của bình: Loa phun, vòi phun, van khoá. Sửa chữa, thay thế những bình bị rò khí. - Phương pháp kiểm tra lượng CO2 trong bình: Phổ biến là phương pháp cân, nếu thấy lượng CO2 giảm so với lượng CO2 ban đầu là bình bị rò khí.",
+          "speech_id_question": "PCCC_LT_9.mp3",
+          "speech_id_answer": "PCCC_LT_9_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_10",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị hãy nêu cấu tạo tính năng tác dụng, nguyên lý chữa cháy, cách sử dụng và bảo quản bình chữa cháy xách tay sử dụng chất chữa cháy dạng bột.",
+          "cau_tra_loi": "1. Cấu tạo Vỏ bình làm bằng thép, có dạng hình trụ, thường sơn màu đỏ, có gắn nhãn mác của nhà sản xuất và thông số kỹ thuật của bình. Bên trong chứa bột khô và khí đẩy. Khí đẩy được nén trực tiếp trong bình hoặc nén vào chai gắn trên bên trong bình. Phía trên miệng bình gắn một cụm van xả cùng với khoá van và đồng hồ đo áp lực. Vòi và loa phun liền với cụm van xả. 2. Tính năng tác dụng Tuỳ theo mỗi loại bình chữa cháy có thể dập tắt được các đám cháy chất rắn, lỏng, khí cháy, đám cháy điện và thiết bị điện dựa trên các chữ cái A, B, C kí hiệu trên thân bình, cụ thể: + A: Chữa các đám cháy chất rắn như: gỗ, bông, vải, sợi… + B: Chữa các đám cháy chất lỏng như: xăng dầu, cồn, rượu… + C: Chữa các đám cháy chất khí như: gas (khí đốt hoá lỏng),… + Các số 2, 4, 8… thể hiện trọng lượng bột được nạp trong bình, đơn vị tính bằng kilôgam. 3. Nguyên lý chữa cháy Khi bóp cò (tuỳ từng loại bình có cấu tạo van khoá khác nhau thì cách mở khác nhau) bột khô trong bình được phun ra ngoài nhờ lực đẩy của khí nén (nén trực tiếp với bột hoặc trong chai riêng) qua hệ thống ống dẫn. Khi phun vào đám cháy bột có tác dụng kìm hãm phản ứng cháy và cách ly chất cháy với ôxy không khí, mặt khác ngăn cản hơi khí cháy tiến vào vùng cháy dẫn đến đám cháy bị dập tắt. 4. Cách sử dụng Khi phát hiện đám cháy mới phát sinh, nhanh chóng lấy bình chữa cháy đã được trang bị ở các vị trí quy định tiếp cận đám cháy, trong quá trình di chuyển đến gần vị trí đám cháy, kết hợp 2 tay để lắc, xóc mạnh bình làm tơi chất chữa cháy dạng bột chứa bên trong bình. Khi di chuyển đến cách đám cháy cách khoảng 5m, đặt đáy bình xuống đất, tay không thuận giữ chặt cổ bình, tay thuận rút chốt an toàn, sau đó mang lại gần đám cháy, chọn đầu hướng gió, tay thuận cầm vào vị trí tay cầm và cò phun kết hợp tay không thuận cầm miệng vòi phun hướng vào gốc lửa, khoảng cách miệng vòi phun đến gốc lửa từ 2 đến 3 m, bóp giữ cò phun cho đến khi chất chữa cháy có trong bình đã dập tắt hoàn toàn đám cháy. 5. Cách kiểm tra, bảo quản - Định kỳ không quá 30 ngày một lần kiểm tra áp lực khí nén trong bình thông qua đồng hồ đo áp lực đối với bình khí, nếu kim đồng hồ chỉ dưới vạch giới hạn (thông thường là vạch màu đỏ) thì phải nạp lại bình. Đối với bình bột, khi kiểm tra phải thực hiện việc lắc xóc bình; - Để bình ở nơi dễ thấy, dễ lấy, tiện sử dụng, không để bình ở nơi có nhiệt độ cao quá +550 C, nơi có chất ăn mòn; - Bình đã sử dụng chữa cháy hoặc đã hết khí thì nhất thiết phải nạp lại.",
+          "speech_id_question": "PCCC_LT_10.mp3",
+          "speech_id_answer": "PCCC_LT_10_ans.mp3"
+        },
+        {
+          "id": "PCCC_LT_11",
+          "category": "Phòng cháy chữa cháy",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Anh/Chị trình bày các tư thế và kỹ thuật cầm lăng B chữa cháy?",
+          "cau_tra_loi": "Có 3 tư thế cầm lăng chiến đấu a) Đứng cầm lăng Người sử dụng bước chân trái lên một bước ngang với đầu nối giữa lăng và vòi, gối hơi chùng, bàn chân phải xoay ngang tạo góc vuông với bàn chân trái. Sau đó cúi xuống, tay phải cầm lấy lăng, lòng bàn tay trái ngửa cầm lấy phần trên lăng, tay phải nắm sát đầu nối giữa lăng và vòi, cánh tay trái khép, đường vòi nằm dưới nách phải, trọng lượng cơ thể dồn về chân trái, chân phải thẳng, mắt nhìn thẳng mục tiêu. Tư thế đứng cầm lăng b) Quỳ cầm lăng Áp dụng trong đám cháy ở những nơi có gió mạnh, trên cao, nhiều khói, khí độc. Người sử dụng đang ở tư thế đứng cầm lăng, quỳ chân phải xuống, đầu gối chạm đất, trọng lượng cơ thể dồn vào gót, mũi chân phải, chân trái gập lại thành một góc gần vuông, hai chân mở ra tạo thành một góc vuông, lòng bàn tay trái ngửa cầm lấy phần trên lăng, khuỷu tay trái tỳ lên gối chân trái, tay phải nắm sát đầu nối giữa lăng và vòi, cánh tay trái khép, đường vòi nằm dưới nách phải, mắt nhìn thẳng mục tiêu. Tư thế quỳ cầm lăng c) Nằm cầm lăng Áp dụng đối với đám cháy có kèm theo nổ như cháy kho đạn, hóa chất hoặc ở những nơi có gió to, nhiều khói, khí độc. Người sử dụng đang ở tư thế đứng hoặc quỳ cầm lăng, đặt lăng xuống, hai tay giữ chặt vào lăng, dồn trọng lượng phần trên cơ thể lên hai tay, sau đó đưa chân trái về phía sau, tiếp theo là chân phải. Hai chân mở bằng vai, má chân trong sát mặt đất. Sau đó, chống khuỷu tay trái xuống mặt sàn/đất, lòng bàn tay trái ngửa nắm phần trên lăng, tay phải nắm sát đầu nối giữa lăng và vòi, cánh tay trái khép, đường vòi nằm dưới nách phải, chếch một góc 15o, mắt nhìn thẳng mục tiêu. Tư thế nằm cầm lăng",
+          "speech_id_question": "PCCC_LT_11.mp3",
+          "speech_id_answer": "PCCC_LT_11_ans.mp3"
+        }
+      ],
+      "thuc_hanh": []
+    },
+    "khai_thac_mo": {
+      "ly_thuyet": [
+        {
+          "id": "KTM_LT_1",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Khoảng cách an toàn trong nổ mìn được tính toán trên các cơ sở nào? Khi khoảng cách an toàn tính toán thực tế có giá trị khác so với khoảng cách an toàn tại bảng quy định trong QCVN 01 : 2019 /BCT thì ta phải chọn kết quả nào?",
+          "cau_tra_loi": "Khoảng cách an toàn được tính toán theo các cơ sở sau: 1- Khoảng cách an toàn cho công trình về chấn động. 2- Khoảng cách an toàn về đá văng. 3- Khoảng cách an toàn cho người và công trình về tác động của sóng không khí. - Trong thực tế có thể áp dụng tính toán theo 2 cơ sở (2 và 3) hoặc tính toán theo cả 3 cơ sở trên kết hợp với tra bảng trong QCVN 01 : 2019 /BCT - tuỳ theo điều kiện cụ thể (không có công trình hay có công trình cần bảo vệ). - Khi khoảng cách an toàn tính toán thực tế theo các cơ sở trên có giá trị khác nhau và khác so với khoảng cách an toàn tại bảng quy định trong QCVN 01: 2019 /BCT thì ta phải chọn kết quả lớn nhất cho từng đối tượng cần bảo vệ (khoảng cách xa nhất).",
+          "speech_id_question": "KTM_LT_1.mp3",
+          "speech_id_answer": "KTM_LT_1_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_2",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đồng chí hãy cho biết các nguyên nhân có thể dẫn đến mất an toàn trong nổ mìn ?",
+          "cau_tra_loi": "1. Bố trí người không đủ sức khỏe, năng lực, không làm chủ được hành vi. 2. Bố trí người chưa được đào tạo nổ mìn, làm công việc nổ mìn. 3. Bố trí quá khả năng làm việc của mỗi người. Không giao việc hoặc giao việc không cụ thể và không kèm theo biện pháp an toàn. 4. Không thông báo cho Chính quyền địa phương, nhân dân và các đơn vị liên quan về tín hiệu nổ mìn, thời gian nổ mìn… 5. Chuẩn bị bãi nổ không cẩn thận: - Khu vực bãi nổ không được cắm cờ. - Không có biển báo và không có đèn hiệu thích hợp. - Chỉ huy nổ mìn không kiểm soát chặt chẽ toàn bộ khu vực thi công nổ mìn hoặc không có mặt trong quá trình nạp thuốc cũng như đấu nối bãi nổ. - Mặt bằng bãi khoan quá gồ ghề, phoi bùn sau khi khoan quá ẩm ướt có thể vấp ngã hoặc sa chân vào các hố sình lầy, sa chân vào lỗ khoan. - Trước khi thuốc nổ được vận chuyển đến bãi nổ, không sơ tán hết người và thiết bị không cần thiết đối với công tác nổ mìn ra khỏi khu vực bãi mìn… 6. Đốt lửa trong khu vực đang thi công nạp mìn. 7. Hút thuốc gần khu vực nạp mìn và gần các phương tiện kích nổ. 8. Nạp mìn ở khu vực gần với các chất dễ cháy hoặc gần các thiết bị dễ phát sinh tia lửa ra xung quanh.",
+          "speech_id_question": "KTM_LT_2.mp3",
+          "speech_id_answer": "KTM_LT_2_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_3",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đ/c hãy trình bày các quy định về tín hiệu nổ mìn? tại đơn vị đ/c đang công tác thì tín hiệu nổ mìn được thực hiện như thế nào?",
+          "cau_tra_loi": "1- Quy định về tín hiệu nổ mìn: - Khi tiến hành công tác nổ mìn, nhất thiết phải dùng tín hiệu để báo hiệu lệnh nổ mìn bằng âm thanh (khi tối trời có thể kết hợp dùng các tín hiệu bằng âm thanh và ánh sáng). Cấm phát truyền tín hiệu bằng mồm. Các tín hiệu âm thanh và ánh sáng phải đảm bảo nghe rõ, nhìn thấy rõ tại giới hạn của vùng nguy hiểm của đợt nổ. Tín hiệu âm thanh do Chỉ huy nổ mìn ra lệnh cho thợ mìn hoặc trưởng nhóm thợ mìn phát ra. - Công nhân làm nhiệm vụ canh gác đuổi người phải có đủ các dụng cụ phát tín hiệu theo quy định. 2- Tín hiệu nổ mìn tại đơn vị: - Tất cả các vụ nổ mìn đều phải thực hiện đủ 4 lần tín hiệu gọi là hiệu lệnh nổ mìn do trung tâm chỉ huy nổ mìn phát ra , cụ thể: - Phát hiệu lệnh nạp mìn (bắt đầu triển khai thi công): - Phát hiệu lệnh chuẩn bị nổ mìn (bắt đầu triển khai đuổi người, thiết bị): - Phát hiệu lệnh nổ mìn (khởi nổ): - Phát tín hiệu báo yên (báo an toàn):",
+          "speech_id_question": "KTM_LT_3.mp3",
+          "speech_id_answer": "KTM_LT_3_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_4",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đồng chí hãy cho biết tác dụng của bua nút lỗ mìn? trên cơ sở đó hãy trình bày các quy định trong thi công nạp bua cho lỗ mìn?",
+          "cau_tra_loi": "1- Tác dụng của vật liệu làm bua: - Chống tổn thất năng lượng trong quá trình kích nổ chất nổ, thúc đẩy kích nổ hoàn toàn và giải phóng năng lượng tối đa. - Tạo điều kiện hoàn thành phản ứng phân huỷ lần thứ hai trong sản phẩm kích nổ và tăng năng lượng nổ. - Tăng thời hạn tác dụng của sản phẩm khí nổ, và kéo dài trạng thái căng của đất đá. - Giảm số lượng khí độc trong sản phẩm kích nổ. - Ngăn cản sự tạo thành sóng va đập mạnh trong không khí. - Khi chất lượng bua tốt, nạp bua đúng quy trình hiệu quả nổ mìn là cao nhất. 2- Các quy định trong thi công nạp bua lỗ mìn: - Chỉ được tổ chức nạp bua lỗ mìn khi có lệnh của người chỉ huy nổ mìn. - Vật liệu nạp bua phải là cát rời, phoi khoan với kích thước hạt ≤ 12 mm, các lỗ khoan nhỏ có thể sử dụng đất mềm (đất sét dẻo) để nạp bua. - Quá trình nạp bua không được để ảnh hưởng đến dây, ngòi nổ xuống lỗ. Cấm dùng máy gạt, máy xúc để nạp bua, cấm dùng ôtô đổ ben cát trực tiếp vào lỗ khoan, cấm dùng đá to, bùn nhão, vỏ bao, giấy, vật liệu dễ cháy … để nạp bua. - Chú ý thường xuyên kiểm tra nếu cột bua bị tụt, phải nạp thêm.",
+          "speech_id_question": "KTM_LT_4.mp3",
+          "speech_id_answer": "KTM_LT_4_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_5",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": "images/illustrative_ktm_lt_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Khi đo kiểm tra điện trở của kíp điện trước khi đem sử dụng, Công nhân đo kíp để kíp ngay phía trước mặt để đo, không có bộ phận che kíp, theo Đồng chí như vậy là đúng hay sai và phải thực hiện như thế nào?",
+          "cau_tra_loi": "1. Sai. 2. Khi đo kiểm tra điện trở của kíp điện trước khi đem sử dụng, công nhân đo kíp phải đưa nhẹ kíp vào trong dụng cụ đo chuyên dụng hoặc đặt phía sau tấm gỗ dày hơn 10cm có đủ diện tích che chắn cho người đo. 3. Kíp đo xong thì 2 đầu dây dẫn của kíp phải được đấu chập lại, nhẹ nhàng đặt kíp vào hộp bảo quản để mang đi sử dụng. Chỉ được tách hai đầu dây dẫn của kíp khi đấu kíp vào mạng nổ trên mặt để chuẩn bị khởi nổ. 4. Khi đo kíp phải đo từng kíp một.",
+          "speech_id_question": "KTM_LT_5.mp3",
+          "speech_id_answer": "KTM_LT_5_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_6",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là ATVSV, đồng chí hãy cho biết quy định đi lại và làm việc trên khai trường mỏ?",
+          "cau_tra_loi": "1. Mọi người làm việc trên khai trường mỏ phải qua lớp huấn luyện về công tác an toàn khi đi lại, làm việc trên khai trường mỏ. 2. Khi ngồi trên xe chở người không thò đầu, tay chân ra ngoài, xe dừng hẳn mới lên xuống, không mang theo vật nhọn, VLNCN trong túi quần áo. 3. Không đi vào các khu vực sản xuất khác khi không có nhiệm vụ, không đi cắt ngang các tầng, không đi ở sát mép tầng, chân tầng, chân bãi thải, không đứng ngồi dưới chân tầng, mép tầng để đề phòng đất đá sạt lở. 4. Khi phát hiện ra khu vực làm việc có nguy cơ xảy ra mất an toàn, đất đá dễ sạt lở, nạp mìn sát chân tầng,... thì phải báo cáo với người chỉ huy nổ mìn để kiến nghị với Cty mỏ kịp thời thực hiện xử lý nguy cơ mất an toàn. 5. Tránh xa các thiết bị như máy khoan, máy xúc, máy gạt, không ngồi nghỉ, đi lại trong khu vực hoạt động của máy khoan, máy xúc, máy gạt,... 6. Tránh xa các thiết bị vận tải chạy trên đường mỏ, các xe tải cỡ lớn, đường dốc nguy hiểm, đề phòng đá rơi từ thùng xe. 7. Tránh xa các khu vực có thiết bị điện, đường cáp điện, điện cao thế, không ngồi nghỉ, làm việc dưới các đường điện, gần các thiết bị điện.",
+          "speech_id_question": "KTM_LT_6.mp3",
+          "speech_id_answer": "KTM_LT_6_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_7",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là một ATVSV, công nhân nổ mìn, trước khi nạp thuốc nổ xuống lỗ khoan và trong quá trình nạp thuốc nổ đồng chí cần phải biết những thông số gì để phổ biến, nhắc nhở mọi người thực hiện?",
+          "cau_tra_loi": "Trước khi nạp thuốc nổ xuống lỗ khoan và trong quá trình nạp thuốc nổ cần phải biết những thông số sau: 1. Xác định xem lỗ khoan có đủ chiều sâu thiết kế không. Nếu chiều sâu lỗ khoan sâu hơn hoặc nông hơn, chiều cao cột nước sai lệch quá giới hạn cho phép… phải báo cáo cán bộ chỉ huy nổ mìn hoặc cán bộ kỹ thuật giải quyết. 2. Thuốc nổ, phụ kiện nổ sử dụng, phương pháp nạp mìn, cấu trúc cột thuốc. 3. Chiều cao cột bua theo thiết kế; mật độ nạp trong lỗ khoan của từng loại thuốc nổ theo thiết kế. 4. Thường xuyên đo kiểm tra chiều cao cột thuốc trong quá trình nạp mìn để xác định thuốc nổ có bị tắc hoặc sự cố gì trong khi nạp không, khi mật độ nạp không đúng thiết kế phải báo cáo chỉ huy nổ mìn để giải quyết. 5. Nạp thuốc nổ đúng trình tự (thuốc nổ chịu nước nạp trước, thuốc nổ không chịu nước nạp sau…), lấp bua đúng quy trình, đấu nối mạng nổ theo đúng thiết kế (nếu được phân công).",
+          "speech_id_question": "KTM_LT_7.mp3",
+          "speech_id_answer": "KTM_LT_7_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_8",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là một ATVSV, công nhân nổ mìn, đồng chí hãy cho biết trình tự thi công một bãi mìn?",
+          "cau_tra_loi": "1. Lĩnh VLNCN cho bãi mìn, vận chuyển VLNCN lên bãi mìn. 2. Đo chiều sâu lỗ khoan, chiều cao cột nước trong lỗ khoan trước khi tập kết VLNCN xuống bãi mìn để hiệu chỉnh khối lượng VLNCN cho từng lỗ khi chiều sâu lỗ khoan có sai lệch so với hộ chiếu thiết kế. 3. Phân chia thuốc nổ và phụ kiện nổ theo hộ chiếu đến từng lỗ. 4. Phát hiệu lệnh nạp mìn và triển khai nạp thuốc nổ xuống lỗ mìn. 5. Đo chiều sâu sau khi nạp thuốc (chiều cao cột bua). 6.Lấp bua. 7. Thu dọn dụng cụ nạp mìn. 8. Phân công đấu nối mạng nổ. 9. Đấu nối mạng nổ. 10. Phân công và giao nhiệm vụ ở các vọng gác cho người gác mìn. 11. Phát hiệu lệnh chuẩn bị nổ mìn và triển khai canh gác. 12. Đo điện trở mạng. 13. Phát hiệu lệnh nổ mìn. 14. Khởi nổ bãi mìn. 15. Kiểm tra bãi mìn sau khi nổ. 16. Xử lý mìn câm (nếu có). 17. Báo yên. 18. Ghi kết quả bãi nổ vào hộ chiếu nổ mìn và lập các biên bản nghiệm thu sơ bộ kết quả nổ mìn theo quy định.",
+          "speech_id_question": "KTM_LT_8.mp3",
+          "speech_id_answer": "KTM_LT_8_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_9",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đồng chí hãy cho biết quy trình xử lý mìn câm ?",
+          "cau_tra_loi": "1. Khi phát hiện thấy có lỗ mìn câm, thì dùng tín hiệu báo có mìn câm cho các vọng gác biết và giữ nguyên vị trí canh gác. 2. Trường hợp tất cả các lỗ mìn hoặc một vài lỗ mìn không nổ, nguyên nhân do mạng dây đấu nối trên mặt bị hỏng, có thể nổ lại được thì cho đấu nối lại và khởi nổ theo quy định và trình tự thông thường. 3. Trường hợp phát hiện lỗ mìn câm mà lượng thuốc nổ lộ ra thì có thể nổ lại bằng cách cho một thỏi thuốc mồi mới vào trong cột thuốc nổ, dùng cát (hoặc đất sét) lấp lên phía trên sau đó khởi nổ lại theo trình tự thông thường. 4. Trường hợp các lỗ mìn câm không xử lý được theo các cách trên thì phải cắm biển báo, cử người canh gác, thông báo cho các bên liên quan, lập các biên bản sự cố, phương án xử lý, hộ chiếu xử lý mìn câm có ký duyệt đầy đủ và triển khai thi công nạp nổ mìn xử lý mìn câm theo đúng hộ chiếu thiết kế.",
+          "speech_id_question": "KTM_LT_9.mp3",
+          "speech_id_answer": "KTM_LT_9_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_10",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là ATVSV đã được học tập, huấn luyện, đồng chí hãy cho biết quy định an toàn khi nổ mìn bằng kíp phi điện?",
+          "cau_tra_loi": "1. Chỉ được thi công và tiến hành đấu nối mạng nổ theo đúng thiết kế (hộ chiếu) đã được phê duyệt. 2. Không sử dụng các dây phi điện có sự thay đổi mầu sắc hoặc có sự khác nhau về màu sắc trên cùng một dây. Không được kéo căng, vặn xoắn, làm mài mòn rạn vỡ, cắt ngắn hoặc làm dập dây phi điện. 3. Chỉ được rải kíp phi điện trên mặt sau khi đã hoàn thành công việc nạp thuốc và lấp bua. Chỉ thực hiện đấu nối mạng nổ trên mặt khi có lệnh của người chỉ huy nổ mìn. 4. Dây dẫn phi điện phải được cố định chắc chắn trong cầu đấu chữ I (hoặc trong hộp nối chùm). Phải đấu ghép mạng nổ và khởi nổ theo hướng dẫn của nhà chế tạo và đúng hộ chiếu thiết kế. Cho phép dùng kíp đốt, kíp điện, dây nổ để khởi nổ kíp phi điện nhưng phải áp chặt kíp với ống phi điện bằng băng dính hoặc buộc bằng dây buộc mềm hoặc đấu nối kíp phi điện vào dây nổ bằng móc J chuyên dụng gắn ở đầu kíp phi điện. 5. Hạt nổ kích thích gây nổ, dụng cụ gây lực cơ học (súng, cối dập), chìa kóa máy nổ mìn điện phải để nguyên trong hộp do người chỉ huy nổ mìn giữ. 6. Chỉ sau khi đã thi công bãi mìn xong, người và thiết bị đã di chuyển tới nơi an toàn, đã nhận tín hiệu của các trạm gác, người chỉ huy nổ mìn rời bãi mìn đến nơi an toàn, mới phát tín hiệu khởi nổ và tiến hành khởi nổ bãi mìn.",
+          "speech_id_question": "KTM_LT_10.mp3",
+          "speech_id_answer": "KTM_LT_10_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_11",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Trong quá trình thi công nạp mìn, đồng chí phát hiện thấy một người công nhân sử dụng điện thoại di động và hút thuốc trong quá trình làm việc, với trách nhiệm là một ATVSV, đồng chí phải làm gì (hoặc đề xuất gì)?",
+          "cau_tra_loi": "1. Yêu cầu người công nhân dừng ngay việc sử dụng điện thoại di động, tắt nguồn của điện thoại di động và mang ra khỏi khu vực nguy hiểm, dập tắt ngay điếu thuốc đang hút trong khu vực bãi mìn. 2. Báo cáo người chỉ huy nổ mìn, tổ trưởng biết để có biện pháp xử lý vi phạm của người công nhân. Cần thiết kiến nghị, đề xuất cho dừng làm việc với người công nhân vi phạm. 3. Phổ biến tuyên truyền quy định của Tổng công ty về việc không được hút thuốc lá, không sử dụng điện thoại di động trong khu vực nguy hiểm nổ mìn. 4. Tại cuộc họp định kỳ của ATVSV, có kiến nghị, đề xuất biện pháp xử lý người vi phạm quy định, nội quy an toàn khi làm việc tới lãnh đạo đơn vị để có hướng ngăn chặn những vi phạm tương tự.",
+          "speech_id_question": "KTM_LT_11.mp3",
+          "speech_id_answer": "KTM_LT_11_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_12",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Người chỉ huy nổ mìn yêu cầu người lao động làm việc dưới chân tầng, hoặc mép tầng có nguy cơ sạt lở cao mà không có bất kỳ một biện pháp phòng ngừa nào, với trách nhiệm là ATVSV, đồng chí phải làm gì (hoặc đề xuất gì)?",
+          "cau_tra_loi": "1. Yêu cầu người công nhân tạm dừng làm việc tại khu vực nguy hiểm. 2. Kiến nghị, đề xuất với người cán bộ chỉ huy nổ mìn phải bổ sung các biện pháp đảm bảo an toàn trong quá trình làm việc như: xử lý đá treo, cử người cảnh giới, sử dụng dây đai an toàn,... 3. Nếu Cán bộ chỉ huy nổ mìn không nghe và không có các biện pháp khắc phục tình trạng mất an toàn, phải cương quyết phản đối và ngăn chặn không cho công nhân tiếp tục vào thi công và tìm cách báo cho người có trách nhiệm giải quyết (Quản đốc PX, TP An toàn hoặc Giám đốc Công ty). 4. Phổ biến cho mọi người trong đơn vị biết những lưu ý, biện pháp phòng tránh khi làm việc tại những vị trí nguy hiểm trong công tác nổ mìn.",
+          "speech_id_question": "KTM_LT_12.mp3",
+          "speech_id_answer": "KTM_LT_12_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_13",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Trước khi tiến hành công tác nổ mìn, người chỉ huy nổ mìn không phổ biến rõ ràng nhật lệnh sản xuất, với trách nhiệm là ATVSV, đồng chí có những kiến nghị, đề xuất gì?",
+          "cau_tra_loi": "1. Từ chối triển khai công việc được giao khi chưa biết chi tiết nhiệm vụ cụ thể và đặc điểm nơi làm việc. 2. Yêu cầu người chỉ huy nổ mìn phải phổ biến cụ thể nội dung nhật lệnh sản xuất (nhiệm vụ cụ thể, đặc điểm, vị trí nơi làm việc) để mọi người nắm rõ, ký nhận nhiệm vụ trước khi tiến hành triển khai công việc. 3. Phổ biến cho mọi người lao động trong đơn vị biết quy định này (của TCty, Tập đoàn) để triển khai thực hiện. 4. Ghi vào sổ kiến nghị ATVSV, làm cơ sở kiến nghị với lãnh đạo đơn vị nhằm tránh để người lao động làm việc khi chưa biết rõ nội dung công việc, vị trí và đặc điểm nơi mình làm việc.",
+          "speech_id_question": "KTM_LT_13.mp3",
+          "speech_id_answer": "KTM_LT_13_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_14",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Trong quá trình đấu nối mạng nổ, để làm nhanh Cán bộ chỉ huy nổ mìn đã huy động tất cả công nhân nổ mìn cùng đấu nối, kiểm tra đấu ghép mạng nổ, là ATVSV theo đồng chí như vậy là đúng hay sai và phải thực hiện như thế nào?",
+          "cau_tra_loi": "1. Việc làm của người chỉ huy nổ mìn là sai. 2. Chỉ những thợ mìn bậc cao và thành thạo công việc mới được phép tham gia đấu nối mạng nổ và chỉ thực hiện khi có lệnh của người chỉ huy nổ mìn. 3. Trước khi đấu nối mọi người không có nhiệm vụ phải ra khỏi khu vực bãi mìn, với khoảng cách an toàn ghi trong hộ chiếu an toàn. 4. Người chỉ huy nổ mìn là người cuối cùng tiến hành kiểm tra toàn bộ quá trình đấu ghép mạng nổ, và cho lấp các hộp nối chùm (hoặc cầu đấu chữ I) bằng cát, phoi khoan với mục đích là để cố định hộp nối chùm (hoặc cầu đấu chữ I) và phân biệt với lỗ mìn chưa được kiểm tra.",
+          "speech_id_question": "KTM_LT_14.mp3",
+          "speech_id_answer": "KTM_LT_14_ans.mp3"
+        },
+        {
+          "id": "KTM_LT_15",
+          "category": "Khai thác mỏ",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Theo đ/c thì tổ chức, cá nhân sử dụng VLNCN phải thực hiện việc giám sát các ảnh hưởng nổ mìn trong các trường hợp nào? Các yếu tố có hại cần phải giám sát là gì?",
+          "cau_tra_loi": "1. Tổ chức, cá nhân sử dụng VLNCN phải thực hiện việc giám sát các ảnh hưởng nổ mìn đối với con người, công trình theo quy định tại QCVN 01:2019/BCT trong các trường hợp sau: - Có khiếu nại của chủ công trình về các ảnh hưởng của chấn động và sóng không khí - Khoảng cách quá gần dẫn đến hệ số tỷ lệ khoảng cách DS không đạt yêu cầu quy định tại Bảng 2 - Điều 40 - QCVN 01:2019/BCT. 2. Các yếu tố có hại cần phải giám sát: - Giám sát các ảnh hưởng của chấn động. - Giám sát các ảnh hưởng của tác động sóng xung kích trong không khí.",
+          "speech_id_question": "KTM_LT_15.mp3",
+          "speech_id_answer": "KTM_LT_15_ans.mp3"
+        }
+      ],
+      "cau_hoi_hinh_anh": [
+        {
+          "id": "KTM_HA_1",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_1.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Lỗ mìn không được chuẩn bị đủ bua cát, thuốc nổ vứt bừa bãi xung quanh miệng lỗ khoan, dụng cụ thi công vứt bừa bãi, thiết bị bơm Legra chèn lên thuốc nổ. - Máy xúc còn nằm trong khu vực nguy hiểm nổ mìn; Cắm cờ chưa đúng quy định. - Sử dụng dây dẫn tín hiệu của kíp vi sai phi điện buộc túi thuốc thả xuống lỗ mìn.",
+            "bien_phap_xu_ly": "- Dừng ngay việc dùng dây dẫn tín hiệu để thả túi thuốc xuống lỗ mìn, phải dùng dây chuyên dùng để thả túi thuốc. Kết thúc công việc cần có hình thức kiểm điểm đ/c ATVSV vi phạm an toàn. - Trước khi nạp mìn phải chuẩn bị đầy đủ bua cát; thuốc nổ phải được xếp gọn gàng bên cạnh các lỗ mìn; Yêu cầu máy bơm tuyệt đối không được chèn lên VLNCN, phải có đường dẫn nước để thoát nước ra xa lỗ mìn, tránh làm ảnh hưởng đến chất lượng thuốc nổ. - Yêu cầu phương tiện của mỏ phải di chuyển ra khỏi khu vực thi công nạp mìn theo quy định. Phải xác định khoảng cách an toàn theo quy định để tiến hành căng dây, đặt biển cảnh báo, cắm cờ giới hạn vùng nguy hiểm, cờ phải rõ ràng, cắm chắc chắn để mọi người dễ quan sát.",
+            "ghi_nho": "- Phải chuẩn bị đầy đủ các điều kiện để thi công bãi mìn đảm bảo an toàn, chất lượng trước khi tiến hành thi công nạp mìn như: Chuẩn bị đủ bua cát, đường để máy bơm vào hút nước hố nổ, dụng cụ thi công, cờ báo hiệu, biển cảnh báo... - Phương tiện thiết bị phải di chuyển ra khỏi vùng nguy hiểm, mới được tiến hành thi công nạp mìn. Phải dùng dây chuyên dùng để thả túi thuốc nổ xuống lỗ khoan."
+          },
+          "speech_id_question": "KTM_HA_1.mp3",
+          "speech_id_answer": "KTM_HA_1_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_2",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_2.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Ngồi lên bao thuốc nổ, đứng chênh vênh trên hòn đá sát mét tầng, có nguy cơ trượt ngã cao mất an toàn. - Cắm cờ chưa đúng nơi quy định, xe ôtô chở CBCNV đỗ ngay sát bãi mìn là quá gần, vi phạm quy định an toàn. - ATVSV chưa kịp thời phát hiện để ngăn ngừa các nguy cơ mất an toàn.",
+            "bien_phap_xu_ly": "- Yêu cầu người công nhân không ngồi lên bao thuốc nổ. - Nhắc nhở người công nhân rời khỏi khu vực mép tầng, đây là khu vực nguy hiểm dễ sạt lở. - Phải tổ chức căng dây, cắm cờ giới hạn vùng nguy hiểm, yêu cầu phương tiện dừng đỗ phải đúng quy định về khoảng cách.",
+            "ghi_nho": "- Phải kiểm tra, chuẩn bị và mang đầy đủ trang phục BHLĐ trước khi làm việc. - Thực hiện đúng quy định làm việc, đi lại trên khai trường mỏ. - Thực hiện đúng quy trình thi công nạp nổ mìn, lấp bua và quy định về giới hạn vùng nguy hiểm trong quá trình nạp mìn."
+          },
+          "speech_id_question": "KTM_HA_2.mp3",
+          "speech_id_answer": "KTM_HA_2_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_3",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Mang BHLĐ không đúng quy định, (quần áo không đúng màu, không đội mũ, chân đi giày da…). - Thuốc nổ vứt bừa bãi cả ở gầm xe ôtô chở thuốc, ATVSV vi phạm đút kíp nổ phi điện trong túi áo. - Vi phạm quy trình thi công nạp mìn, thả thuốc nổ ANFO bao gói rơi tự do xuống lỗ mìn - Nạp thuốc nổ xuống lỗ khoan khi xe chở thuốc nổ còn ở sát bên cạnh lỗ khoan…",
+            "bien_phap_xu_ly": "- Nhắc nhở người công nhân phải mang đầy đủ BHLĐ. Yêu cầu đ/c ATVSV bỏ ngay kíp nổ ra khỏi túi áo, đồng thời phải nghiêm túc kiểm điểm về hành vi này. - Dừng ngay việc thả túi thuốc trực tiếp xuống lỗ khoan, chỉ thi công nạp thuốc khi xe đã ra đến vị trí an toàn và phải dùng dây chuyên dùng để thả túi thuốc. - Trong quá trình dỡ thuốc và dải xuống bãi mìn phải quan sát, và xếp gọn gàng lượng thuốc nổ bên cạnh miệng lỗ khoan; không được để bao/ túi thuốc rơi, lăn vào gầm ô tô.",
+            "ghi_nho": "- Mang đầy đủ trang phục BHLĐ trước khi làm việc; đồng thời thực hiện nghiêm túc các quy định về an toàn trong thi công nạp mìn (không để kíp nổ trong túi áo). - Phải mang đầy đủ dụng cụ thi công nạp mìn, thực hiện đúng quy trình thi công nạp mìn. Người chỉ huy nổ mìn cần quan sát để phòng tránh những nguy cơ mất an toàn (ô tô đè lên VLNCN). - Chỉ thi công nạp mìn khi xe ôtô đã ra khỏi bãi mìn."
+          },
+          "speech_id_question": "KTM_HA_3.mp3",
+          "speech_id_answer": "KTM_HA_3_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_4",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_4.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Thi công nạp mìn ngay dưới chân tầng có nguy cơ sạt lở cao mất an toàn mà không có biển cảnh báo và không tổ chức cảnh giới đề phòng đá rơi. - Mang BHLĐ không đúng quy định, không đội mũ,… - Biển cảnh báo đặt chưa đúng nơi quy định, vỏ bao thuốc nổ vứt bừa bãi khắp mặt bãi mìn. - Vi phạm quy định an toàn trong thi công nạp mìn, sử dụng hòn đá để buộc cố định KXL của lỗ mìn.",
+            "bien_phap_xu_ly": "- Tạm dừng thi công, bổ sung biển báo nguy hiểm đá rơi và cử người cảnh giới trong suốt thời gian thi công nạp mìn. Đề nghị đặt biển giới hạn vùng nguy hiểm phải đúng quy định về khoảng cách. - Yêu cầu mọi người (kể cả CBKT) phải mang BHLĐ trong suốt quá trình làm việc. Ai không mang đúng, đủ BHLĐ thì không được vào làm việc. - Yêu cầu khi nạp thuốc xong phải thu dọn vỏ bao, hòm VLNCN để không làm ảnh hưởng xấu đến môi trường. Sử dụng cọc (tre, gỗ) để buộc dây xuống lỗ để tránh hiện tượng tụt, làm mất dây.",
+            "ghi_nho": "- Trước khi thi công nổ mìn người chỉ huy nổ mìn phải đề ra các biện pháp nhằm đảm bảo an toàn trong suốt quá trình nổ mìn (biển báo, cảnh giới an toàn,...). - Phải mang đầy đủ trang phục BHLĐ trong quá trình làm việc. - Thường xuyên nhắc nhở người lao động phải thực hiện nghiêm túc quy định trong thi công nạp mìn. Tăng cường kiểm tra, giám sát an toàn nơi làm việc."
+          },
+          "speech_id_question": "KTM_HA_4.mp3",
+          "speech_id_answer": "KTM_HA_4_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_5",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Chưa tháo dỡ cột điện, chưa di chuyển tủ điện ra khỏi vị trí bãi mìn, vứt thuốc nổ bừa bãi sát trạm biến thế đã thi công nạp mìn. - Không có biển cảnh báo, không cắm cờ, không căng dây quy định giới hạn vùng nguy hiểm nổ mìn. - Vi phạm quy trình thi công nạp mìn, bơm legra xả nước ngay cạnh miệng lỗ mìn và các bao thuốc.",
+            "bien_phap_xu_ly": "- Tạm dừng thi công nạp mìn, đề nghị Công ty mỏ ngắt điện, tháo dỡ hệ thống dây, di chuyển trạm biến áp ra khỏi khu vực nguy hiểm. - Cắm cờ đúng nơi quy định. Bổ sung ngay biển cảnh báo, căng dây giới hạn vùng nguy hiểm theo khoảng cách quy định. - Dừng ngay công việc bơm nước để di chuyển các bao thuốc nổ ra khỏi chỗ bị ướt do vòi bơm xả nước. Có biện pháp đưa ống dẫn nước ra xa lỗ mìn, tránh hiện tượng nước ngấm ngược trở lại làm ảnh hưởng đến chất lượng thuốc nổ không chịu nước.",
+            "ghi_nho": "- Trước khi tổ chức thi công nạp mìn, cần phải thống nhất với Công ty mỏ để có biện pháp đảm bảo an toàn: Di chuyển thiết bị, con người không có nhiệm vụ ra khỏi vùng nguy hiểm,.. - Thực hiện nghiêm túc quy trình thi công khoan nổ mìn (cắm biển, căng dây giới hạn vùng nguy hiểm, bơm nước hố nổ, chuẩn bị bua cát,...). - Nghiêm cấm để VLNCN gần nguồn điện cao thế."
+          },
+          "speech_id_question": "KTM_HA_5.mp3",
+          "speech_id_answer": "KTM_HA_5_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_6",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_6.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Chưa tháo dỡ cột điện, chưa di chuyển tủ điện, máy khoan ra khỏi vị trí bãi mìn, đã thi công nạp mìn.. - Không có biển cảnh báo, không cắm cờ, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn theo quy định. - Máy xúc, ôtô đang hoạt động xúc bốc đất đá ở tầng dưới, trong khu vực nguy hiểm nổ mìn gây tiếng ồn lớn và nồng độ bụi cao, môi trường làm việc bị ô nhiễm và thiếu an toàn.",
+            "bien_phap_xu_ly": "- Tạm dừng thi công nạp mìn, đề nghị Công ty mỏ di chuyển máy khoan, ngắt điện, tháo dỡ hệ thống dây, di chuyển trạm biến áp ra khỏi khu vực nguy hiểm.. - Đề nghị chỉ huy nổ mìn phải yêu cầu phía Cty mỏ dừng hoạt động của các thiết bị trong bán kính nguy hiểm khi thi công nạp nổ mìn. Tổ chức cắm biển giới hạn vùng nguy hiểm nổ mìn. - Chỉ tổ chức thi công bãi mìn khi đảm bảo các điều kiện an toàn theo quy định.",
+            "ghi_nho": "- Phải thực hiện và chuẩn bị đầy đủ các biện pháp KTAT trước khi thực hiện công việc để đảm bảo an toàn: Di chuyển thiết bị ra khỏi vùng nguy hiểm, thi công các công việc phải đúng quy trình... - CBKT và chỉ huy nổ mìn phải quan sát và nắm bắt rõ toàn bộ các hoạt động trong khu vực nổ mìn để có các chỉ đạo kịp thời, chính xác - Tăng cường công tác kiểm tra an toàn trong suốt quá trình thi công nổ mìn."
+          },
+          "speech_id_question": "KTM_HA_6.mp3",
+          "speech_id_answer": "KTM_HA_6_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_7",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_7.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Mang BHLĐ không đúng quy định. - Không có biển cảnh báo, không cắm cờ, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn theo quy định. - Gọi điện thoại khi đứng trong bãi mìn đang thi công.",
+            "bien_phap_xu_ly": "- Yêu cầu người CBKT dừng ngay việc gọi điện thoại trong bãi mìn. Báo cáo cấp trên để có hình thức kiểm điểm đ/c CBKT này. - ATVSV yêu cầu mọi người phải mang đầy đủ trang phục BHLĐ theo quy định để đảm bảo an toàn (cụ thể những người chưa đội mũ thì phải đội mũ). - Tổ chức ngay việc cắm cờ, căng dây, đặt biển báo giới hạn vùng nguy hiểm để mọi người xung quanh được biết.",
+            "ghi_nho": "- Tuyệt đối không được gọi điện thoại trong khu vực nguy hiểm nổ mìn. - Thực hiện nghiêm túc các quy định về trang phục BHLĐ trong quá trình làm việc. - Thực hiện đúng quy định về giới hạn vùng nguy hiểm trong khi thi công nạp mìn."
+          },
+          "speech_id_question": "KTM_HA_7.mp3",
+          "speech_id_answer": "KTM_HA_7_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_8",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_8.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Thiết bị máy khoan, ôtô, xe máy còn ở trong khu vực bãi khoan đã tập kết thuốc nổ tới từng lỗ khoan. - Đường dây cáp điện chưa được thu dọn vẫn để chạy qua bãi mìn, sát với các bao thuốc nổ tập kết ở miệng lỗ khoan. - Không cắm cờ, đặt biển cảnh báo khu vực nguy hiểm nổ mìn, không căng dây xác định vùng nguy hiểm nổ mìn với các khu vực khác.",
+            "bien_phap_xu_ly": "- Đề nghị chỉ huy nổ mìn phải tạm thời thu dọn ngay các bao thuốc trong khu vực gần máy khoan và đường dây cáp điện, đồng thời yêu cầu phía Cty mỏ đưa các thiết bị ra khỏi khu vực bãi mìn mới được tổ chức thi công. - Ngắt dòng điện, thu dọn đường dây cáp điện, không để cáp chạy loằng ngoằng trên bề mặt bãi mìn. - Tổ chức ngay việc cắm cờ, đặt biển báo, căng dây giới hạn vùng nguy hiểm để mọi người biết không đi qua lại khu vực thi công.",
+            "ghi_nho": "- Phải ngắt dòng điện và di chuyển toàn bộ thiết bị ra ngoài phạm vi nguy hiểm theo quy định sau đó mới được tiến hành tập kết thuốc nổ, thi công nạp mìn. - Thực hiện đúng quy định trong khi thi công nạp, nổ mìn. Phải tổ chức việc cắm cờ, đặt biển báo, căng dây giới hạn vùng nguy hiểm trước khi triển khai thi công."
+          },
+          "speech_id_question": "KTM_HA_8.mp3",
+          "speech_id_answer": "KTM_HA_8_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_9",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_9.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Mang BHLĐ không đúng quy định. - Không có biển cảnh báo, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn, cắm cờ quá gần bãi mìn gây nguy hiểm cho người thi công nạp mìn. - Xe ôtô chạy sát bãi mìn, nằm trong giới hạn vùng nguy hiểm, nồng độ bụi cao, môi trường làm việc bị ô nhiễm, mất an toàn.",
+            "bien_phap_xu_ly": "- Nhắc nhở công nhân phải mang đúng, mang đủ trang phục BHLĐ nổ mìn theo quy định. - Phân công người cảnh giới, tổ chức cắm cờ, căng dây, đặt biển báo giới hạn vùng nguy hiểm đảm bảo khoảng cách quy định để mọi người biết không đi vào khu vực thi công. - Đề nghị Mỏ phải tưới nước dập bụi, đắp đai an toàn ngăn cách giữa bãi mìn và đường vận tải hoặc làm đường khác cho ô tô chạy qua, hạn chế bụi, đảm bảo sức khoẻ cho người lao động.",
+            "ghi_nho": "- Thực hiện nghiêm túc các quy định về trang phục BHLĐ trong quá trình làm việc. - Thực hiện đúng quy định về giới hạn vùng nguy hiểm trong khi thi công nạp mìn. - Thường xuyên quan tâm, coi trọng công tác an toàn cả về tổ chức sản xuất và bảo vệ môi trường."
+          },
+          "speech_id_question": "KTM_HA_9.mp3",
+          "speech_id_answer": "KTM_HA_9_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_10",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_10.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Máy xúc hoạt động trong khu vực nguy hiểm nổ mìn, có nguy cơ làm sạt lở lỗ mìn hàng ngoài cùng, gây nguy hiểm và ảnh hưởng đến chất lượng nổ mìn. - Để người không có nhiệm vụ thi công nạp nổ mìn vào khu vực bãi mìn mà không có người hướng dẫn, giám sát. Không có biển cảnh báo, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn, cắm cờ trong phạm vi bãi mìn. - Vi phạm quy trình thi công nạp mìn (đã thi công nạp xong lỗ mìn trong khi máy xúc vẫn ở trong vùng nguy hiểm, sử dụng hòn đá để cố định KXL của lỗ mìn), không vệ sinh sạch sẽ, để vỏ bao thuốc nổ vứt bừa bãi trên mặt bãi mìn",
+            "bien_phap_xu_ly": "- Đề nghị chỉ huy nổ mìn phải yêu cầu Mỏ tiến hành di chuyển thiết bị và người không có nhiệm vụ ra khỏi khu vực nguy hiểm nổ mìn đồng thời cử người hướng dẫn, giám sát quá trình di chuyển. - Đặt biển cảnh báo, cắm cờ, căng dây giới hạn vùng nguy hiểm để mọi người xung quanh được biết không đi vào khu vực thi công. - Thu dọn vệ sinh sạch sẽ bề mặt bãi mìn sau thi công, dùng cọc gỗ (hoặc tre) để cố định dây xuống lỗ không quấn bằng đá, đề phòng tuột đầu dây, ảnh hưởng đến chất lượng bãi mìn.",
+            "ghi_nho": "- Chấp hành nghiêm chỉnh quy định về thi công nạp nổ mìn, cố định dây xuống lỗ phải đúng quy định để đảm bảo an toàn trong thi công nạp, nổ mìn. - Khi thi công nạp mìn các thiết bị phải dừng hoạt động và di chuyển ra ngoài khu vực nguy hiểm, tránh làm sạt nở, biến dạng lỗ khoan không nạp được thuốc nổ hoặc làm hỏng lỗ khoan đã được nạp thuốc gây nguy cơ mất an toàn. - Thực hiện đúng quy định về giới hạn vùng nguy hiểm."
+          },
+          "speech_id_question": "KTM_HA_10.mp3",
+          "speech_id_answer": "KTM_HA_10_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_11",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_11.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Mang BHLĐ không đúng quy định. - Không có biển cảnh báo, không cắm cờ, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn theo quy định. - Tổ chức thi công nạp mìn trong khi vẫn tiến hành khoan, dây cáp điện và dây hơi chạy trên mặt bãi mìn, để xe máy và công nhân đứng hút thuốc trong khu vực nguy hiểm nổ mìn.",
+            "bien_phap_xu_ly": "- Yêu cầu người công nhân dập tắt thuốc, không hút thuốc lá trong khu vực thi công, báo cáo lãnh đạo tổ chức kiểm điểm, học lại an toàn nếu đạt yêu cầu mới tiếp tục bố trí công việc cũ. - Yêu cầu người cán bộ chỉ huy nổ mìn phải dừng ngay công tác khoan; ngắt dòng điện, thu dọn dây điện, dây hơi và đưa máy khoan, xe máy ra khỏi khu vực bãi mìn để tổ chức thi công, cắm biển cảnh báo, căng dây, cắm cờ xác định giới hạn vùng nguy hiểm nổ mìn theo quy định.. - Nhắc nhở công nhân khi làm việc phải mang đúng, mang đủ trang bị BHLĐ được cấp phát.",
+            "ghi_nho": "- Phải ngắt dòng điện và di chuyển thiết bị ra ngoài khu vực nguy hiểm mới được bắt đầu công tác thi công nạp mìn. - Thực hiện đúng quy định trong khi thi công nạp, nổ mìn. - Phải nghiêm chỉnh chấp hành nội quy, quy định về công tác an toàn, khi làm việc phải mang đúng, mang đủ trang bị BHLĐ đã được cấp phát"
+          },
+          "speech_id_question": "KTM_HA_11.mp3",
+          "speech_id_answer": "KTM_HA_11_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_12",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_12.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Mang BHLĐ không đúng quy định. - Không có biển cảnh báo, không cắm cờ, không căng dây xác định giới hạn vùng nguy hiểm nổ mìn theo quy định. - Tổ chức thi công nạp mìn trong khi vẫn tiến hành khoan, dây cáp điện và dây hơi chạy trên mặt bãi mìn. Thuốc nổ vứt bừa bãi trên mặt bãi mìn.",
+            "bien_phap_xu_ly": "- Yêu cầu cán bộ chỉ huy nổ mìn phải dừng ngay công tác khoan, thu dọn đường dây cáp điện, dây hơi, đưa thiết bị và người không có nhiệm vụ ra khỏi khu vực nguy hiểm nổ mìn để tổ chức thi công nạp mìn. - Tổ chức cắm cờ, cắm biển báo, căng dây giới hạn vùng nguy hiểm để mọi người biết không đi qua lại khu vực thi công. - Nhắc nhở công nhân khi làm việc phải mang đúng, mang đủ trang bị BHLĐ được cấp phát.",
+            "ghi_nho": "- Trước khi thi công phải di chuyển thiết bị ra ngoài phạm vi nguy hiểm. Không được để thiết bị cùng hoạt động với công tác thi công nạp mìn. - Thực hiện đúng quy định trong khi thi công nạp, nổ mìn. - Làm việc phải mang đúng, mang đủ trang bị BHLĐ đã được cấp phát."
+          },
+          "speech_id_question": "KTM_HA_12.mp3",
+          "speech_id_answer": "KTM_HA_12_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_13",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_13.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Không mang đủ, mang đúng và sử dụng phương tiện bảo vệ cá nhân được cấp phát theo quy định như không đội mũ bảo hộ, khẩu trang, gang tay, kính, đi lép lê... xắn ống quần và tay áo trong khi làm việc. - Vị trí đứng khoan cheo leo, tiềm ẩn nhiều nguy cơ trượt ngã, làm việc trên cao (2 mét) so với mặt bằng không sử dụng dây đai an toàn. - Không cạy bẩy đá om lỏng gần vị trí khoan, không tập trung trong lúc khoan, dùng chân để giữ búa khoan.",
+            "bien_phap_xu_ly": "- Đề nghị cán bộ chỉ huy cho dừng ngay công tác khoan. Kết thúc công việc cần có hình thức kiểm điểm đ/c thợ khoan. Cho học lại an toàn và kiểm tra sát hạch, đạt yêu cầu mới tiếp tục bố trí công việc. - Trước khi khoan thợ khoan cần mang đủ, mang đúng phương tiện bảo vệ cá nhân được cấp phát, cậy bẩy đá om lỏng có nguy cơ sạt lở gây sự cố tai nạn trước khi tiến hành khoan. - Làm việc trên cao (2 mét) so với mặt bằng phải đeo dây đai an toàn trong khi làm việc.",
+            "ghi_nho": "- Mang đúng, mang đủ phương tiện bảo vệ cá nhân được cấp phát phù hợp với công việc được giao. - Trước khi tiến hành khoan cần kiểm tra an toàn nơi làm việc, tiến hành cậy bẩy đá om lỏng có nguy cơ tụt lở gây sự cố tai nạn khi khoan. Không đưa máy khoan vào làm việc tại những vị trí dưới chân tầng, sườn tầng có nguy cơ tụt lở cao khi chưa có biện pháp đảm bảo an toàn. - Tuân thủ các quy trình quy định khi làm việc."
+          },
+          "speech_id_question": "KTM_HA_13.mp3",
+          "speech_id_answer": "KTM_HA_13_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_14",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_14.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị) ? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì ?",
+          "cau_tra_loi": {
+            "sai_sot": "- Trên cùng một tuyến khai thác, cùng một thời gian bố trí hai thiết bị đồng thời làm việc ở tầng trên và tầng dưới dẫn đến nguy cơ đất đá tầng trên sạt lở vào thiết bị hoạt động ở tầng dưới gây mất an toàn. - Bố trí 2 thiết bị (máy xúc) hoạt động cùng một lúc trong cùng một gương xúc với khoảng cách không đảm bảo an toàn. - Không bố trí người cảnh giới an toàn, khu vực thi công không có các biển cảnh báo an toàn. (Công trường đang thi công, khu vực đất đá dễ sạt lở, ...)",
+            "bien_phap_xu_ly": "- Đề nghị cán bộ chỉ huy tạm dừng thi công, bố trí tổ chức sản xuất lại đảm bảo vị trí từng thiết bị hoạt động phải phù hợp và đảm bảo an toàn. Trong cùng một tuyến khai thác chỉ được bố trí làm việc một tầng. - Trong một gương khai thác chỉ bố trí một thiết bị (máy xúc) để trong quá trình hoạt động không xảy ra va chạm gây mất an toàn. - Bố trí người cảnh giới trong quá trình thiết bị làm việc tại chân tầng hoặc sườn tầng, đề phòng sạt lở đất đá, đặt các biển cảnh báo an toàn theo quy định.",
+            "ghi_nho": "- Không được bố trí thi công cùng một lúc hai tầng đồng thời làm việc trong một tuyến công tác. - Trước khi làm việc, phải tổ chức sản xuất đúng hộ chiếu kỹ thuật đảm bảo vị trí từng thiết bị hoạt động phải phù hợp và đảm bảo khoảng cách an toàn. Bố trí người cảnh giới và đặt các biển cảnh báo an toàn."
+          },
+          "speech_id_question": "KTM_HA_14.mp3",
+          "speech_id_answer": "KTM_HA_14_ans.mp3"
+        },
+        {
+          "id": "KTM_HA_15",
+          "category": "Khai thác mỏ",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/KTM_HA_15.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì ?",
+          "cau_tra_loi": {
+            "sai_sot": "- Xe vận tải vào nhận tải không đúng quy trình kỹ thuật, sai sơ đồ nhận tải. - Người công nhân lái máy xúc vẫn tiến hành chất tải cho xe ô tô khi xe vào nhận tải sai quy định. - Không thực hiện việc đặt các biển cảnh báo khu vực nguy hiểm (khu vực đất đá sạt lở ...).",
+            "bien_phap_xu_ly": "- Đề xuất Chỉ huy Công trường cho tạm dừng ngay việc thi công, yêu cầu xe ôtô vào nhận tải phải đúng quy định theo sơ đồ nhận tải đã được phê duyệt. - Yêu cầu người công nhân lái máy xúc chỉ tiến hành xúc bốc chất tải cho xe ôtô khi xe vào nhận tải đúng sơ đồ nhận tải đã được phê duyệt để đảm bảo an toàn cho quá trình làm việc. - Thực hiện việc đặt các biển cảnh báo tại khu vực làm việc và các khu vực nguy hiểm có nguy cơ sạt lở...",
+            "ghi_nho": "- Phải thực hiện nghiêm quy trình thi công các công đoạn sản xuất; nghiêm chỉnh chấp hành nội quy, quy định về công tác an toàn khi làm trên công trường khai thác. - Chỉ tiến hành công việc khi các thiết bị tham gia hoạt động thực hiện đúng quy trình kỹ thuật đảm bảo an toàn."
+          },
+          "speech_id_question": "KTM_HA_15.mp3",
+          "speech_id_answer": "KTM_HA_15_ans.mp3"
+        }
+      ]
+    },
+    "bao_quan_boc_xep_van_chuyen": {
+      "ly_thuyet": [
+        {
+          "id": "BQ_BX_VC_LT_1",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đ/c hãy cho biết điều kiện an toàn khi vận chuyển VLNCN, TCTN bằng đường bộ (ô tô)?",
+          "cau_tra_loi": "A. Đối với phương tiện vận chuyển VLNCN: - Có đủ điều kiện để được tham gia giao thông theo quy định của pháp luật về giao thông đường bộ; có giấy chứng nhận đủ điều kiện vận chuyển hàng nguy hiểm do cơ quan có thẩm quyền cấp. - Có quy định, nội quy quản lý, bảo quản VLNCN, TCTN, biển cấm, biển báo, sơ đồ hoặc biển chỉ dẫn về giải quyết sự cố, thoát nạn phù hợp với đặc điểm, tính chất hoạt động của phương tiện - Phương tiện phải có “Giấy phép vận chuyển VLNCN, TCTN\" do cơ quan công an có thẩm quyền cấp. - Đáp ứng các điều kiện về an toàn phòng cháy và chữa cháy theo quy định tại Điều 8 Nghị định số136/2020/NĐ-CP ngày 24/11/2020, Thông tư số 148/2020/TT-BCA ngày 31/12/2020 của Bộ Công an. B. Đối với người điều khiển phương tiện và người áp tải: Người áp tải, người lái xe phải đáp ứng các quy định tại Luật số 42/2024/QH15; Nghị định 181/2024/NĐ-CP, Nghị định số 42/2020/NĐ-CP mới được tham gia quá trình vận chuyển VLNCN, TCTN, gồm: - Đủ 18 tuổi trở lên, có lý lịch rõ ràng, không có tiền án, tiền sự; (bản khai lý lịch phải có xác nhận của Ủy ban nhân dân xã, phường, thị trấn nơi cư trú hoặc cơ quan công tác); có giấy phép lái xe hoặc bằng, chứng chỉ chuyên môn phù hợp với phương tiện đăng ký vận chuyển (đối với người điều khiển phương tiện) - Có giấy chứng nhận huấn luyện nghiệp vụ phòng cháy và chữa cháy do cơ quan Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ có thẩm quyền cấp; giấy chứng nhận tập huấn kiến thức về VLNCN và các biện pháp bảo đảm an toàn khi tiếp xúc với VLNCN do cơ quan quản lý nhà nước về VLNCN có thẩm quyền cấp; Giấy chứng nhận nghiệp vụ bảo vệ, quản lý, sử dụng CCHT do cơ quan quản lý nhà nước có thẩm quyền cấp (đối với người áp tải). - Người điều khiển phương tiện, áp tải và người phục vụ có liên quan đến vận chuyển vật liệu nổ công nghiệp phải bảo đảm điều kiện về an ninh, trật tự; có trình độ chuyên môn phù hợp với vị trí, chức trách đảm nhiệm, được huấn luyện về an toàn, phòng cháy và chữa cháy. - Có phương án vận chuyển bảo đảm an toàn, phòng cháy và chữa cháy; có biện pháp ứng phó sự cố khẩn cấp.",
+          "speech_id_question": "BQ_BX_VC_LT_1.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_1_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_2",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là thủ kho kiêm ATVSV, anh (chị) hãy cho biết Quy định an toàn trong xuất, nhập, đảo chuyển VLNCN, TCTN.",
+          "cau_tra_loi": "1. Nghiêm cấm những người không có nhiệm vụ vào nơi đang thực hiện việc xuất, nhập, đảo chuyển VLNCN, TCTN. 2. Mọi người vào làm việc trong kho phải tuân thủ sự hướng dẫn của thủ kho 3. Cấm mang theo vào kho: Vũ khí, dụng cụ phát lửa, thiết bị thu phát sóng radio và đi giày đế có đinh sắt trong quá trình bốc xếp, đảo chuyển VLNCN, TCTN. 4. Khi bốc xếp xuất, nhập, đảo chuyển VLNCN, TCTN phải nhẹ nhàng, cấm kéo lê, quăng quật... Khi xuất, nhập, đảo chuyển VLNCN nếu phát hiện vỏ hòm (bao) chứa bị vỡ phải tổ chức bảo quản lại vào hòm (bao) còn nguyên vẹn. 5. Khi sắp xếp, đảo chuyển VLNCN, TCTN trong nhà kho phải đảm bảo loại nhập trước được xuất trước, loại nhập sau xuất sau, loại có niên hạn sử dụng ngắn xuất trước, loại có niên hạn sử dụng dài xuất sau. 6. Khi đảo chuyển phương tiện nổ không còn nguyên bao bì thì các hộp, gói kíp phải đặt trong hòm kín có lót đệm mềm ở bên trong. 7. Khi xếp các hòm, bao VLNCN thành nhiều lớp thì người xếp không được đứng trên hòm, bao chứa. 8. Khi xuất/nhập VLNCN trong nhà kho phải đảm bảo loại nhập trước xuất trước, loại nhập sau xuất sau, loại có niên hạn sử dụng ngắn xuất trước, loại có niên hạn sử dụng dài xuất sau.",
+          "speech_id_question": "BQ_BX_VC_LT_2.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_2_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_3",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là một ATVSV làm việc trong khu vực kho chứa VLNCN, TCTN, theo anh (chị) thì những lỗi nào là lỗi của Thủ kho và những lỗi nào là lỗi của người bảo vệ?",
+          "cau_tra_loi": "- Khóa cửa lớp thứ 2 của kho không khóa. - Không niêm phong cửa kho sau khi kết thúc làm việc - Bể chứa nước, cát không che chắn (mặc dù có thiết bị che chắn). - Hàng rào của khu vực nhà kho bị thủng. - Thùng chứa kíp để quên ngoài cửa kho. - Hòm chứa kíp bảo quản dưới sàn nhà kho - Kíp nổ bảo quản cùng thuốc nổ trong nhà kho - Vỏ hòm thuốc nổ bị rách, chưa được bảo quản. - Dụng cụ chữa cháy bị giảm chất lượng. - Camera quan sát trong khu vực kho bị hỏng - Có mẩu thuốc lá ở cửa kho. - Không vệ sinh công nghiệp trong nhà kho (nhiều dây đai, vỏ hòm thuốc nổ đã sử dụng, ..) - Không thống kê, cập nhật số lượng, chủng loại VLNCN trong nhà kho vào bảng tổng hợp.",
+          "speech_id_question": "BQ_BX_VC_LT_3.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_3_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_4",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là ATVSV làm công tác giao nhận VLNCN, TCTN, anh/chị hãy trình bày những biện pháp cơ bản khi xử lý tình huống xe đang vận chuyển VLNCN, TCTN bị va chạm giao thông (va chạm với 1 xe khác, bị hư hỏng, không vận hành được)?",
+          "cau_tra_loi": "- Khi xảy ra sự cố trên, người điều khiển phương tiện và người áp tải hàng phải hết sức bình tĩnh, tổ chức bảo vệ hiện trường, cương quyết không cho người vào khu vực có hàng VLNCN, TCTN; sử dụng những dụng cụ sẵn có để phòng ngừa và dập cháy (nếu có), cảnh báo cho mọi người biết trên xe có VLNCN, TCTN. - Nhanh chóng thông báo cho các cơ quan chức năng gần nhất để phối hợp bảo vệ và báo cáo cho lãnh đạo đơn vị biết để điều động lực lượng, phương tiện đến ứng cứu, tìm cách đưa người bị thương đi cấp cứu (nếu có). - Khi lực lượng chức năng đến, người áp tải hàng hóa cùng lái xe có trách nhiệm báo cáo tình hình và yêu cầu trợ giúp bảo vệ an toàn xe vận chuyển VLNCN, TCTN - Khi lực lượng ứng cứu của đơn vị đến, người chỉ huy ứng cứu chỉ đạo lực lượng ứng cứu của đơn vị cùng với lái xe và áp tải thực hiện các nhiệm vụ sau: Triển khai tăng cường công tác bảo vệ xe và hàng hóa. Cùng với cơ quan Công an lập biên bản hiện trường để làm căn cứ, đồng thời có trách nhiệm tham gia công tác điều tra xử lý. Nếu phương tiện có thể sửa chữa được và vận hành đảm bảo an toàn thì tùy theo điều kiện có thể xin phép chở VLNCN, TCTN đi đến nơi giao hàng hoặc về nhập kho. Nếu xe bị hư hỏng không thể thể vận hành được thì tổ chức chuyển hàng sang xe ứng cứu, đồng thời đề nghị xin giấy phép vận chuyển để xe ứng cứu chuyển hàng về kho hoặc giao cho khách hàng an toàn.",
+          "speech_id_question": "BQ_BX_VC_LT_4.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_4_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_5",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Để bảo quản VLNCN đảm bảo an toàn, là thủ kho kiêm ATVSV, Anh (chị) phải thực hiện các quy định gì khi thực hiện nhiệm vụ?",
+          "cau_tra_loi": "Tự chỉnh đốn tác phong, đeo băng ATVSV. Đôn đốc, nhắc nhở, kiểm tra và cùng các thành viên trong tổ luôn thực hiện tốt các yêu cầu sau: - VLNCN phải được bảo quản trong các nhà kho đã được phép chứa VLNCN theo đúng thời hạn, quy định của kho. Mỗi nhà kho không được để quá số lượng VLNCN quy định. - VLNCN thuộc nhóm nào phải được bảo quản riêng nhóm ấy. Các loại VLNCN kém phẩm chất, hết hạn sử dụng, VLNCN gửi phải để riêng. - Các phương tiện, dụng cụ dùng để đóng mở các hòm VLNCN phải làm bằng vật liệu không phát sinh tia lửa khi sử dụng. Riêng các loại Clê, tuốc nơ vít được phép làm bằng thép. - Không được để VLNCN không có bao bì hoặc bao bì bị hỏng ở trong kho. Nếu có hiện tượng này phải bảo quản, thay thế bao bì ngay. - Các hòm chứa VLNCN nhóm A phải đặt trên giá, mỗi tầng giá chỉ được xếp một lượt hòm. Khoảng cách từ mặt trên của hòm đến đáy dưới của tầng giá trên ít nhất là 4cm. Chiều rộng của giá chỉ đặt đủ một hòm. Chiều cao của tầng giá trên cùng không quá 1,6m so với mặt sàn nhà kho. - Vật liệu nổ nhóm D, dây cháy chậm được xếp thành chồng theo kích thước sau: cao không quá 1,8m (tính từ nền nhà kho), rộng không quá 2m, dài không quá 5m. Các giá, các chồng chỉ được xếp các hòm cùng loại (trọng lượng và kích thước). - Các giá hoặc các chồng hòm phải đặt cách tường kho ít nhất 20cm. Giữa các giá hoặc các chồng phải để lối đi rộng ít nhất 1,3m. Được phép xếp hai giá sát nhau. - Khi sắp xếp VLNCN phải bảo đảm loại nhập trước được xuất trước, nhập sau xuất sau; loại có niên hạn sử dụng trước xuất trước, loại có niên hạn sử dụng sau xuất sau. - Trong các nhà kho bảo quản VLNCN, tiền chất thuốc nổ phải có bảng ghi số lượng, chủng loại, thời gian nhập kho, niên hạn, số lô sản xuất, sơ đồ khối và quy trình xuất nhập, bảo quản VLNCN. - VLNCN bảo quản trong kho phải được đảo chuyển đúng định kỳ đã quy định cho từng loại VLNCN. - Trong những ngày khô ráo, thủ kho, phụ kho VLNCN phải mở cửa thông gió nhà kho để đảm bảo trong kho luôn được thông thoáng. Ban đêm và những ngày mưa ẩm phải đóng chặt các cửa thông gió. - Các nhà kho chứa VLNCN đều phải có các biện pháp phòng chống mối mọt có hiệu quả, có biện pháp chống dột cho VLNCN khi mưa bão xảy ra. Kho được trang bị đủ phương tiện, dụng cụ chữa cháy.",
+          "speech_id_question": "BQ_BX_VC_LT_5.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_5_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_6",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là áp tải, giao nhận VLNCN kiêm ATVSV, Anh (chị) hãy hãy phân định trách nhiệm của mình và người điều khiển phương tiện? Hãy liên hệ tại đơn vị mình?",
+          "cau_tra_loi": "- Bảo quản hồ sơ lô hàng hóa trong quá trình vận chuyển - Kiểm đếm số lượng, chủng loại hoàng hóa trong quá trình nhận hàng. - Khóa và niêm phong kẹp chì thùng xe. - Dán các biển chưng an toàn trong quá trình vận chuyển - Chuẩn bị các dụng cụ, phương tiện chống lầy, chống trượt. - Quản lý công cụ hỗ trợ được giao trong quá trình vận chuyển. - Thông báo với lãnh đạo đơn vị, cơ quan chức năng khi có sự cố trên đường vận chuyển. - Chạy xe đúng tốc độ, đúng tuyến đường ghi trên giấy phép. - Kiểm đếm, bàn giao hàng hóa cho khách hàng. - Lập biên bản giao nhận hàng hóa theo quy định.",
+          "speech_id_question": "BQ_BX_VC_LT_6.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_6_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_7",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Là một thủ kho kiêm AT-VSV Anh (chị ) phải chấp hành nội quy an toàn bảo quản VLNCN như thế nào?",
+          "cau_tra_loi": "* Tự chỉnh đốn tác phong, đeo băng AT-VSV. Đôn đốc, nhắc nhở, kiểm tra và cùng các thành viên trong tổ luôn thực hiện tốt các yêu cầu sau: 1. VLNCN chỉ được phép bảo quản trong các nhà kho theo quy định của QCVN 01:2019/BCT. 2. VLNCN thuộc nhóm nào phải được bảo quản riêng nhóm ấy. Các loại VLNCN kém phẩm chất, hết hạn sử dụng hoặc VLNCN được gửi tại kho phải để riêng. 3. Các phương tiện, dụng cụ dùng để đóng, mở các hòm VLNCN phải làm bằng vật liệu không phát sinh tia lửa khi sử dụng. 4. Khi phát hiện thấy vỏ hòm, hộp, bao gói VLNCN bị hư hỏng hoặc ẩm ướt phải thay thế ngay. 5. Việc sắp xếp VLNCN trong kho phải tuân thủ đúng quy định của QCVN 01:2019/BCT. 6. Các phương tiện, dụng cụ dùng để đóng mở các hòm VLNCN phải làm bằng vật liệu không phát sinh tia lửa khi sử dụng. Riêng các loại Clê, tuốc nơ vít được phép làm bằng thép. 7. Khi sắp xếp, bảo quản VLNCN trong kho phải chú ý đến niên hạn sử dụng, đảm bảo không để tồn đọng các loại VLNCN quá thời hạn sử dụng. 8. Trong các nhà kho bảo quản VLNCN, tiền chất thuốc nổ phải có bảng ghi số lượng, chủng loại, thời gian nhập kho, thời gian sản xuất, số lô hàng. 9. VLNCN bảo quản trong kho phải được đảo chuyển đúng định kỳ đã quy định cho từng loại VLNCN. 10. Khi điều kiện thời tiết thuận lợi phải mở cửa thông gió nhà kho để đảm bảo trong kho luôn được thông thoáng. Ban đêm và những ngày mưa gió, ẩm ướt phải đóng chặt các cửa thông gió. 11. Các nhà kho chứa VLNCN phải có các nội quy an toàn, quy trình bốc xếp, xuất nhập, bảo quản VLNCN và phải trang bị hệ thống phương tiện, dụng cụ chữa cháy đảm bảo năng lực chữa cháy theo quy định.",
+          "speech_id_question": "BQ_BX_VC_LT_7.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_7_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_8",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Khi phát hiện thấy thuốc nổ bảo quản trong kho bị quá niên hạn, với trách nhiệm là AT-VSV anh chị xử lý như thế nào? Hãy liên hệ thực tế tại đơn vị Anh (chị) công tác?",
+          "cau_tra_loi": "1. Ghi lại thời gian sản xuất, số lượng và chủng loại thuốc nổ bị quá hạn vào sổ theo dõi. 2. Thông báo cho thủ kho hoặc người phụ trách kho VLNCN biết, đồng thời đề nghị tạm thời không xuất kho số VLNCN bị quá niên hạn trên. Báo cáo với thủ trưởng đơn vị trực tiếp tiến hành kiểm tra, xác định nguyên nhân và đánh giá chất lượng của số thuốc nổ này. 3. Đề xuất với lãnh đạo đơn vị các biện pháp xử lý đối với số thuốc nổ trên. Nhắc nhở và yêu cầu thủ kho phải có ý thức, trách nhiệm hơn trong quá trình theo dõi xuất nhập và bảo quản VLNCN, tránh để sự việc tương tự xảy ra.",
+          "speech_id_question": "BQ_BX_VC_LT_8.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_8_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_9",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đ/c hãy trình bày quy định an toàn khi vận chuyển, giao nhận, áp tải VLNCN ?",
+          "cau_tra_loi": "1. Người làm nhiệm vụ áp tải phải được huấn luyện và cấp giấy chứng nhận nghiệp vụ PCCC; giấy chứng nhận kỹ thuật an toàn VLNCN, giấy chứng nhận sử dụng công cụ hỗ trợ; giấy chứng nhận an toàn vệ sinh lao động và nghiệp vụ bảo vệ. 2. Chỉ được phép sử dụng các loại xe ô tô chở VLNCN đã được các cơ quan chức năng kiểm định và cấp phép. 3. Chỉ khi có đầy đủ chứng từ pháp lý của hàng hóa, giấy phép vận chuyển VLNCN của cơ quan chức năng cấp thì xe mới được vận chuyển VLNCN. 4. Chỉ những lái xe được huấn luyện và cấp giấy chứng nhận tiếp xúc VLNCN, huấn luyện nghiệp vụ PCCC, huấn luyện AT-VSLĐ mới được lái ô tô để vận chuyển VLNCN. 5. Xe chở VLNCN phải đảm bảo các tiêu chuẩn kỹ thuật cho phép. Thùng và thành xe được lót các tấm nệm cao su. Trên các xe có trang bị hệ thống thiết bị PCCC (theo quy định của Thông tư 148/2020/TT-BCA ngày 31/12/2020 của Bộ Công an) và lắp đặt hệ thống chống lầy, chống trượt. 6. Phải vận chuyển VLNCN theo đúng các tuyến đường và khung thời gian được các cơ quan quản lý nhà nước cho phép. 7. Trên xe ô tô vận chuyển VLNCN ngoài lái xe và người áp tải tuyệt đối không cho phép bất cứ người nào khác lên xe. 8. Các hòm, hộp bao bì VLNCN trên xe vận chuyển phải được xếp chèn khít nhau, ổn định chắc chắn, tránh hiện tượng xô lệch, va đập vào nhau.",
+          "speech_id_question": "BQ_BX_VC_LT_9.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_9_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_10",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đ/c hãy cho biết nội quy an toàn đối với lái xe vận chuyển VLNCN?",
+          "cau_tra_loi": "1. Chỉ cho phép các lái xe đã đào tạo được cấp chứng chỉ chuyên môn và qua lớp huấn luyện an toàn kiểm tra đạt yêu cầu về các quy định vận chuyển VLNCN, nghiệp vụ PCCC mới được làm nhiệm vụ lái xe chở VLNCN. 2. Trước khi làm nhiệm vụ chuyên chở VLNCN phải kiểm tra tình trạng kỹ thuật, các điều kiện an toàn của xe (phanh, còi , đèn, vỏ xe,...) kiểm tra bạt che hàng, cửa khóa hậu, khóa thành xe (hoặc kẹp chì) và các thiết bị PCCC, dán giấy \"M\" trên kính chắn gió và biểu trưng hàng nguy hiểm hai bên thành và phía sau của xe. 3. Chỉ cho phép chuyên chở các loại vật liệu nổ công nghiệp theo quy định trong giấy phép vận chuyển VLNCN. 5. Không được phép cho người không có nhiệm vụ được ngồi trên Cabin hoặc trên thùng xe khi đang vận chuyển VLNCN. Lái xe phải chuẩn bị đủ nhiên liệu (xăng, dầu) trước khi nhận hàng. Nghiêm cấm bốc hàng VLNCN lên xe mới lấy nhiên liệu (xăng, dầu). 6. Phải chấp hành nghiêm chỉnh luật lệ giao thông, đi theo đoàn, đúng tốc độ và đúng tuyến đường quy định, nhận và trả hàng đúng người, đúng nơi quy định. Chấp hành nghiêm chỉnh “Nội quy an toàn vận chuyển VLNCN bằng ô tô”. 7. Trường hợp dừng phương tiện để sửa chữa, xử lý (khi gặp sự cố trên đường) yêu cầu lái xe kết hợp với áp tải làm nhiệm vụ bảo vệ cảnh giới, ngăn chặn các hoạt động xung quanh có nguy cơ gây cháy nổ. Nếu gặp tai nạn hoặc những sự cố không thể khắc phục được phải thông báo ngay về cơ quan xin ý kiến chỉ đạo. Đặc biệt khi xảy ra cháy phải bình tĩnh, sử dụng các thiết bị để chữa cháy tại chỗ và thông báo cho mọi người xung quanh biết để di chuyển tới nơi an toàn. 8. Khi vận chuyển VLNCN phục vụ công tác nổ mìn phải tuân thủ nghiêm mọi mệnh lệnh của chỉ huy nổ mìn. 9. Phải báo cáo kịp thời, trung thực tình trạng kỹ thuật của xe để lãnh đạo đơn vị có kế hoạch duy tu, bảo dưỡng hoặc sửa chữa kịp thời. Thường xuyên vệ sinh phương tiện sau khi kết thúc công việc.",
+          "speech_id_question": "BQ_BX_VC_LT_10.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_10_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_11",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Đ/c hãy cho biết yêu cầu về phương tiện vận chuyển VLNCN (Đối với ôtô chở VLNCN)? (Theo Quy chuẩn 01:2019/BCT)",
+          "cau_tra_loi": "Xe ô tô chuyên chở VLNCN phải đảm bảo các yêu sau: . a. Thùng và thành xe phải có kết cấu chắc chắn và được lót tấm nệm cao su. Hàng hóa trên xe phải được che mưa nắng. Cửa thành, thùng xe phải có khóa chắc chắn. b. Phương tiện phải được cơ quan đăng kiểm và Công an phòng cháy chứa cháy kiểm tra cấp giấy phép vận chuyển. c. Phải trang bị đầy đủ phương tiện chữa cháy theo Thông tư 148/2020/ TT-BCA ngày 31/12/2020 và phương tiện chống lầy, chống trượt cho xe; Không được lắp dây dẫn điện và đèn chiếu sáng trong thùng xe chứa VLNCN. d. Tuyệt đối nghiêm cấm việc chở chung VLNCN với bất cứ loại vật tư, vật liệu nào khác trên xe. e. Số lượng VLNCN vận chuyển trên xe được quy định như sau: - Đối với VLNCN nhóm D và S cho phép chở đủ tải trọng của ô tô. - Đối với kíp, thuốc nổ có nitrô este lỏng, thuốc nổ đen chỉ cho phép chở không quá 2/3 tải trọng của xe. - Các hòm, hộp, bao bì VLNCN phải đặt nằm sát nhau và chồng khít lên nhau đảm bảo độ ổn định chắc trong quá trình vận chuyển và không được cao vượt quá chiều cao của thành xe ô tô. - Trường hợp vận chuyển kíp (trừ kíp vi sai phi điện), thuốc nổ có nitrô este lỏng, thuốc nổ đen không được xếp cao quá hai lớp hòm, hộp. - Cho phép vận chuyển chung thuốc nổ và kíp nổ trên cùng 01 xe ô tô nhưng phải đảm bảo các quy định theo QCVN 01:2019/BCT f. Chỉ được xếp dỡ VLNCN cho từng ô tô một; Ô tô chờ xếp dỡ VLNCN phải dừng, đỗ cách vị trí xếp, dỡ không nhỏ hơn 50 m.",
+          "speech_id_question": "BQ_BX_VC_LT_11.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_11_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_LT_12",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Lý thuyết",
+          "type_question": "Lý thuyết tự luận",
+          "image_id": null,
+          "use_image": "No",
+          "position_image": "Right",
+          "question_image": "No",
+          "cau_hoi": "Trình bày các Quy định khi thực hiện nhiệm vụ vận chuyển VLNCN bằng ô tô? (Theo Quy chuẩn 01:2019/BCT)",
+          "cau_tra_loi": "1. Phải có người áp tải khi vận chuyển VLNCN bằng phương tiện ô tô. Trường hợp xe ô tô đi thành đoàn (từ 2 xe trở lên), phải có ít nhất 2 người làm nhiệm vụ áp tải. Người áp tải thứ nhất phải luôn ở trên xe đầu tiên và người áp tải thứ hai ở trên xe cuối cùng. 2. Không được sử dụng các phương tiện sau để vận chuyển VLNCN: - Ô tô chạy bằng gas; - Ô tô buýt công cộng, xe ray điện; - Ô tô chạy điện vận chuyển kíp điện; - Ô tô tự đổ; - Rơ moóc do ô tô kéo khi vận chuyển kíp, thuốc nổ đen, các loại thuốc nổ có chứa ni tro este lỏng; - Dùng tời để vận chuyển kíp. 3. Xe chở VLNCN chỉ được dừng, đỗ cách khu vực đông dân cư ít nhất 200 m. Khi dừng, đỗ phải tắt động cơ và có biện pháp chèn chống trôi, trượt xe. 4. Trường hợp gặp đám cháy trên đường vận chuyển VLNCN, phải dừng phương tiện vận chuyển VLNCN ở khoảng cách không nhỏ hơn 200 m kể từ đám cháy và 50 m kể từ ngọn lửa trần. Chỉ được đi qua sau khi đám cháy đã được dập tắt hoàn toàn. 5. Không được vận chuyển chung VLNCN với các hàng hóa khác trên cùng phương tiện vận chuyển. 6. Tốc độ tối đa của xe ô tô vận chuyển VLNCN, tiền chất thuốc nổ thực hiện theo quy định của Luật Giao thông đường bộ. Khi đi trên đường cao tốc, tốc độ tối đa không được vượt quá 80km/h. 7. Trường hợp phương tiện vận chuyển đi thành đoàn (02 phương tiện trở lên), khoảng cách giữa các phương tiện vận chuyển được quy định như sau: Khi đi trên đường bằng và lúc dừng: 50m. Khi xuống hoặc lên dốc: 300 m.",
+          "speech_id_question": "BQ_BX_VC_LT_12.mp3",
+          "speech_id_answer": "BQ_BX_VC_LT_12_ans.mp3"
+        }
+      ],
+      "cau_hoi_hinh_anh": [
+        {
+          "id": "BQ_BX_VC_HA_2",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_2.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Không có đáp án cụ thể trong tài liệu, đây là lỗi chung cho nhiều hình ảnh trong phần này.",
+            "bien_phap_xu_ly": "Không có đáp án cụ thể trong tài liệu, đây là lỗi chung cho nhiều hình ảnh trong phần này.",
+            "ghi_nho": "Không có đáp án cụ thể trong tài liệu, đây là lỗi chung cho nhiều hình ảnh trong phần này."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_2.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_2_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_3",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_3.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người công nhân vận hành xe nâng đã vi phạm kỹ thuật an toàn khi thực hiện việc vận chuyển VLNCN. Cụ thể: Xếp VLNCN cồng kềnh, siêu vẹo và cao quá tầm quan sát của người vận hành xe nâng.",
+            "bien_phap_xu_ly": "- Yêu cầu người lái xe nâng dừng ngay việc di chuyển xe nâng, từ từ hạ càng xe nâng. - Căn chỉnh lại số VLNCN trên ca bản, đảm bảo độ ổn định và thấp hơn tầm quan sát của người vận hành xe nâng. - Cho phép người công nhân vận hành xe nâng tiếp tục thực hiện nhiệm vụ sau khi đã khắc phục hoàn toàn các sai sót trên.",
+            "ghi_nho": "- Thực hiện nghiêm túc các quy định khi sử dụng xe nâng để nâng và vận chuyển VLNCN. - Trình bày: 1đ"
+          },
+          "speech_id_question": "BQ_BX_VC_HA_3.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_3_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_4",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_4.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Những công nhân trên vi phạm nội quy an toàn khi làm việc trong khu vực kho chứa VLNCN. Cụ thể: Tổ chức chơi bài bạc và hút thuốc ngay tại kho chứa VLNCN.",
+            "bien_phap_xu_ly": "- Yêu cầu các công nhân trên dừng ngay việc chơi bài, dập tắt điếu thuốc đang hút. - Báo cáo trưởng ca các hành vi vi phạm trên và đề nghị trưởng ca tạm thời đình chỉ công việc của nhóm công nhân trên. - Kiến nghị với Quản đốc phân xưởng tổ chức huấn luyện lại công tác AT- VSLĐ cho số công nhân này.",
+            "ghi_nho": "- Chấp hành và thực hiện nghiêm túc nội quy an toàn khi tiếp xúc với VLNCN. - Nghiêm cấp chơi cờ bạc dưới mọi hình thức trong khi làm việc."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_4.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_4_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_5",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_5.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người vận hành xe nâng đã vi phạm nội quy an toàn khi để cho nhiều công nhân bám víu, ngồi trên xe nâng đang trong quá trình thực hiện việc nâng và chuyên chở VLNCN.",
+            "bien_phap_xu_ly": "- Yêu cầu người công nhân vận hành xe nâng phải dừng ngay việc di chuyển xe nâng. - Yêu cầu số công nhân đang ngồi hoặc bám víu trên xe nâng phải xuống xe. - Phân tích các nguy cơ dẫn đến mất an toàn từ các hành vi trên để mọi người rút kinh nghiệm không tái phạm. - Cho phép người vận hành xe nâng tiếp tục thực hiện nhiệm vụ khi người này đã nhận thức được vấn đề và chấp hành nghiêm những quy định khi vận hành.",
+            "ghi_nho": "- Luôn luôn chấp hành và thực hiện nghiêm các quy định khi vận hành xe nâng để đảm bảo an toàn."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_5.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_5_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_6",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_6.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Một số công nhân vi phạm nội quy an toàn khi tiếp xúc VLNCN. Cụ thể : không thực hiện đúng và đầy đủ BHLĐ cá nhân.",
+            "bien_phap_xu_ly": "- Yêu cầu số công nhân trên tạm thời dừng công việc. - Phân tích để mọi người thấy rõ tác dụng của BHLĐ trong việc phòng chống các yếu tố có hại trong quá trình sản xuất. - Yêu cầu số công nhân này phải mang đúng, mang đủ BHLĐ cá nhân đã được cấp phát. - Cho phép số công nhân trên tiếp tục thực hiện nhiệm vụ khi đã chấp hành nghiêm chế độ BHLĐ.",
+            "ghi_nho": "- Chấp hành và thực hiện nghiêm các quy định về BHLĐ, chủ động phòng tránh các yêu tố có hại phát sinh trong quá trình làm việc."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_6.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_6_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_7",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_7.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người công nhân này đã vi phạm kỹ thuật khi vận chuyển VLNCN. Cụ thể : Chất VLNCN cồng kềnh, sô lệch trên xe đẩy hàng.",
+            "bien_phap_xu_ly": "- Yêu cầu công nhân trên dừng ngay việc di chuyển xe. - Phân tích để người công nhân này thấy rõ các nguy cơ dẫn đến mất an toàn từ hành vi trên. - Yêu cầu người công nhân này xếp lại các hộp thuốc nổ đảm bảo chắc chắn, ổn định trên xe. - Cho phép số công nhân trên tiếp tục thực hiện nhiệm vụ khi đã nhận thức được vấn đề và nghiêm chỉnh chấp hành các điều mà mình vừa nhắc nhở.",
+            "ghi_nho": "- Chấp hành nghiêm các quy định khi vận chuyển VLNCN, chủ động đề phòng các nguy cơ dẫn đến mất an toàn."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_7.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_7_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_8",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_8.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Thủ kho đã vi phạm quy trình kỹ thuật khi sắp xếp VLNCN trong kho. Cụ thể: Sắp xếp các chủng loại VLNCN khác nhau trên cùng một kiêu hàng; VLNCN đặt trên mặt nền khà kho.",
+            "bien_phap_xu_ly": "- Yêu cầu người thủ kho tạm thời dừng việc xuất, nhập VLNCN. - Tổ chức sắp xếp lại kiêu hàng trên, đảm bảo các chủng loại VLNCN khác nhau được xếp trên các kiêu hàng riêng biệt. - Phải bảo quản ngay số VLNCN dưới mặt nền, đóng vào các hòm, hộp và đặt trên ca bản",
+            "ghi_nho": "- Phải luôn tuân thủ và chấp hành nghiêm túc quy trình kỹ thuật khi sắp xếp VLNCN trong kho. - Tuyệt đối không để VLNCN tiếp xúc trực tiếp mặt nền nhà kho vì có thể làm ảnh hưởng đến chất lượng nổ của VLNCN do bị ẩm ướt."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_8.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_8_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_9",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_9.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người thủ kho đã vi phạm quy trình kỹ thuật an toàn khi cấp phát VLNCN. Cụ thể: Ngồi cấp phát kíp trên nền kho; Các đầu dây của kíp dời nhau.",
+            "bien_phap_xu_ly": "- Yêu cầu người thủ kho trên dừng ngay việc cấp phát kíp này. - Yêu cầu người thủ kho phải nhanh chóng quấn chặt hai đầu dây của những chiếc kíp đã bị tháo dời và chỉ được cấp phát trên bàn phát kíp theo quy định.",
+            "ghi_nho": "- Cấp phát kíp phải đúng nơi quy định. Nơi cấp phát phải có bàn phát kíp đạt tiêu chuẩn kỹ thuật nhằm đảm bảo an toàn."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_9.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_9_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_10",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_10.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Kiêu hàng VLNCN đã không được sắp xếp đúng theo yêu cầu kỹ thuật của nhà sản xuất. Cụ thể: Sắp xếp các hòm hộp thuốc nổ ngược chiều nhau (mũi tên); Các bảng báo số lượng, chủng loại VLNCN trên kiêu hàng không được gọn gàng, nghiêm túc",
+            "bien_phap_xu_ly": "- Yêu cầu người thủ kho tổ chức đảo chuyển lại toàn bộ số hòm, hộp thuốc nổ trên, đảm bảo tất cả các hòm hộp phải được sắp xếp tuân thủ theo chiều quy định của nhà sản xuất. - Phân tích để người thủ kho thấy được các nguy cơ dẫn đến mất an toàn từ việc sắp xếp VLNCN sai quy định. - Yêu cầu bảng ghi số lượng, chủng loại VLNCN trên kiêu hàng phải được đặt để gọn gàng, dễ quan sát.",
+            "ghi_nho": "- Tuyệt đối tuân thủ các quy định của nhà sản xuất khi sắp xếp hàng hóa VLNCN trong các nhà kho và trên các phương tiện vận chuyển."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_10.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_10_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_11",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_11.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Kiêu hàng VLNCN đã không được sắp xếp đúng theo yêu cầu kỹ thuật. Cụ thể: Kiêu thuốc nổ đã bị siêu vẹo, đổ sệ vào tường nhà kho. - Làm ảnh hưởng đến chất lượng hoặc dễ dẫn đến nhầm lẫn khi cấp phát VLNCN.",
+            "bien_phap_xu_ly": "- Yêu cầu người thủ kho tổ chức đảo chuyển lại toàn bộ số bao thuốc nổ trên, đảm bảo tất cả các bao thuốc nổ phải được sắp xếp ngay ngắn, ổn định.",
+            "ghi_nho": "- Tuyệt đối chấp hành QCVN 01-2019/BCT trong việc bảo quản VLNCN tại các nhà kho. Quy định kích thước các kiêu hàng VLNCN: - Dài không quá 5m - Rộng không quá 2m - Cao không quá 1.8m (tính từ nền nhà kho)"
+          },
+          "speech_id_question": "BQ_BX_VC_HA_11.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_11_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_12",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_12.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người thủ kho đã vi phạm nội quy an toàn khi bảo quản, cấp phát VLNCN. Cụ thể: Sử dụng dụng cụ (gọng gà) làm bằng kim loại đen để đóng mở hòm chứa VLNCN.",
+            "bien_phap_xu_ly": "- Yêu cầu người thủ kho dừng ngay việc sử dụng dụng cụ trên vào việc tháo mở nắp hòm VLNCN. - Yêu cầu người thủ kho phải sử dụng các loại dụng cụ làm bằng kim loại màu (nhôm, đồng…) để tháo mở nắp hòm chứa VLNCN - Phân tích để người thủ kho thấy được các nguy cơ dẫn đến mất an toàn từ việc sử dụng tùy tiện các loại dụng cụ không đảm bảo tiêu chuẩn kỹ thuật để tháo mở nắp hòm VLNCN.",
+            "ghi_nho": "- Tuyệt đối tuân thủ các quy định khi sử dụng các loại dụng cụ trong quá trình bảo quản, cấp phát VLNCN."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_12.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_12_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_13",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_13.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người lái xe đã vi phạm nội quy an toàn về việc đỗ dừng phương tiện chờ bốc xếp VLNCN. Cụ thể: Đỗ xe chắn ngang phương tiện đang bốc xếp VLNCN tại cửa kho); Không thực hiện nghiêm túc trang phục BHLĐ; Sử dụng điện thoại di động trong khu vực kho chứa VLNCN.",
+            "bien_phap_xu_ly": "- Yêu cầu người lái xe dừng ngay việc gọi điện. Tạm thời giao chiếc điện thoại này cho lực lượng bảo vệ quản lý. - Yêu cầu người này thực hiện đúng và đầy đủ BHLĐ cá nhân. - Phải di chuyển xe về đúng vị trí an toàn chờ bốc xếp VLNCN.",
+            "ghi_nho": "- Thực hiện nghiêm nội quy an toàn khi tiếp xúc với VLNCN. - Tuyệt đối chấp hành các quy định về vận chuyển VLNCN của QCVN 01-2019/BCT."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_13.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_13_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_14",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_14.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người lái xe đã vi phạm nghiêm trọng quy định về vận chuyển VLNCN. Cụ thể: Chở VLNCN trên cabin xe.",
+            "bien_phap_xu_ly": "- Yêu cầu người lái xe và nhân viên giao nhận phải dừng ngay việc di chuyển xe. Đưa toàn bộ số VLNCN trên ra khỏi cabin, bố trí phương tiện khác chuyên chở đúng quy định. - Lập biên bản xác nhận hành vi vi phạm trên. - Đề nghị Thủ trưởng đơn vị tạm thời đình chỉ công việc, xem xét kỷ luật đối với người lái xe và nhân viên giao nhận trên.",
+            "ghi_nho": "- Thường xuyên nhắc nhở và yêu cầu CBCNV phải thực hiện nghiêm các quy định về vận chuyển VLNCN của QCVN 01-2019/BCT."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_14.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_14_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_15",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_15.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người lái xe chở VLNCN không thực hiện đúng các quy định an toàn khi dừng, đỗ xe. Cụ thể: Xe đỗ dừng bên trái chiều di chuyển; Không chèn bánh xe chở VLNCN khi đỗ, dừng xe; xe chưa che phủ bạt khi đã có hàng.",
+            "bien_phap_xu_ly": "- Yêu cầu người lái xe phải chèn ngay bánh xe trước khi làm các công việc khác. - Phải dừng, đỗ xe đúng chiều theo quy định; - Phải căng bạt che hàng theo đúng quy định; - Phân tích để người lái xe thấy rõ được các nguy cơ dẫn đến mất an toàn khi không chèn bánh xe., đặc biệt ở các vị trí có độ dốc cao.",
+            "ghi_nho": "- Thường xuyên nhắc nhở người lái xe phải thực hiện việc chèn bánh xe khi dừng, đỗ xe, đặc biệt ở các vị trí có độ dốc cao."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_15.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_15_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_16",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_16.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót ? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người lái xe đã vi phạm quy định về vận chuyển VLNCN. Cụ thể: Chở VLNCN cùng vật tư khác trên xe.",
+            "bien_phap_xu_ly": "- Yêu cầu dừng ngay xe. - Di dời các loại các vật tư, vỏ bảo bì ra khỏi xe chở VLNCN - Phân tích để người công nhân lái xe, người giao nhận áp tải thấy rõ các nguy cơ dẫn đến mất an toàn khi chở chung VLNCN với các loại vật tư, vật liệu khác.",
+            "ghi_nho": "- Tuyệt đối chấp hành các quy định về vận chuyển VLNCN của QCVN 01-2019/BCT"
+          },
+          "speech_id_question": "BQ_BX_VC_HA_16.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_16_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_17",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_17.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "Người lái xe chở VLNCN không thực hiện các quy định an toàn khi dừng, đỗ xe. Cụ thể: Đỗ, dừng xe chở VLNCN gần khu vực đông dân cư. (Vi phạm QCVN 01-2019/BCT).",
+            "bien_phap_xu_ly": "- Yêu cầu người lái xe phải nhanh chóng di chuyển xe ra khỏi khu vực dân cư (nếu gặp). - Yêu cầu lãnh đạo đơn vị xử lý kỷ luật người lái xe đã vi phạm các quy định về dừng, đỗ xe chở VLNCN trên đường giao thông.",
+            "ghi_nho": "- Thường xuyên tuyên truyền, nhắc nhở người lái xe thực hiện nghiêm túc các quy định: Không dừng, đỗ xe chở VLNCN trong các khu vực đông dân cư. - Phải đi theo đúng tuyến đường đã ghi trong giấy phép vận chuyển M."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_17.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_17_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_18",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_18.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Không mang đủ trang bị bảo vệ cá nhân (mũ, gang tay, giầy, khẩu trang).. - Thái độ làm việc của những công nhân trên không tốt. - Ngồi lên bao, thùng chứa thuốc nổ; xếp hai chủng loại hàng khác nhau trên cùng một kiện hàng; xếp quá cao so với quy định (theo QCVN 01:2019/BCT không quá 1,6m so với sàn nhà kho).",
+            "bien_phap_xu_ly": "- Nhắc nhờ thành viên khi làm việc phải mang đủ, mang đúng trang bị bảo vệ cá nhân đã được cấp phát. - Yêu cầu công nhân khi nhập, xuất VLNCN không được ngồi dẫm lên bao, thùng thuốc nổ. - Không được xếp chung nhiều loại thuốc nổ trên cùng một kiêu hàng, không được xếp VLNCN cao hơn so với QCVN 01:2019/BCT - Cho số công nhân trên học lại nội quy an toàn, nếu đủ điều kiện mới tiếp tục bố trí công việc.",
+            "ghi_nho": "- Phải mang đủ, mang đúng trang bị bảo vệ cá nhân đã được cấp phát khi thực hiện nhiệm vụ. - Thực hiện nghiêm các nội quy, quy định an toàn trong bốc xếp VLNCN. Không được ngồi lên các hòm, bao chứa VLNCN trong khi bốc xếp. - Tăng cường công tác kiểm tra và tự kiểm tra, quan tâm công tác đào tạo, huấn luyện công tác AT theo quy định."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_18.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_18_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_19",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_19.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Không mang đủ trang bị bảo vệ cá nhân (mũ, gang tay, giầy, khẩu trang).. - Bảo vệ đi xe máy vào khu vực đang thực hiện việc xuất hàng. - Công nhân bốc xếp đứng trên thùng xe ô tô, đạp chân vào cần nâng hạ của xe nâng khi xe nâng đang hoạt động mất an toàn.",
+            "bien_phap_xu_ly": "- Yêu cầu những công nhân trên khi làm việc phải mang đủ, mang đúng trang bị bảo vệ cá nhân đã được cấp phát, đảm bảo an toàn mới tiếp tục làm việc. - Yêu cầu Bảo vệ dắt xe máy để đúng nới quy định, công nhân xuống xe ra khu vực nguy hiểm để đảm bảo an toàn mới tiếp tục làm việc. - Cho số công nhân trên học lại nội quy an toàn, nếu đủ điều kiện mới tiếp tục bố trí công việc.",
+            "ghi_nho": "- Phải mang đủ, mang đúng phương tiện bảo vệ cá nhân đã được cấp phát khi thực hiện nhiệm vụ. - Nghiêm cấm việc mang xe máy vào khu vực có nguy cơ gây ra cháy nổ. Khi làm việc, bốc dỡ, vận chuyển VLNCN phải chấp hành đúng nội quy, quy định, quy trình và biện pháp an toàn tiếp xúc VLNCN. - Thường xuyên kiểm tra kịp thời phát hiện những nguy cơ gây mất an toàn trong các khâu sản xuất từ đó đưa ra các biện pháp tối ưu nhằm đảm bảo an toàn trong quá trình sản xuất."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_19.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_19_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_20",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_20.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Không mang đúng, đủ phương tiện bảo vệ cá nhân đã được cấp phát theo quy định (mũ, gang tay, giầy, khẩu trang). - Tác phong làm việc không nghiêm túc (Phanh ngực, cởi giầy, ngồi trước cửa nhà kho); vác hòm VLN qua đầu một số công nhân đang ngồi rất nguy hiểm (có nguy cơ hòm thuốc nổ rơi vào đầu gây mất an toàn). - ATVSV không biểu hiện thái độ nhắc nhở thành viên của mình trong khi làm việc..",
+            "bien_phap_xu_ly": "- Yêu cầu các thành viên khi làm việc phải mang đúng, đủ trang bị bảo vệ cá nhân đã được cấp phát. - Yêu cầu công nhân trong quá trình làm việc phải nghiêm túc, bảo hộ cá nhân phải gọn gàng, không được ngồi trước cửa nhà kho gây mất an toàn, cản trở công việc xuất, nhập VLNCN.",
+            "ghi_nho": "- Trong khi thực hiện nhiệm vụ phải mang đủ, mang đúng phương tiện bảo vệ cá nhân đã được cấp phát. - Là ATVSV phải thường xuyên nhắc nhở, đôn đốc công nhân khi làm việc phải thực hiện đúng nội quy, quy định an toàn trong bảo quản bốc xếp VLNCN. - Tăng cường công tác kiểm tra và tự kiểm tra, quan tâm công tác đào tạo, huấn luyện công tác AT theo quy định."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_20.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_20_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_21",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_21.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Không mang đúng, đủ phương tiện bảo vệ cá nhân đã được cấp phát theo quy định. Thủ kho trèo lên giá để kíp để xuất hàng sai quy định an toàn. - Để kíp xuống nền nhà kho sai quy định, vị trí xuất, kiểm đếm kíp lẻ không đúng quy định. - Thùng kíp để dưới nền nhà kho, vật dụng khác (túi sách) để trong nhà kho...",
+            "bien_phap_xu_ly": "- Yêu cầu thủ kho khi làm việc phải mang túi sách ra ngoài kho chứa VLNCN; không được trèo lên giá để kíp để xuất hàng. - Phải tuân thủ nghiêm ngặt quy định an toàn trong bảo quản, xuất, nhập VLNCN: + Phải đặt kíp lên bàn chuyên dùng để xuất kíp, không được để xuống nền nhà kho gây mất an toàn. Phải mang ra khu vực xuất kíp lẻ ở ngoài nhà kho. + Khi đếm, kiểm tra kíp xong phải cho vào thùng chuyên dùng đựng kíp để đảm bảo an toàn.",
+            "ghi_nho": "- Không mang các vật chất cấm vào trong kho VNLCN theo quy định. - Thực hiện bất cứ nhiệm vụ gì cũng phải quan tâm, chú ý đến công tác và biện pháp an toàn. Thường xuyên kiểm tra, giám sát công tác an toàn trong xuất nhập VLNCN."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_21.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_21_ans.mp3"
+        },
+        {
+          "id": "BQ_BX_VC_HA_22",
+          "category": "Bảo quản, Bốc xếp, Vận chuyển",
+          "subcategory": "Hình ảnh",
+          "type_question": "Câu hỏi hình ảnh",
+          "image_id": "images/BQ_BX_VC_HA_22.jpg",
+          "use_image": "Yes",
+          "position_image": "Center",
+          "question_image": "Yes",
+          "cau_hoi": "1. Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? 2. Biện pháp xử lý của anh (chị)? 3. Qua tình huống trên anh (chị) thấy cần ghi nhớ điều gì?",
+          "cau_tra_loi": {
+            "sai_sot": "- Thủ kho, công nhân không mang đúng, mang đủ trang bị phương tiện bảo vệ cá nhân đã được cấp phát (quần áo, dày, khẩu trang, găng tay,...). - Để VLNCN xuống nền nhà kho; đứng, ngồi lên hòm thuốc nổ sai với quy định an toàn. - Để vật tư PCTT-TKCN không đúng nơi quy định",
+            "bien_phap_xu_ly": "- Yêu cầu thành viên khi làm việc phải mang đủ, mang đúng trang bị bảo vệ cá nhân đã được cấp phát. - Yêu cầu thủ kho, công nhân bốc xếp phải tuân thủ quy định an toàn không được để VLNCN xuống nền nhà kho; khi nhập, xuất VLNCN không được ngồi dẫm lên hòm thuốc nổ. - Phải vệ sinh nhà kho sạch sẽ, di chuyển dụng cụ, vật tư ra ngoài để đảm bảo an toàn, thông thoáng. - Yêu cầu công nhân học lại nội quy an toàn.",
+            "ghi_nho": "- Phải mang đủ, mang đúng trang bị bảo vệ cá nhân đã được cấp phát khi thực hiện nhiệm vụ. - Thực hiện nghiêm các nội quy, quy định an toàn trong bốc xếp VLNCN. Không được ngồi lên các hòm chứa VLNCN trong khi bốc xếp. - Tăng cường công tác kiểm tra và tự kiểm tra, quan tâm công tác đào tạo, huấn luyện công tác AT theo quy định."
+          },
+          "speech_id_question": "BQ_BX_VC_HA_22.mp3",
+          "speech_id_answer": "BQ_BX_VC_HA_22_ans.mp3"
+        }
+      ]
+    }
+  }
+}
