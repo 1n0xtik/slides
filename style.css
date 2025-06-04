@@ -1,3 +1,16 @@
+.header-progress-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6px;
+    background: linear-gradient(90deg, #10b981, #34d399); /* Initial green color */
+    width: 100%; /* JS will update this */
+    z-index: 100; /* Ensure it's above the header */
+    transition: width 0.3s linear, background 0.3s linear;
+}
+.u-hidden-initially {
+    display: none !important;
+}
 /* General Styles */
 body, html {
     height: 100%;
@@ -663,28 +676,6 @@ body, html {
 /* --- New Background Styles --- */
 
 /* Image Backgrounds with Overlay */
-/* Solid Overlay */
-.bg-image-1-solid {
-    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg1.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.bg-image-2-solid {
-    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg2.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.bg-image-3-solid {
-    background-image: linear-gradient(rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7)), url('images/bg3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
 /* Gradient Overlay (#f59e0b to white) */
 .bg-image-1-gradient {
     background-image: linear-gradient(to bottom right, rgba(245, 158, 11, 0.7), rgba(255, 255, 255, 0.7)), url('images/bg1.jpg');
@@ -707,23 +698,44 @@ body, html {
     background-repeat: no-repeat;
 }
 
-/* Diagonal Stripe Overlay (#f59e0b and white) */
+/* Diagonal Stripe Overlay (Amber - White - Amber bands) */
 .bg-image-1-stripes {
-    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg1.jpg');
+    background-image: linear-gradient(45deg,
+                        rgba(245, 158, 11, 0.7) 0%,
+                        rgba(245, 158, 11, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 100%),
+                      url('images/bg1.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .bg-image-2-stripes {
-    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg2.jpg');
+    background-image: linear-gradient(45deg,
+                        rgba(245, 158, 11, 0.7) 0%,
+                        rgba(245, 158, 11, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 100%),
+                      url('images/bg2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .bg-image-3-stripes {
-    background-image: repeating-linear-gradient(45deg, rgba(245, 158, 11, 0.7), rgba(245, 158, 11, 0.7) 10px, rgba(255, 255, 255, 0.7) 10px, rgba(255, 255, 255, 0.7) 20px), url('images/bg3.jpg');
+    background-image: linear-gradient(45deg,
+                        rgba(245, 158, 11, 0.7) 0%,
+                        rgba(245, 158, 11, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 33.33%,
+                        rgba(255, 255, 255, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 66.66%,
+                        rgba(245, 158, 11, 0.7) 100%),
+                      url('images/bg3.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -777,3 +789,25 @@ body, html {
     }
 }
 */
+
+/* --- External SVG Backgrounds --- */
+.bg-svg-pattern-1 {
+    background-image: url('images/svg (1).svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-svg-pattern-2 {
+    background-image: url('images/svg (2).svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bg-svg-pattern-3 {
+    background-image: url('images/svg (3).svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

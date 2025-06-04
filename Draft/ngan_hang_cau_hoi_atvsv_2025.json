@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "title": "Ngân hàng câu hỏi thi An toàn vệ sinh viên giỏi 2025",
+    "organization": "Công ty công nghiệp Hóa chất mỏ Thái Nguyên - Vinacomin",
+    "year": 2025,
+    "total_questions": 87,
+    "created_date": "2025-01-28",
+    "version": "1.0"
+  },
+  "categories": [
+    {
+      "id": "chinh_sach_phap_luat",
+      "name": "Chính sách Pháp luật ATVSLĐ",
+      "question_count": 5
+    },
+    {
+      "id": "y_te",
+      "name": "Y tế - Sơ cấp cứu",
+      "question_count": 3
+    },
+    {
+      "id": "pccc",
+      "name": "Phòng cháy chữa cháy",
+      "question_count": 7
+    },
+    {
+      "id": "khai_thac_mo",
+      "name": "Khai thác mỏ",
+      "question_count": 15
+    },
+    {
+      "id": "bao_quan_van_chuyen",
+      "name": "Bảo quản bốc xếp vận chuyển VLNCN",
+      "question_count": 25
+    },
+    {
+      "id": "bao_ve",
+      "name": "Công tác bảo vệ",
+      "question_count": 32
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category": "chinh_sach_phap_luat",
+      "subcategory": "Quyền và nghĩa vụ ATVSV",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy cho biết An toàn vệ sinh viên có bao nhiêu quyền lợi và nghĩa vụ?",
+      "options": {
+        "a": "04 quyền và 05 nghĩa vụ",
+        "b": "05 quyền và 04 nghĩa vụ",
+        "c": "03 quyền và 05 nghĩa vụ",
+        "d": "04 quyền và 06 nghĩa vụ"
+      },
+      "correct_answer": "a",
+      "explanation": "Theo quy định, ATVSV có 04 quyền và 05 nghĩa vụ",
+      "image_placeholder": null
+    },
+    {
+      "id": 2,
+      "category": "chinh_sach_phap_luat",
+      "subcategory": "Hoạt động mạng lưới ATVSV",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy cho biết nội dung hoạt động hàng ngày trước ca làm việc của mạng lưới An toàn vệ sinh viên?",
+      "options": {
+        "a": "Kiểm tra điều kiện môi trường làm việc",
+        "b": "Nhắc nhở người lao động trong tổ sử dụng đầy đủ phương tiện bảo vệ cá nhân",
+        "c": "Cả 2 nội dung trên"
+      },
+      "correct_answer": "c",
+      "explanation": "Hoạt động trước ca bao gồm cả kiểm tra môi trường và nhắc nhở sử dụng BVCN",
+      "image_placeholder": null
+    },
+    {
+      "id": 3,
+      "category": "chinh_sach_phap_luat",
+      "subcategory": "Mục đích hoạt động ATVSV",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy cho biết hoạt động của mạng lưới an toàn vệ sinh viên nhằm?",
+      "options": {
+        "a": "Giúp Ban chấp hành công đoàn cơ sở thực hiện tốt công tác ATVSLĐ",
+        "b": "Giúp người sử dụng lao động thực hiện tốt công tác ATVSLĐ",
+        "c": "Đẩy mạnh phong trào 'Xanh -Sạch- Đẹp, Bảo đảm ATVSLĐ' tại doanh nghiệp",
+        "d": "Cả 3 câu đều đúng"
+      },
+      "correct_answer": "d",
+      "explanation": "Hoạt động ATVSV nhằm tất cả 3 mục đích trên",
+      "image_placeholder": null
+    },
+    {
+      "id": 4,
+      "category": "chinh_sach_phap_luat",
+      "subcategory": "Cấp cứu điện giật",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy đánh dấu câu sai trong nội dung cấp cứu ngừng tim, ngừng thở do điện giật?",
+      "options": {
+        "a": "Nếu nạn nhân bất tỉnh ngừng tim, ngừng thở do điện giật thì phải được tách khỏi nguồn điện rồi mới tiến hành cấp cứu",
+        "b": "Để nạn nhân nằm ngửa trên mặt phẳng cứng, cấp cứu viên quỳ sát bên nạn nhân, đặt gót tay lên xương ức, cách mỏm ức khoảng 3cm",
+        "c": "Nếu chỉ có một cấp cứu viên thì cứ ép tim 15 lần trong 11-12 giây lại quay ra thổi ngạt 2 lần trong 3-4 giây",
+        "d": "Nếu nạn nhân bị các chấn thương khác kèm theo thì ưu tiên xử lý vết thương trước"
+      },
+      "correct_answer": "d",
+      "explanation": "Phải ưu tiên cứu sống (hồi sức tim phổi) trước, sau đó mới xử lý vết thương",
+      "image_placeholder": null
+    },
+    {
+      "id": 5,
+      "category": "chinh_sach_phap_luat",
+      "subcategory": "Cấp cứu ngộ độc thực phẩm",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy đánh dấu câu sai trong nội dung cấp cứu người ngộ độc thực phẩm?",
+      "options": {
+        "a": "Người ngộ độc thực phẩm thường có biểu hiện mệt mỏi, khó chịu, có thể đau bụng, buồn nôn, tiêu chảy sau khi ăn vài giờ",
+        "b": "Cho bệnh nhân uống nước gừng nóng",
+        "c": "Cho bệnh nhân uống thuốc đau bụng mua ở hiệu thuốc",
+        "d": "Không để bệnh nhân ăn gì cho tới khi sức khỏe ổn định trở lại"
+      },
+      "correct_answer": "b,c",
+      "explanation": "Không được tự ý cho uống nước gừng nóng hoặc thuốc đau bụng khi ngộ độc",
+      "image_placeholder": null
+    },
+    {
+      "id": 6,
+      "category": "y_te",
+      "subcategory": "Kỹ thuật đặt garô",
+      "type": "multiple_choice",
+      "question": "Anh (chị) đánh dấu nội dung không chính xác trong kỹ thuật thực hành đặt garô trường hợp cụt hoặc đứt động mạch 1/3 giữa cẳng tay?",
+      "options": {
+        "a": "Ấn động mạch cánh tay cầm máu tạm thời",
+        "b": "Quấn mảnh gạc vòng quanh nơi định đặt garô, trên vết thương 2-3cm. Quấn garô lên mảnh gạc đủ 4 vòng",
+        "c": "Xử lý vết thương",
+        "d": "Ghi phiếu garô và cài vào ngực nạn nhân"
+      },
+      "correct_answer": "b",
+      "explanation": "Quy định về số vòng quấn garô không chính xác",
+      "image_placeholder": null
+    },
+    {
+      "id": 7,
+      "category": "y_te",
+      "subcategory": "Cố định gãy xương",
+      "type": "multiple_choice",
+      "question": "Anh (chị) đánh dấu nội dung không chính xác trong kỹ thuật thực hành cố định gẫy xương cẳng tay tay hở?",
+      "options": {
+        "a": "Xử lý vết thương: Rửa và sát khuẩn vết thương, thấm khô, đặt gạc vô khuẩn che kín",
+        "b": "Đặt nẹp: Đặt hai nẹp ở mặt trước và sau cẳng tay, từ khuỷu tới khớp 3 ngón",
+        "c": "Đặt đệm lót",
+        "d": "Buộc dây cố định nẹp: Buộc trên và dưới ổ gãy, cố định cổ tay"
+      },
+      "correct_answer": "d",
+      "explanation": "Không đúng kỹ thuật buộc dây cố định nẹp",
+      "image_placeholder": null
+    },
+    {
+      "id": 8,
+      "category": "y_te",
+      "subcategory": "Cấp cứu say nắng",
+      "type": "multiple_choice",
+      "question": "Anh (chị) đánh dấu câu sai trong nội dung cấp cứu say nắng, say nóng dưới đây?",
+      "options": {
+        "a": "Đưa nạn nhân vào nơi thoáng mát, uống nước mát, chườm mát, quạt mát để dần hồi phục",
+        "b": "Nếu tình trạng nặng hoặc không cải thiện sau khi sơ cứu thì chuyển nhanh đến bệnh viện",
+        "c": "Chườm đá lạnh hoặc cho nạn nhân uống thuốc hạ sốt để chóng hạ nhiệt"
+      },
+      "correct_answer": "c",
+      "explanation": "Không được chườm đá lạnh hoặc dùng thuốc hạ sốt đột ngột khi say nắng",
+      "image_placeholder": null
+    },
+    {
+      "id": 9,
+      "category": "pccc",
+      "subcategory": "Yếu tố cháy",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy cho biết những yếu tố nào sau đây cần thiết cho sự cháy?",
+      "options": {
+        "a": "Chất cháy, ô xy",
+        "b": "Ô xy, nguồn nhiệt",
+        "c": "Nguồn nhiệt",
+        "d": "Chất cháy, ô xy, nguồn nhiệt"
+      },
+      "correct_answer": "d",
+      "explanation": "Ba yếu tố cần thiết cho sự cháy: chất cháy, ô xy và nguồn nhiệt",
+      "image_placeholder": null
+    },
+    {
+      "id": 10,
+      "category": "pccc",
+      "subcategory": "Điều kiện hình thành cháy",
+      "type": "multiple_choice",
+      "question": "Anh/Chị hãy cho biết để hình thành sự cháy cần phải có những điều kiện nào?",
+      "options": {
+        "a": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; thời gian tiếp xúc phải đủ lớn; năng lượng của nguồn nhiệt phải đủ lớn; nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy",
+        "b": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; thời gian tiếp xúc phải đủ lớn; nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy",
+        "c": "Chất cháy, chất oxy hóa và nguồn nhiệt phải trực tiếp tiếp xúc với nhau; năng lượng của nguồn nhiệt phải đủ lớn; nồng độ chất cháy và chất oxy hóa phải nằm trong giới hạn nồng độ bốc cháy"
+      },
+      "correct_answer": "a",
+      "explanation": "Điều kiện đầy đủ nhất để hình thành sự cháy",
+      "image_placeholder": null
+    },
+    {
+      "id": 11,
+      "category": "khai_thac_mo",
+      "subcategory": "Khoảng cách an toàn nổ mìn",
+      "type": "essay",
+      "question": "Khoảng cách an toàn trong nổ mìn được tính toán trên các cơ sở nào? Khi khoảng cách an toàn tính toán thực tế có giá trị khác so với khoảng cách an toàn tại bảng quy định trong QCVN 01:2019/BCT thì ta phải chọn kết quả nào?",
+      "options": null,
+      "correct_answer": "Khoảng cách an toàn được tính theo: 1) Cho công trình về chấn động, 2) Về đá văng, 3) Cho người và công trình về tác động của sóng không khí. Chọn kết quả lớn nhất để đảm bảo an toàn.",
+      "explanation": "Nguyên tắc chọn khoảng cách xa nhất để đảm bảo an toàn tuyệt đối",
+      "image_placeholder": null
+    },
+    {
+      "id": 12,
+      "category": "khai_thac_mo",
+      "subcategory": "Nguyên nhân mất an toàn nổ mìn",
+      "type": "essay",
+      "question": "Đồng chí hãy cho biết các nguyên nhân có thể dẫn đến mất an toàn trong nổ mìn?",
+      "options": null,
+      "correct_answer": "Bố trí người làm việc không đúng, chưa được đào tạo, khu vực bãi nổ chuẩn bị không cẩn thận, không sơ tán người thiết bị kịp thời, hút thuốc, đốt lửa gần bãi nổ, vi phạm quy trình...",
+      "explanation": "Các nguyên nhân chủ yếu gây mất an toàn trong công tác nổ mìn",
+      "image_placeholder": null
+    },
+    {
+      "id": 13,
+      "category": "bao_quan_van_chuyen",
+      "subcategory": "Điều kiện vận chuyển VLNCN",
+      "type": "essay",
+      "question": "Đ/c hãy cho biết điều kiện an toàn khi vận chuyển VLNCN, TCTN bằng đường bộ (ô tô)?",
+      "options": null,
+      "correct_answer": "Phương tiện có đủ điều kiện pháp luật giao thông, giấy chứng nhận vận chuyển hàng nguy hiểm, biển cấm, sơ đồ cứu hộ, giấy phép vận chuyển do Công an cấp. Người lái và áp tải đủ 18 tuổi, không có tiền án, có giấy phép phù hợp, đã tập huấn.",
+      "explanation": "Điều kiện bắt buộc về phương tiện và con người khi vận chuyển VLNCN",
+      "image_placeholder": null
+    },
+    {
+      "id": 14,
+      "category": "bao_ve",
+      "subcategory": "Nội quy cơ quan",
+      "type": "essay",
+      "question": "Nêu những nội dung cơ bản của nội quy cơ quan? Là ATVSV làm nhiệm vụ bảo vệ cơ quan, đồng chí phải làm gì để duy trì thực hiện tốt nội quy đó?",
+      "options": null,
+      "correct_answer": "Nội quy: Tới đúng giờ, mặc đúng trang phục, không làm việc riêng, không mang vũ khí chất nổ, cấm mê tín cá độ, giữ bí mật, đoàn kết. ATVSV phải: Kiểm tra thường xuyên, nhắc nhở vi phạm, báo cáo cấp trên, làm gương.",
+      "explanation": "Nội quy cơ bản và trách nhiệm ATVSV trong duy trì nội quy",
+      "image_placeholder": null
+    },
+    {
+      "id": 15,
+      "category": "bao_quan_van_chuyen",
+      "subcategory": "Hình ảnh vi phạm bốc xếp",
+      "type": "image_analysis",
+      "question": "Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? Biện pháp xử lý? Ghi nhớ?",
+      "options": null,
+      "correct_answer": "Sai sót: Sử dụng điện thoại khi bốc xếp, không đủ BHLĐ, kéo lê bao thuốc nổ. Biện pháp: Dừng ngay, tịch thu điện thoại, yêu cầu đủ BHLĐ, hướng dẫn đúng cách bốc xếp. Ghi nhớ: Cấm thiết bị thu phát sóng, bốc xếp nhẹ nhàng.",
+      "explanation": "Phân tích vi phạm và cách xử lý trong bốc xếp VLNCN",
+      "image_placeholder": "image_boc_xep_001.jpg"
+    },
+    {
+      "id": 16,
+      "category": "khai_thac_mo",
+      "subcategory": "Hình ảnh vi phạm nổ mìn",
+      "type": "image_analysis",
+      "question": "Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? Biện pháp xử lý? Ghi nhớ?",
+      "options": null,
+      "correct_answer": "Sai sót: Thiếu bua cát, thuốc nổ vứt bừa bãi, máy móc chưa di chuyển, cảnh báo chưa đúng. Biện pháp: Chuẩn bị bua cát đầy đủ, dọn dẹp khu vực, di chuyển máy móc, cắm cờ đúng quy định. Ghi nhớ: Đảm bảo điều kiện an toàn trước nạp mìn.",
+      "explanation": "Nhận diện và xử lý vi phạm trong chuẩn bị nổ mìn",
+      "image_placeholder": "image_no_min_001.jpg"
+    },
+    {
+      "id": 17,
+      "category": "bao_ve",
+      "subcategory": "Hình ảnh vi phạm bảo vệ",
+      "type": "image_analysis",
+      "question": "Quan sát hình ảnh trên, là ATVSV anh (chị) thấy có gì sai sót? Biện pháp xử lý? Ghi nhớ?",
+      "options": null,
+      "correct_answer": "Sai sót: Bảo vệ ngủ gác, dùng điện thoại, trang phục không đúng, không kiểm tra niêm phong. Biện pháp: Đánh thức, kiểm điểm, chấn chỉnh trang phục, kiểm tra nhiệm vụ. Ghi nhớ: Tác phong nghiêm túc, không làm việc riêng.",
+      "explanation": "Xử lý vi phạm của nhân viên bảo vệ",
+      "image_placeholder": "image_bao_ve_001.jpg"
+    }
+  ]
+}

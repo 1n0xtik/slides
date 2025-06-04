@@ -29,8 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const timesUpPopupEl = document.getElementById('timeUpOverlay'); // Updated ID for new overlay
 
     // --- Configuration ---
-    const DEBUG_MODE = true; // Set to true to enable debug mode
-    const USE_SPEECH = false; // Set to false to disable all speech synthesis & audio file playback
+    const DEBUG_MODE = false; // Set to true to enable debug mode
+    const USE_SPEECH = true; // Set to false to disable all speech synthesis & audio file playback
     const SHOW_IMAGE_PLACEHOLDER_ON_ERROR = true; // If true, shows a placeholder if an image fails to load
     const IMAGE_PLACEHOLDER_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23cbd5e1'%3E%3Cpath d='M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z'/%3E%3C/svg%3E"; // Simple image icon
     const DELAY_NO_SPEECH_QUESTION = 1000; // ms to wait after showing question if no speech
@@ -54,17 +54,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const OPTION_KEYS = ['a', 'b', 'c', 'd', 'e', 'g']; // Possible option keys
     const backgroundStyles = [
         'bg-default',               // The original gradient
-        'bg-image-1-solid',
         'bg-image-1-gradient',
         'bg-image-1-stripes',
-        'bg-image-2-solid',
         'bg-image-2-gradient',
         'bg-image-2-stripes',
-        'bg-image-3-solid',
         'bg-image-3-gradient',
         'bg-image-3-stripes',
         'bg-abstract',
-        'bg-wave'
+        'bg-wave',
+        'bg-svg-pattern-1',
+        'bg-svg-pattern-2',
+        'bg-svg-pattern-3'
     ];
 
     // Initialize AudioContext
@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (questionSectionEl) questionSectionEl.classList.add('u-hidden-initially');
         if (optionsContainerEl) optionsContainerEl.classList.add('u-hidden-initially');
-        if (imageWrapperEl) imageWrapperEl.classList.add('u-hidden-initially');
+        if (imageAreaEl) imageAreaEl.classList.add('u-hidden-initially');
         
         if (questionSectionEl) {
             questionSectionEl.style.opacity = '0'; // Explicitly set for animation start
@@ -433,8 +433,27 @@ document.addEventListener('DOMContentLoaded', () => {
             // const progressRatio = timeLeft / totalDuration; // Not directly setting dashoffset here anymore
 
             // Update circle color based on Test1.html CSS classes
-            timerCircleEl.classList.remove('warning', 'danger');
-            timerTextEl.classList.remove('warning', 'danger');
+            timerCircleEl.style.stroke = '#fff'; // Default stroke color from Test1.html CSS
+            timerTextEl.style.color = '#fff'; // Default text color
+
+            const headerProgressBarEl = document.getElementById('headerProgressBar');
+            const progressPercentage = (timeLeft / totalDuration) * 100;
+
+            if (timeLeft <= Math.floor(totalDuration * 0.33)) {
+                timerCircleEl.style.stroke = '#FF4444'; // Red for danger
+                timerTextEl.style.color = '#FF4444';
+                if (headerProgressBarEl) headerProgressBarEl.style.background = '#FF4444';
+            } else if (timeLeft <= Math.floor(totalDuration * 0.66)) {
+                timerCircleEl.style.stroke = '#FFA500'; // Orange for warning
+                timerTextEl.style.color = '#FFA500';
+                 if (headerProgressBarEl) headerProgressBarEl.style.background = '#FFA500';
+            } else {
+                timerCircleEl.style.stroke = '#10b981'; // Green
+                timerTextEl.style.color = '#10b981';
+                 if (headerProgressBarEl) headerProgressBarEl.style.background = '#10b981';
+            }
+
+            if (headerProgressBarEl) headerProgressBarEl.style.width = `${progressPercentage}%`;
 
             if (timeLeft <= Math.floor(totalDuration * 0.33)) { 
                 timerCircleEl.classList.add('danger');
@@ -487,7 +506,12 @@ document.addEventListener('DOMContentLoaded', () => {
         const imageWrapperEl = document.getElementById('imageWrapper'); 
         
         // Start animations simultaneously
+        if (questionSectionEl) questionSectionEl.classList.remove('u-hidden-initially');
+        if (optionsContainerEl) optionsContainerEl.classList.remove('u-hidden-initially');
+        if (imageAreaEl && slideImageEl.complete) imageAreaEl.classList.remove('u-hidden-initially');
+
         animateElement(questionSectionEl, 'question-appear');
+        if (imageAreaEl && slideImageEl.complete) animateElement(imageAreaEl, 'image-appear');
         if (slideImageEl.src && imageAreaEl && !imageAreaEl.classList.contains('hidden') && imageWrapperEl) {
             console.log(`%cstartQuestionSequence: Attempting to animate image. Conditions: slideImageEl.src="${slideImageEl.src}", imageAreaEl exists=${!!imageAreaEl}, imageAreaEl.hidden=${imageAreaEl.classList.contains('hidden')}, imageWrapperEl exists=${!!imageWrapperEl}`, "color: green; font-weight: bold;");
             animateElement(imageWrapperEl, 'image-appear');
